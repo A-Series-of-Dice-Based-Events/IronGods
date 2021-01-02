@@ -1,10 +1,21 @@
-# Title of AP
+# Fires of Creation lv1-4
 
-[A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
-
-A repository to hold tools for those wishing to run and convert Title of AP to Pathfinder 2E.
-
-The README.md files can have simple breakdowns of modified DCs for various tasks brought up in the Adventure while the individual folders can hold the files for the monster/NPC stat blocks.
+## Part 2: Black Hill Caves
+### A1: Entry Caves - Threat Low
+- **Skills:**
+	 - **Identify Alchemy Action -** As foul as it is, it doesn't seem to be dangerous.
+	 - **Perception: DC20 -** There appear to have been several people that climbed onto the five-foot-high ledge
+	 - **Athletics: DC10 -** Required to climb the five-foot-high ledge, although if rope is used, the DC is reduced to 5
+ - **Creatures:** 
+    - 3x [Flash Beetles](https://2e.aonprd.com/Monsters.aspx?ID=49) (20xp x3[60])
+ - **Loot:** none
+ 
+### A2: First Expedition's Fate - Threat Low
+ - **Creatures:** 
+    - TBD
+ - **Loot - Perception - DC20** The dead halflings have
+  - 12 silver
+  - [Minor Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
 
 ## Recommended Tool
 
