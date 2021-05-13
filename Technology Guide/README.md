@@ -38,7 +38,7 @@ To see an overview of the traits that were added, please click [here](/Traits/RE
 
 ## Silverdisks
 
-Silverdisks are [batteries](Gear/README.md#battery) that no longer function. They are often used as a secondary currency in Numeria.
+Silverdisks are [batteries^](Gear/README.md#battery) that no longer function. They are often used as a secondary currency in Numeria.
 
 One silverdisk is worth 1gp.
 
@@ -50,7 +50,7 @@ One silverdisk is worth 1gp.
 
 You can identify the nature of a technological item with 10 minutes of testing. If your attempt is interrupted in any way, you must start over. Attempt a Engineering Lore check. You may instead make Crafting check at a -5 penalty.
 
-If you have a [zipstick](Gear/README.md#zipstick) on hand you can expend a use to gain a +2 circumstance bonus to your check.
+If you have a [zipstick^](Gear/README.md#zipstick) on hand you can expend a use to gain a +2 circumstance bonus to your check.
 
 The DC of the item being identified is the same as its listed Craft DC.
 
@@ -153,7 +153,7 @@ as inside cover of the Technology Guide.
 
 ## Technological Radiation
 
-Technological radiation is a mostly invisible hazard that suffuses a spherical area and can extend into objects. Each area of radiation has an associated intensity stepping up from Low to Medium to High to Severe, and the areas work the same way as listed in the [Technology Guide](https://www.d20pfsrd.com/gamemastering/traps-hazards-and-special-terrains/hazards/environmental-hazards/radiation/).
+Technological radiation is a mostly invisible hazard that suffuses a spherical area and can extend into objects. Each area of radiation has an associated intensity stepping up from Low to Medium to High to Severe, and the areas work the same way as listed on *[Technology Guide, pg. 55-56](https://www.d20pfsrd.com/gamemastering/traps-hazards-and-special-terrains/hazards/environmental-hazards/radiation/)*.
 
 Whenever a creature enters or starts their turn in an area of technological radiation, they make a single Fortitude save. On a failure, they become drained and afflicted with Radiation Poisoning, with the value and stage dependent on the intensity of radiation they were exposed to. This drained condition cannot be lowered by a full-night's rest.
 
@@ -172,7 +172,7 @@ Severe    | 30      | 5             | Stage 5
 
 ## Numerian Fluids
 
-This is a section from [Numeria, Land of Fallen Stars](https://paizo.com/products/btpy978l?Pathfinder-Campaign-Setting-Numeria-Land-of-Fallen-Stars) that can come up in this adventure path.
+This is a section from *[Numeria, Land of Fallen Stars, pg. 28-29](https://paizo.com/products/btpy978l?Pathfinder-Campaign-Setting-Numeria-Land-of-Fallen-Stars)* that can come up in this adventure path.
 
 **Traits** Alchemical, Drug, Ingested
 

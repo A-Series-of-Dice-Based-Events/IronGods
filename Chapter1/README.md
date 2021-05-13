@@ -18,7 +18,7 @@
 ## General GM Information
 
 - While the skills have been converted into appropriate action checks, the DCs themselves have not been converted into PF2e's DCs. You may wish to adjust them to fit if they aren't playing well.
-- Links that end with a carat (^) are custom converted content and will take you to their statblock in this repository. Links without it take you to [Archives of Nethys](https://2e.aonprd.com/) or another SRD source.
+- Links that end with a carat (^) are custom converted content and will take you to their statblock in this repository. Links without it should take you to [Archives of Nethys](https://2e.aonprd.com/) or another SRD source.
 
 ## Advancement Track
 
@@ -141,7 +141,7 @@ Encounters | Story Awards | Total
 ### A9. Junkyard Cave (60XP, Low Threat)
 
 - **Creatures:**
-  - 1x [Elite Skulk named Sef](http://2e.aonprd.com/Monsters.aspx?ID=805)
+  - 1x [Elite Skulk named Sef](Creatures/README.md#Sef)
 - **Loot:** If PCs finish Sef's request
   - A Brown-level access keycard for each PC.
   - 49x silverdisks
@@ -565,6 +565,9 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
 ## Torch Gazetteer
 
 ![Torch](Torch/Torch.png)
+
+- [JSON](Torch/Torch.json)
+- [PDF](Torch/Torch.pdf)
 
 ### 2. General Store
 

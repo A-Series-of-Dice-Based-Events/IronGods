@@ -6,7 +6,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 5; **Price** 120 gp; **AC Bonus** +2; **Dex Cap** +2; **Check Penalty** -2; **Speed Penalty** -5 feet;
 
-**Category** Medium; **Strength** 10; **Bulk** L; **Group** Tech; **Traits** Rare, Consumable, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Category** Medium; **Strength** 14; **Bulk** L; **Group** Tech; **Traits** Rare, Consumable, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
 
 **Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 30
 

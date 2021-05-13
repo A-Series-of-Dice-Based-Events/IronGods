@@ -14,9 +14,9 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Flare Gun
 
-**Traits** Uncommon, Light, [Technology^](/Traits/README.md#technology)
+**Traits** Light, [Technology^](/Traits/README.md#technology)
 
-**Level** 3; **Price** 18 gp; **Bulk** L; **Hands** 1; **Craft DC** 22;
+**Level** 3; **Price** 18 gp; **Bulk** L; **Hands** 1; **Craft DC** 18;
 
 *Note: A flare gun has been changed from a weapon to adventuring gear.*
 

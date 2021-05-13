@@ -1,14 +1,16 @@
 # New Traits
 
+Links with a carat (^) designate new entries from this conversion, and will take you to their statblock in this conversion guide.
+
 ## General Traits
 
 ### Technology
 
-Items with the Technology trait are considered technological items and use the [Identify Technology](#identify-technology) action to identify.
+Items with the Technology trait are considered technological items and use the [Identify Technology^](/Technology%20Guide/README.md#identify-technology) action to identify.
 
-Creatures with the Technology trait is powered by or constructed through technological means, and is affected by effects that specifically target technology such as *[rebuke technology^](#rebuke-technology)*. Most Robots have the Technology trait, but Androids do not.
+Creatures with the Technology trait is powered by or constructed through technological means, and is affected by effects that specifically target technology such as *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*. Most Robots have the Technology trait, but Androids do not.
 
-Hazards or other devices with the Technology trait impose a -5 penalty on all Disable a Device checks against it if the creature making the check does not use an [e-pick](Gear/README.md#e-pick) charge in the attempt.
+Hazards or other devices with the Technology trait impose a -5 penalty on all Disable a Device checks against it if the creature making the check does not use an [e-pick^](Gear/README.md#e-pick) charge in the attempt.
 
 ## Creature Traits
 
@@ -38,7 +40,7 @@ Extraterrestrials typically have the Rare trait.
 
 ### Grenade
 
-A grenade is a device designed to detonate after being thrown. See [Grenade](../Gear/README.md#grenade) for more details.
+A grenade is a device designed to detonate after being thrown. See [Grenade^](/Technology%20Guide/Gear/README.md#grenade) for more details.
 
 ### Module
 
@@ -46,7 +48,7 @@ Items with the Module trait usually need to be slotted in another item before th
 
 ### Pharmaceutical
 
-A Pharmaceutical is typically an alchemical consumable that is activated by either ingesting them, or having them injected into a creature with the use of a [medlance^](../Gear/README.md#medlance).
+A Pharmaceutical is typically an alchemical consumable that is activated by either ingesting them, or having them injected into a creature with the use of a [medlance^](/Technology%20Guide/Gear/README.md#medlance). To identify a pharmaceutical, use the [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) action.
 
 ### Powered
 

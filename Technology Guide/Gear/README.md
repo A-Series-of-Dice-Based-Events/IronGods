@@ -74,7 +74,7 @@ A flashlight emits bright light in a 60 foot cone and dim light in the next 60 f
 
 **Hands** 1; **Bulk** L; **Craft DC** 20
 
-Grenades are explosives that can be thrown anywhere within 60 feet, with an area of effect as a 20-foot burst. However it is similar to beads on a [necklace of fireballs](http://2e.aonprd.com/Equipment.aspx?ID=449) where if it is a particularly difficult situation the GM may ask you to make an attack roll (treat as a bomb: martial proficiency with a 20 foot range increment).
+Grenades are explosives that can be thrown anywhere within 60 feet, with an area of effect as a 20-foot burst. However it is similar to beads on a *[necklace of fireballs](http://2e.aonprd.com/Equipment.aspx?ID=449)* where if it is a particularly difficult situation the GM may ask you to make an attack roll (treat as a bomb: martial proficiency with a 20 foot range increment).
 
 Grenades need to be armed before activating, and go off at the start of the user's next turn after being primed - regardless if it has been thrown or not. When a grenade goes off, targets in the area of effect usually have to make a basic Reflex save; the DC and effect depends on the grenade.
 
@@ -182,7 +182,7 @@ Mark V   | 10    | 850 gp | +5    | Rare     | 32
 
 ## Trauma Pack
 
-**Traits** Uncommon, [Pharmaceutical^](/Traits/README.md#pharmaceutical),
+**Traits** Uncommon, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical)
 
 **Level** 4; **Price** 30 gp; **Hands** 2; **Bulk** 1; **Craft DC** 20
 
