@@ -11,7 +11,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Cardioamp
 
-**Additional Traits** Healing
+**Additional Traits** Rare, Healing, Poison
 
 **Level** 9; **Price** 250 gp; **Craft DC** 30
 
@@ -28,7 +28,7 @@ A living creature injected with cardioamp must make a DC 22 Fortitude saving thr
 
 ## Cureall
 
-**Additional Traits** Healing
+**Additional Traits** Uncommon, Healing
 
 **Level** 8; **Price** 85 gp; **Craft DC** 25
 
@@ -40,17 +40,17 @@ Cureall also lowers the value of the target's clumsy, drained, enfeebled and stu
 
 **Additional Traits** Healing
 
-Grade | Level | Cost   | Craft DC
-------|-------|--------|----------
-I     | 4     | 20 gp  | 23
-II    | 5     | 30 gp  | 24
-III   | 6     | 55 gp  | 25
-IV    | 7     | 75 gp  | 26
-V     | 8     | 100 gp | 27
+Grade | Level | Cost   | Craft DC | Rarity
+------|-------|--------|----------|--------
+I     | 4     | 20 gp  | 23       | Uncommon
+II    | 5     | 30 gp  | 24       | Uncommon
+III   | 6     | 55 gp  | 25       | Uncommon
+IV    | 7     | 75 gp  | 26       | Rare
+V     | 8     | 100 gp | 27       | Rare
 
 ## Torpinol
 
-**Additional Traits** Mental
+**Additional Traits** Uncommon, Ingested, Mental, Poison
 
 **Level** 4; **Price** 18 gp per dose; **Craft DC** 25
 

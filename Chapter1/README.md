@@ -571,7 +571,7 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
 
 ### 2. General Store
 
-**Wares** adventuring gear, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=47)*, *[staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351)*, 5 [trauma packs^](../Technology%20Guide/Gear/README.md#trauma-pack), a *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [technomancy^](../Technology%20Guide/README.md#technomancy)* and a [filter mask^](../Technology%20Guide/Gear/README.md#filter-mask)
+**Wares** adventuring gear, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=47)*, *[staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351)*, 5 [trauma packs^](../Technology%20Guide/Gear/README.md#trauma-pack), a *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [technomancy^](../Technology%20Guide/README.md#technomancy)* and a [filter mask^](../Technology%20Guide/Gear/README.md#filter-mask)
 
 **Inkrit Kollisun** (N female human shopkeep 3, Indifferent, Perception DC 18, Will DC 20)
 
@@ -581,7 +581,9 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
 
 **Wares** [ion tape^](../Technology%20Guide/Gear/README.md#ion-tape), [zipstick^](../Technology%20Guide/Gear/README.md#zipstick), [universal serum](Items/README.md#universal-serum), 2 doses of [vitality serum^](Items/README.md#vitality-serum) and 5 [batteries^](../Technology%20Guide/Gear/README.md#battery)
 
-**[Sanvil Trett](Creatures/README.md#sanvil-trett)** (CE male human magus 3, Indifferent, Perception DC 17, Will DC 16) Sanvil will appear to support the PCs if they mention they are exploring the caves under Black Hill.
+**Technological Appraisal** Sanvil Trett offers to identify technological finds for the PCs using his Engineer Lore skill for 1 gp per object.
+
+**[Sanvil Trett](Creatures/README.md#sanvil-trett)** (CE male human magus 3, Indifferent, Perception DC 17, Will DC 16) Sanvil will appear to support the PCs potentially through discounts if they mention they are exploring the caves under Black Hill.
 
 ### 12. Tempting Tonics
 

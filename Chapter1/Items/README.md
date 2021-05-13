@@ -26,7 +26,7 @@ On a critical hit, the inferno pistol deals 1 persistent fire damage.
 
 **Level** 4; **Price** 140 gp; **Damage** 1d6 B; **Bulk** 1; **Hands** 1;
 
-**Category** Simple; **Group** Club; **Traits** Uncommon, Mental, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Category** Simple; **Group** Club; **Traits** Uncommon, Mental, [Powered^](/Traits/README.md#powered), Shove, [Technology^](/Traits/README.md#technology)
 
 **Capacity** 10; **Craft DC** 20
 
@@ -56,7 +56,7 @@ When activated the helmet grants the wearer a +2 status bonus on Perception chec
 
 **Traits** Rare, Alchemical, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical), Consumable
 
-**Level** 5; **Price** 24 gp; **Usage** held in 1 hand; **Bulk** L; **Craft DC** 25
+**Level** 5; **Price** 24 gp; **Usage** held in 1 hand; **Bulk** -; **Craft DC** 25
 
 **Activate** (1 action) Interact; **Effect** You tap on one of the panels on the injector and change what colour is selected.
 
@@ -72,6 +72,6 @@ Afterwards, the target becomes fatigued for 1 hour. If the target receives more 
 
 **Traits** Rare, Alchemical, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical), Consumable
 
-**Level** 5; **Price** 30 gp; **Usage** held in 1 hand; **Bulk** L; **Craft DC** 25
+**Level** 5; **Price** 30 gp; **Usage** held in 1 hand; **Bulk** -; **Craft DC** 25
 
-**Activate** (1 action) Interact; **Effect** You inject the serum into a willing creature. The creature gains immunity to low-severity radiation for 1 hour, and a +3 status bonus on all saving throws against other radiation effects for the duration. In addition, it can remove the enfeebled and sickened conditions caused by Radiation Poisoning
+**Activate** (1 action) Interact; **Effect** You inject the serum into a willing creature. The creature gains immunity to low-severity radiation for 1 hour, and a +3 status bonus on all saving throws against other radiation effects for the duration. In addition, it can remove the enfeebled condition caused by Radiation Poisoning
