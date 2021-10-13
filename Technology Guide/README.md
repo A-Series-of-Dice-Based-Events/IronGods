@@ -64,7 +64,7 @@ The DC of the item being identified is the same as its listed Craft DC.
 
 **Requirements:** You have alchemist's tools.
 
-You can identify the nature of a pharmaceutical item with 10 minutes of testing. If your attempt is interrupted in any way, you must start over. Attempt a Engineering Lore check. You may instead make Crafting check at a -5 penalty.
+You can identify the nature of a pharmaceutical item with 10 minutes of testing. If your attempt is interrupted in any way, you must start over. Attempt a Medicine check. You may instead make Crafting check at a -5 penalty.
 
 The DC of the item being identified is the same as its listed Craft DC.
 

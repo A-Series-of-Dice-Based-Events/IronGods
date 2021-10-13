@@ -45,3 +45,51 @@ The concept of life on other planets far beyond Golarion has always fascinated y
 
 * Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 * You are trained in the Occultism skill and the Xenobiology Lore skill. You gain the Oddity Identification skill feat.
+
+## Animal Companions and Familiars
+
+Three new alien animals are introduced in [*Pathfinder Adventure Path #85: Fires of Creation (Iron Gods 1 of 6) (PFRPG)*](https://paizo.com/products/btpy95br).
+
+### Petromin
+
+[Petromin^](/Chapter1/Creatures/README.md#Petromin) are unfortunately too small to count as animal companions, but can be chosen as a familiar.
+
+### Pilo
+
+Your companion is a [Pilo^](/Chapter1/Creatures/README.md#Pilo), a bright yellow, six-legged animal covered in sharp quills.
+
+* **Size** Small
+* **Melee** (1 action) quills, **Damage** 1d6 piercing plus pilo poison
+* **Str** +3, **Dex** +2, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0
+* **Hit Points** 8
+* **Skill** Survival
+* **Senses** low-light vision, scent (imprecise, 30 feet)
+* **Speed** 35 feet
+* **Special** The pilo's quills are coated in pilo poison, inflicting clumsy 1 to an opponent until the start of your next turn on a hit with the quill Strike.
+* **Support Benefit** Your pilo embeds its quills in your foes. Until the start of your next turn, your Strikes that deal damage a creature in your pilo's reach also deal 1d4 persistent bleed damage. If your pilo is nimble or savage, the persistent bleed damage increases to 2d4.
+* **Advanced Maneuver** Roll Out
+
+![Roll Out](RollOut.png)
+
+### Sorico
+
+Your companion is a [Sorico^](/Chapter1/Creatures/README.md#Sorico), a constantly mud-caked rodent with spade-like claws on its forelimbs.
+
+* **Size** Small
+* **Melee** (1 action) jaws, **Damage** 1d6 piercing
+* **Melee** (1 action) claw (agile, finesse), **Damage** 1d4 slashing
+* **Str** +2, **Dex** +3, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0
+* **Hit Points** 8
+* **Skill** Stealth
+* **Senses** low-light vision, scent (imprecise, 30 feet)
+* **Speed** 30 feet, burrow 10 feet
+* **Support Benefit** Your sorico kicks sand into your enemies' eyes. Until the start of your next turn, any creature within your sorico's reach that you damage with Strikes becomes blinded. A creature affected by this blinded condition can end it by spending an action with the manipulate trait to rub the sand out of its eyes.
+* **Advanced Maneuver** Dust Cloud
+
+![Dust Cloud](DustCloud.png)
+
+## Religion
+
+### Casandalee
+
+While [*Pathfinder Lost Omens: Gods and Magic*](https://paizo.com/products/btq021wf?Pathfinder-Lost-Omens-Gods-Magic) offer Casandalee as a potential deity choice for clerics and champions, this adventure path is set before the Iron Goddess achieved divinity. Players hoping to choose her as a deity may consider [Brigh](http://2e.aonprd.com/Deities.aspx?ID=33) or [Irori](http://2e.aonprd.com/Deities.aspx?ID=10) as a replacement.
