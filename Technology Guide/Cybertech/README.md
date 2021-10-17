@@ -12,13 +12,13 @@ Each piece of cybertech also fits into a specific body slot listed in its statbl
 
 After a piece of cybertech has been installed in a creature, its bulk no longer counts towards that creature's encumbrance.
 
-To install or remove cybertech on a living creature, use one of the following actions. Removing a piece of cybertech from a dead body requires no Medicine check but takes a number of rounds equal to its Implantation score.
+To install or remove cybertech on a living creature, you need to have the Craft Cybernetics feat, which grants you access to the following actions. Removing a piece of cybertech from a dead body requires no Medicine check but takes a number of rounds equal to its Implantation score.
 
 ### Install Cybertech
 
 **Traits:** Downtime, Concentration, Manipulate
 
-**Requirements:** Trained in Medicine. You are wearing or holding [Healer's Tools](https://2e.aonprd.com/Equipment.aspx?ID=25).
+**Requirements:** You are wearing or holding [Healer's Tools](https://2e.aonprd.com/Equipment.aspx?ID=25).
 
 You take a number of hours equal to a piece of cybertech's Implantation score to attempt to install it into a creature. The creature must be unconscious or otherwise helpless for the entire duration, and if this time is interrupted in any way, the procedure fails. Make a Medicine check against the cybertech's Install DC.
 
@@ -31,7 +31,7 @@ You take a number of hours equal to a piece of cybertech's Implantation score to
 
 **Traits:** Downtime, Concentration, Manipulate
 
-**Requirements:** Trained in Medicine. You are wearing or holding [Healer's Tools](https://2e.aonprd.com/Equipment.aspx?ID=25).
+**Requirements:** You are wearing or holding [Healer's Tools](https://2e.aonprd.com/Equipment.aspx?ID=25).
 
 You take a number of hours equal to a piece of cybertech's Implantation score to attempt to remove it from a creature. The creature must be unconscious or otherwise helpless for the entire duration, and if this time is interrupted in any way, the procedure fails. Make a Medicine check against the cybertech's Install DC with a +10 circumstance bonus.
 

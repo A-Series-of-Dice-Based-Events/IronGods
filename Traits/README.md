@@ -52,7 +52,7 @@ A Pharmaceutical is typically an alchemical consumable that is activated by eith
 
 ### Powered
 
-Items with the Powered trait require electronic power to activate, which usually come in the form of battery charges but can also be gotten directly from a power generator's yield (See full rules on power generators in *[Technology Guide, pg. 62](https://paizo.com/products/btpy98i0?Pathfinder-Campaign-Setting-Technology-Guide)*). Most powered items list a 'Capacity' to indicate how many charges it can store, and a 'Power Use' entry to show how many charges are used per activation.
+Items with the Powered trait require electronic power to activate, which usually come in the form of battery charges but can also be gotten directly from a power generator's yield (See full rules on power generators in *[Technology Guide, pg. 62](https://paizo.com/products/btpy98i0?Pathfinder-Campaign-Setting-Technology-Guide)*). Most powered items list a 'Capacity' entry to indicate how many charges it can store, and a 'Power Use' entry to show how many charges are used per activation.
 
 ### Signal
 
