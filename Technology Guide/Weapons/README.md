@@ -1,6 +1,6 @@
 # Technological Weapons
 
-This section is likely going to be the most controversial of all the conversions as everyone has a different take on how firearms should work (at least until Guns and Gears comes out). So for the most part these are only going to be conversions for levels, price and bulk.
+This section is likely going to be the most controversial of all the conversions as everyone has a different take on how firearms should work. So for the most part these are only going to be conversions for levels, price and bulk.
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
@@ -14,13 +14,11 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Flare Gun
 
-**Traits** Light, [Technology^](/Traits/README.md#technology)
+**Level** 3; **Price** 18 gp; **Damage** 1d8 fire; **Bulk** L; **Hands** 1; **Range** 240 feet;
 
-**Level** 3; **Price** 18 gp; **Bulk** L; **Hands** 1; **Craft DC** 18;
+**Traits** Light, Consumable, Gadget, [Technology^](/Traits/README.md#technology)
 
-*Note: A flare gun has been changed from a weapon to adventuring gear.*
-
-Any creatures within 20 feet of a detonated flare must succeed at a DC 12 Fortitude save throw each round or be dazzled by the intense light for as long as they remain in the area. Creatures adjacent to a lit flare are also blinded for 1 round on a failed save. A flare can also be extinguished with a 2-action interact action.
+**Craft DC** 18;
 
 ## Stun Gun
 

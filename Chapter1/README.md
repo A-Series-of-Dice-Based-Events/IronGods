@@ -121,9 +121,9 @@ Encounters | Story Awards | Total
 - **Skills:**
   - **Climb (Athletics): DC10 -** Climb down the 10-foot ledge.
   - **Perception: DC12 -** Notices strange filaments growing along Gerrol's body.
-  - **Recall Knowledge (Dungeoneering Lore): DC16 -** Recognises filaments as [russet mold](Hazards/README.md#russet-mold)
+  - **Recall Knowledge (Dungeoneering Lore): DC16 -** Recognises filaments as [russet mold^](Hazards/README.md#russet-mold)
   - **Recall Knowledge (Torch Lore): DC12 -** Remembers Gerrol recently proposed to Emilia Otterbie.
-  - **Request (Diplomacy): DC15 -** Convincing Emilia to cremate Gerrol's body to stop a [vegepygmy](Creatures/README.md#vegepygmy) spawning.
+  - **Request (Diplomacy): DC15 -** Convincing Emilia to cremate Gerrol's body to stop a [vegepygmy^](Creatures/README.md#vegepygmy) spawning.
 - **Hazard:** [Brown Mold](http://2e.aonprd.com/Hazards.aspx?ID=35)
 - **Loot:** Gerrol Sonder's body
   - 1x *[+1 hand crossbow](http://2e.aonprd.com/Weapons.aspx?ID=69)* with 5 Bolts
@@ -607,7 +607,7 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
 
 ### 21. Torch Guildhouse (Level 12)
 
-**Wares** weapons and armor, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [cold siccatite](https://2e.aonprd.com/Equipment.aspx?ID=1426) [longsword](http://2e.aonprd.com/Weapons.aspx?ID=31)*, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [mithral](http://2e.aonprd.com/Equipment.aspx?ID=377) [heavy crossbow](http://2e.aonprd.com/Weapons.aspx?ID=70)*, [adamantine bolts](http://2e.aonprd.com/Rules.aspx?ID=765), *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [adamantine](http://2e.aonprd.com/Equipment.aspx?ID=374) [shock](https://2e.aonprd.com/Equipment.aspx?ID=303) [dagger](http://2e.aonprd.com/Weapons.aspx?ID=31)*, *[+2](http://2e.aonprd.com/Equipment.aspx?ID=278) [breastplate](http://2e.aonprd.com/Armor.aspx?ID=10)*, *[+1](http://2e.aonprd.com/Equipment.aspx?ID=278) [mithral](http://2e.aonprd.com/Equipment.aspx?ID=144) [chain shirt](http://2e.aonprd.com/Armor.aspx?ID=6)*, *[+2](http://2e.aonprd.com/Equipment.aspx?ID=281) [greater striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [spiked](http://2e.aonprd.com/Weapons.aspx?ID=42) [steel shield](http://2e.aonprd.com/Shields.aspx?ID=3)*
+**Wares** weapons and armor, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [cold siccatite](https://2e.aonprd.com/Equipment.aspx?ID=1426) [longsword](http://2e.aonprd.com/Weapons.aspx?ID=31)*, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [mithral](http://2e.aonprd.com/Equipment.aspx?ID=377) [heavy crossbow](http://2e.aonprd.com/Weapons.aspx?ID=70)*, [adamantine bolts](http://2e.aonprd.com/Rules.aspx?ID=765), *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [construct-bane](https://2e.aonprd.com/Equipment.aspx?ID=1041) [adamantine](http://2e.aonprd.com/Equipment.aspx?ID=374) [dagger](http://2e.aonprd.com/Weapons.aspx?ID=31)*, *[+2](http://2e.aonprd.com/Equipment.aspx?ID=278) [breastplate](http://2e.aonprd.com/Armor.aspx?ID=10)*, *[+1](http://2e.aonprd.com/Equipment.aspx?ID=278) [mithral](http://2e.aonprd.com/Equipment.aspx?ID=144) [chain shirt](http://2e.aonprd.com/Armor.aspx?ID=6)*, *[+2](http://2e.aonprd.com/Equipment.aspx?ID=281) [greater striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [spiked](http://2e.aonprd.com/Weapons.aspx?ID=42) [steel shield](http://2e.aonprd.com/Shields.aspx?ID=3)*
 
 **Bazlundie Otterbie** (N female human guildhead 5, Indifferent, Perception DC 22, Will DC 22)
 

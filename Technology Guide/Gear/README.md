@@ -8,7 +8,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Price** 10 gp; **Bulk** L; **Craft DC** 25
 
-A battery contains 10 charges when full. It is a single Interact action to insert or eject a battery from an item. When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
+A battery contains 10 charges when full. It is a single Interact action to insert or eject a battery from an item. Much like a [repeating](http://2e.aonprd.com/Traits.aspx?ID=374) weapon, it is often 3 Interact actions to replace an empty battery (eject used battery, retrieve new battery, insert new battery). When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
 
 ## Chemalyzer
 
@@ -122,7 +122,7 @@ When used to bind a creature, a few strips of activated ion tape require a succe
 
 ## Medlance
 
-**Traits** Uncommon, Consumable, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Injection, [Technology^](/Traits/README.md#technology)
 
 **Level** 5; **Price** 30 gp; **Hands** 1; **Bulk** -; **Craft DC** 23
 
