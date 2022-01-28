@@ -187,7 +187,9 @@ Severe    | 30      | 5             | Stage 5
 
 This is a section from *[Numeria, Land of Fallen Stars, pg. 28-29](https://paizo.com/products/btpy978l?Pathfinder-Campaign-Setting-Numeria-Land-of-Fallen-Stars)* that can come up in this adventure path.
 
-**Traits** Alchemical, Drug, Ingested
+**Traits** Rare, Alchemical, Drug, Ingested
+
+**Level** 5 **Identify Alchemy DC** 25 (20 for level 5, +5 for rarity)
 
 **Saving Throw** DC 20 Fortitude; **Stage 1** +2 item bonus to Perception and a side effect on the Numberian Fluids table (see below) (1 hours); **Stage 2** fascinated and stupefied 2 (6 hours);
 
