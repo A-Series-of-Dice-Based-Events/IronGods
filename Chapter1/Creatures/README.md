@@ -8,39 +8,41 @@ For creatures with new traits like Technology, Robot and Extraterrestrial, pleas
 
 ### Sef
 
-![Sef](Sef.png)
+![Sef](PNGs/Sef.png)
 
-* [JSON](Sef.json)
-* [PDF](Sef.pdf)
+* [PF2 Tools JSON](PF2Tools/Sef.json)
+* [PDF](PDFs/Sef.pdf)
 
 Sef is just an [Elite Skulk](http://2e.aonprd.com/Monsters.aspx?ID=805) with a bonus Throw Bomb action.
 
 ### Garmen Ulreth
 
-![Garmen Ulreth](GarmenUlreth.png)
+![Garmen Ulreth](PNGs/GarmenUlreth.png)
 
-* [JSON](GarmenUlreth.json)
-* [PDF](GarmenUlreth.pdf)
+* [PF2 Tools JSON](PF2Tools/GarmenUlreth.json)
+* [PDF](PDFs/GarmenUlreth.pdf)
 
 Garmen is built as a Level 3 Rogue with the Scoundrel Racket.
 
 ### Hetuath
 
-![Hetuath](Hetuath.png)
+![Hetuath](PNGs/Hetuath.png)
 
-* [JSON](Hetuath.json)
-* [PDF](Hetuath.pdf)
+* [PF2 Tools JSON](PF2Tools/Hetuath.json)
+* [PDF](PDFs/Hetuath.pdf)
 
 Hetuath is built as a Level 3 Fighter with the same template as a Juju Zombie from 1e. Due to his many resistances and immunities he may be a much deadlier threat than his level implies.
 
 ### Sanvil Trett
 
-![Sanvil Trett](SanvilTrett.png)
+![Sanvil Trett](PNGs/SanvilTrett.png)
 
-* [JSON](SanvilTrett.json)
-* [PDF](SanvilTrett.pdf)
+* [PF2 Tools JSON](PF2Tools/SanvilTrett.json)
+* [PDF](PDFs/SanvilTrett.pdf)
 
-Sanvil Trett is built as a Level 3 Magus, kind of according to the Secrets of Magic playtest, but made a bit stronger. In the book it mentions Sanvil attempts to cast the spell *[bull's strength](https://www.d20pfsrd.com/magic/all-spells/b/bull-s-strength/)* before the start of the fight but such a spell (and most other ability boosting spells) do not exist in 2nd edition. Thus this has been replaced with a dose of [zerk](http://2e.aonprd.com/Equipment.aspx?ID=629), which does about the same thing and is a nod to Sanvil's vices in his past.
+In the book it mentions Sanvil attempts to cast the spell *[bull's strength](https://www.d20pfsrd.com/magic/all-spells/b/bull-s-strength/)* before the start of the fight but such a spell (and most other ability boosting spells) do not exist in 2nd edition. Thus this has been replaced with a dose of [zerk](http://2e.aonprd.com/Equipment.aspx?ID=629), which does about the same thing and is a nod to Sanvil's vices in his past.
+
+In addition *[magic weapon](http://2e.aonprd.com/Spells.aspx?ID=182)* is no longer a feasible spell for 2e Magus due to the action economy and has been replaced with *[shocking grasp](http://2e.aonprd.com/Spells.aspx?ID=283)*.
 
 #### Sanvil Trett's Items
 
@@ -54,19 +56,19 @@ Sanvil Trett is built as a Level 3 Magus, kind of according to the Secrets of Ma
 
 ### Vrilledt
 
-![Vrilledt](Vrilledt.png)
+![Vrilledt](PNGs/Vrilledt.png)
 
-* [JSON](Vrilledt.json)
-* [PDF](Vrilledt.pdf)
+* [PF2 Tools JSON](PF2Tools/Vrilledt.json)
+* [PDF](PDFs/Vrilledt.pdf)
 
-Vrilledt is a Vegepygmy scaled to Level 3 and given some fighter feats.
+Vrilledt is a [Vegepygmy^](#vegepygmy) scaled to Level 3 and given some fighter feats.
 
 ### Khonnir Baine
 
-![Khonnir Baine](KhonnirBaine.png)
+![Khonnir Baine](PNGs/KhonnirBaine.png)
 
-* [JSON](KhonnirBaine.json)
-* [PDF](KhonnirBaine.pdf)
+* [PF2 Tools JSON](PF2Tools/KhonnirBaine.json)
+* [PDF](PDFs/KhonnirBaine.pdf)
 
 Khonnir Baine is built as an evocation wizard with some alchemist and rogue feats. He has been scaled up to Level 7 because they nerfed wizards too hard in 2e.
 
@@ -77,10 +79,10 @@ Khonnir Baine is built as an evocation wizard with some alchemist and rogue feat
 
 ### Meyanda
 
-![Meyanda](Meyanda.png)
+![Meyanda](PNGs/Meyanda.png)
 
-* [JSON](Meyanda.json)
-* [PDF](Meyanda.pdf)
+* [PF2 Tools JSON](PF2Tools/Meyanda.json)
+* [PDF](PDFs/Meyanda.pdf)
 
 Meyanda is built as a Level 5 Android Cleric with a Harmful Font under the [delirium domain](http://2e.aonprd.com/Domains.aspx?ID=43).
 
@@ -94,26 +96,26 @@ Meyanda is built as a Level 5 Android Cleric with a Harmful Font under the [deli
 
 ### Malfunctioning Repair Drone
 
-![Malfunctioning Repair Drone](MalfunctioningRepairDrone.png)
+![Malfunctioning Repair Drone](PNGs/MalfunctioningRepairDrone.png)
 
-* [JSON](MalfunctioningRepairDrone.json)
-* [PDF](MalfunctioningRepairDrone.pdf)
+* [PF2 Tools JSON](PF2Tools/MalfunctioningRepairDrone.json)
+* [PDF](PDFs/MalfunctioningRepairDrone.pdf)
 
 ### Young Slime Mold
 
-![Young Slime Mold](YoungSlimeMold.png)
+![Young Slime Mold](PNGs/YoungSlimeMold.png)
 
-* [JSON](YoungSlimeMold.json)
-* [PDF](YoungSlimeMold.pdf)
+* [PF2 Tools JSON](PF2Tools/YoungSlimeMold.json)
+* [PDF](PDFs/YoungSlimeMold.pdf)
 
 Built as a [Slime Mold](http://2e.aonprd.com/Monsters.aspx?ID=752) but scaled down to Level -1, and increased movement speed due to its smaller size.
 
 ### Repair Drone
 
-![Repair Drone](RepairDrone.png)
+![Repair Drone](PNGs/RepairDrone.png)
 
-* [JSON](RepairDrone.json)
-* [PDF](RepairDrone.pdf)
+* [PF2 Tools JSON](PF2Tools/RepairDrone.json)
+* [PDF](PDFs/RepairDrone.pdf)
 
 #### Repair Drone's Items
 
@@ -121,86 +123,86 @@ Built as a [Slime Mold](http://2e.aonprd.com/Monsters.aspx?ID=752) but scaled do
 
 ### Ghelarn
 
-![Ghelarn](Ghelarn.png)
+![Ghelarn](PNGs/Ghelarn.png)
 
-* [JSON](Ghelarn.json)
-* [PDF](Ghelarn.pdf)
+* [PF2 Tools JSON](PF2Tools/Ghelarn.json)
+* [PDF](PDFs/Ghelarn.pdf)
 
 ### Kasatha Skeleton
 
-![Kasatha Skeleton](KasathaSkeleton.png)
+![Kasatha Skeleton](PNGs/KasathaSkeleton.png)
 
-* [JSON](KasathaSkeleton.json)
-* [PDF](KasathaSkeleton.pdf)
+* [PF2 Tools JSON](PF2Tools/KasathaSkeleton.json)
+* [PDF](PDFs/KasathaSkeleton.pdf)
 
 Built as a [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) but with no weapons and Flurry of Blows.
 
 ### Boilborn
 
-![Boilborn](Boilborn.png)
+![Boilborn](PNGs/Boilborn.png)
 
-* [JSON](Boilborn.json)
-* [PDF](Boilborn.pdf)
+* [PF2 Tools JSON](PF2Tools/Boilborn.json)
+* [PDF](PDFs/Boilborn.pdf)
 
 ### Cerebric Fungus
 
-![Cerebric Fungus](CerebricFungus.png)
+![Cerebric Fungus](PNGs/CerebricFungus.png)
 
-* [JSON](CerebricFungus.json)
-* [PDF](CerebricFungusn.pdf)
+* [PF2 Tools JSON](PF2Tools/CerebricFungus.json)
+* [PDF](PDFs/CerebricFungusn.pdf)
 
 ### Vegepygmy
 
-![Vegepygmy](Vegepygmy.png)
+![Vegepygmy](PNGs/Vegepygmy.png)
 
-* [JSON](Vegepygmy.json)
-* [PDF](Vegepygmy.pdf)
+* [PF2 Tools JSON](PF2Tools/Vegepygmy.json)
+* [PDF](PDFs/Vegepygmy.pdf)
 
 ### Medical Drone
 
-![Medical Drone](MedicalDrone.png)
+![Medical Drone](PNGs/MedicalDrone.png)
 
-* [JSON](MedicalDrone.json)
-* [PDF](MedicalDrone.pdf)
+* [PF2 Tools JSON](PF2Tools/MedicalDrone.json)
+* [PDF](PDFs/MedicalDrone.pdf)
 
 ### Collector Robot
 
-![Collector Robot](CollectorRobot.png)
+![Collector Robot](PNGs/CollectorRobot.png)
 
-* [JSON](CollectorRobot.json)
-* [PDF](CollectorRobot.pdf)
+* [PF2 Tools JSON](PF2Tools/CollectorRobot.json)
+* [PDF](PDFs/CollectorRobot.pdf)
 
 ### Ropefist Thug
 
-![Ropefist Thug](RopefistThug.png)
+![Ropefist Thug](PNGs/RopefistThug.png)
 
-* [JSON](RopefistThug.json)
-* [PDF](RopefistThug.pdf)
+* [PF2 Tools JSON](PF2Tools/RopefistThug.json)
+* [PDF](PDFs/RopefistThug.pdf)
 
 ### Scrapwall Fanatic
 
-![Scrapwall Fanatic](ScrapwallFanatic.png)
+![Scrapwall Fanatic](PNGs/ScrapwallFanatic.png)
 
-* [JSON](ScrapwallFanatic.json)
-* [PDF](ScrapwallFanatic.pdf)
+* [PF2 Tools JSON](PF2Tools/ScrapwallFanatic.json)
+* [PDF](PDFs/ScrapwallFanatic.pdf)
 
 Built as a [Orc Warrior](http://2e.aonprd.com/Monsters.aspx?ID=325) but replaced Attack of Opportunity with Sneak Attack
 
 ### Ratfolk Scrapper
 
-![Ratfolk Scrapper](RatfolkScrapper.png)
+![Ratfolk Scrapper](PNGs/RatfolkScrapper.png)
 
-* [JSON](RatfolkScrapper.json)
-* [PDF](RatfolkScrapper.pdf)
+* [PF2 Tools JSON](PF2Tools/RatfolkScrapper.json)
+* [PDF](PDFs/RatfolkScrapper.pdf)
 
-The terriffying bolt (lesser) is a version of [Terrifying Ammunition](http://2e.aonprd.com/Equipment.aspx?ID=725) but the DC is 14.
+The terrifying bolt (lesser) is a version of [Terrifying Ammunition](http://2e.aonprd.com/Equipment.aspx?ID=725) but the DC is 14.
 
 ### Gearsman
 
-![Gearsman](Gearsman.png)
+![Gearsman](PNGs/Gearsman.png)
 
-* [JSON](Gearsman.json)
-* [PDF](Gearsman.pdf)
+* [PF2 Tools JSON](PF2Tools/Gearsman.json)
+* [PDF](PDFs/Gearsman.pdf)
 
 #### Gearsman's Items
 
@@ -210,28 +212,28 @@ The terriffying bolt (lesser) is a version of [Terrifying Ammunition](http://2e.
 
 ### Petromin
 
-![Petromin](Petromin.png)
+![Petromin](PNGs/Petromin.png)
 
-* [JSON](Petromin.json)
-* [PDF](Petromin.pdf)
+* [PF2 Tools JSON](PF2Tools/Petromin.json)
+* [PDF](PDFs/Petromin.pdf)
 
 ### Pilo
 
-![Pilo](Pilo.png)
+![Pilo](PNGs/Pilo.png)
 
-* [JSON](Pilo.json)
-* [PDF](Pilo.pdf)
+* [PF2 Tools JSON](PF2Tools/Pilo.json)
+* [PDF](PDFs/Pilo.pdf)
 
 ### Sorico
 
-![Sorico](Sorico.png)
+![Sorico](PNGs/Sorico.png)
 
-* [JSON](Sorico.json)
-* [PDF](Sorico.pdf)
+* [PF2 Tools JSON](PF2Tools/Sorico.json)
+* [PDF](PDFs/Sorico.pdf)
 
 ### Tsaalgrend
 
-![Tsaalgrend](Tsaalgrend.png)
+![Tsaalgrend](PNGs/Tsaalgrend.png)
 
-* [JSON](Tsaalgrend.json)
-* [PDF](Tsaalgrend.pdf)
+* [PF2 Tools JSON](PF2Tools/Tsaalgrend.json)
+* [PDF](PDFs/Tsaalgrend.pdf)
