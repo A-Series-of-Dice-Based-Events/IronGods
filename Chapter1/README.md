@@ -33,6 +33,10 @@ Level | XP Progression          | Milestone
 
 ## Part 1: A Dying Torch
 
+### Strange Headaches
+
+Each morning, have the PCs make a DC 2 Flat Check. On a failure, have them make a DC 12 Fortitude Save. If they fail this save, they become stupefied 1 without the chance to lose a spell being cast.
+
 ### Missing Councilor
 
 The bounty for finding Khonnir Baine is 250 gp, and a *scroll of [raise dead](http://2e.aonprd.com/Spells.aspx?ID=243)* if they bring Khonnir Baine back alive. Similarly, the bounty for reigniting Torch is also 250 gp.
@@ -117,9 +121,9 @@ Encounters | Story Awards | Total
 - **Skills:**
   - **Climb (Athletics): DC10 -** Climb down the 10-foot ledge.
   - **Perception: DC12 -** Notices strange filaments growing along Gerrol's body.
-  - **Recall Knowledge (Dungeoneering Lore): DC16 -** Recognises filaments as [russet mold](Hazards/README.md#russet-mold)
+  - **Recall Knowledge (Dungeoneering Lore): DC16 -** Recognises filaments as [russet mold^](Hazards/README.md#russet-mold)
   - **Recall Knowledge (Torch Lore): DC12 -** Remembers Gerrol recently proposed to Emilia Otterbie.
-  - **Request (Diplomacy): DC15 -** Convincing Emilia to cremate Gerrol's body to stop a [vegepygmy](Creatures/README.md#vegepygmy) spawning.
+  - **Request (Diplomacy): DC15 -** Convincing Emilia to cremate Gerrol's body to stop a [vegepygmy^](Creatures/README.md#vegepygmy) spawning.
 - **Hazard:** [Brown Mold](http://2e.aonprd.com/Hazards.aspx?ID=35)
 - **Loot:** Gerrol Sonder's body
   - 1x *[+1 hand crossbow](http://2e.aonprd.com/Weapons.aspx?ID=69)* with 5 Bolts
@@ -603,7 +607,7 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
 
 ### 21. Torch Guildhouse (Level 12)
 
-**Wares** weapons and armor, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [cold siccatite^](/Technology%20Guide/README.md#siccatite-weapons) [longsword](http://2e.aonprd.com/Weapons.aspx?ID=31)*, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [mithral](http://2e.aonprd.com/Equipment.aspx?ID=377) [heavy crossbow](http://2e.aonprd.com/Weapons.aspx?ID=70)*, [adamantine bolts](http://2e.aonprd.com/Rules.aspx?ID=765), *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [adamantine](http://2e.aonprd.com/Equipment.aspx?ID=374) [shock](https://2e.aonprd.com/Equipment.aspx?ID=303) [dagger](http://2e.aonprd.com/Weapons.aspx?ID=31)*, *[+2](http://2e.aonprd.com/Equipment.aspx?ID=278) [breastplate](http://2e.aonprd.com/Armor.aspx?ID=10)*, *[+1](http://2e.aonprd.com/Equipment.aspx?ID=278) [mithral](http://2e.aonprd.com/Equipment.aspx?ID=144) [chain shirt](http://2e.aonprd.com/Armor.aspx?ID=6)*, *[+2](http://2e.aonprd.com/Equipment.aspx?ID=281) [greater striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [spiked](http://2e.aonprd.com/Weapons.aspx?ID=42) [steel shield](http://2e.aonprd.com/Shields.aspx?ID=3)*
+**Wares** weapons and armor, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [cold siccatite](https://2e.aonprd.com/Equipment.aspx?ID=1426) [longsword](http://2e.aonprd.com/Weapons.aspx?ID=31)*, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [mithral](http://2e.aonprd.com/Equipment.aspx?ID=377) [heavy crossbow](http://2e.aonprd.com/Weapons.aspx?ID=70)*, [adamantine bolts](http://2e.aonprd.com/Rules.aspx?ID=765), *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [construct-bane](https://2e.aonprd.com/Equipment.aspx?ID=1041) [adamantine](http://2e.aonprd.com/Equipment.aspx?ID=374) [dagger](http://2e.aonprd.com/Weapons.aspx?ID=31)*, *[+2](http://2e.aonprd.com/Equipment.aspx?ID=278) [breastplate](http://2e.aonprd.com/Armor.aspx?ID=10)*, *[+1](http://2e.aonprd.com/Equipment.aspx?ID=278) [mithral](http://2e.aonprd.com/Equipment.aspx?ID=144) [chain shirt](http://2e.aonprd.com/Armor.aspx?ID=6)*, *[+2](http://2e.aonprd.com/Equipment.aspx?ID=281) [greater striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [spiked](http://2e.aonprd.com/Weapons.aspx?ID=42) [steel shield](http://2e.aonprd.com/Shields.aspx?ID=3)*
 
 **Bazlundie Otterbie** (N female human guildhead 5, Indifferent, Perception DC 22, Will DC 22)
 

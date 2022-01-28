@@ -34,7 +34,6 @@ To see an overview of the traits that were added, please click [here](/Traits/RE
 * [Numerian Fluids](#numerian-fluids)
 * [Skymetals](#skymetals)
   * [Glaucite](#glaucite)
-  * [Siccatite](#siccatite)
 
 ## Silverdisks
 
@@ -50,7 +49,7 @@ One silverdisk is worth 1gp.
 
 You can identify the nature of a technological item with 10 minutes of testing. If your attempt is interrupted in any way, you must start over. Attempt a Engineering Lore check. You may instead make Crafting check at a -5 penalty.
 
-If you have a [zipstick^](Gear/README.md#zipstick) on hand you can expend a use to gain a +2 circumstance bonus to your check.
+If you have a [zipstick^](Gear/README.md#zipstick) on hand you can expend a use to gain a +2 item bonus to your check.
 
 The DC of the item being identified is the same as its listed Craft DC.
 
@@ -64,13 +63,27 @@ The DC of the item being identified is the same as its listed Craft DC.
 
 **Requirements:** You have alchemist's tools.
 
-You can identify the nature of a pharmaceutical item with 10 minutes of testing. If your attempt is interrupted in any way, you must start over. Attempt a Engineering Lore check. You may instead make Crafting check at a -5 penalty.
+You can identify the nature of a pharmaceutical item with 10 minutes of testing. If your attempt is interrupted in any way, you must start over. Attempt a Medicine check. You may instead make Crafting check at a -5 penalty.
 
 The DC of the item being identified is the same as its listed Craft DC.
 
 * **Success** You identify the item and the means of activating it.
 * **Failure** You fail to identify the item, but can try again.
 * **Critical Failure** You misidentify the item as another item of the GM's choice.
+
+## New Feats
+
+### Craft Cybernetics
+
+**Level:** 9
+
+**Traits:** Rare, General, Skill
+
+**Prerequisites:** master in Medicine, expert in Engineering Lore
+
+You can use the Craft activity to create cybernetic items, though many have additional requirements. Selecting this feat immediately gives you the formula of 1 [cybertech^](Cybertech/) item.
+
+You also gain access to the [Install Cybertech^](Cybertech/README.md#install-cybertech) and [Remove Cybertech^](Cybertech/README.md#remove-cybertech) activities.
 
 ## New Spells
 
@@ -174,7 +187,9 @@ Severe    | 30      | 5             | Stage 5
 
 This is a section from *[Numeria, Land of Fallen Stars, pg. 28-29](https://paizo.com/products/btpy978l?Pathfinder-Campaign-Setting-Numeria-Land-of-Fallen-Stars)* that can come up in this adventure path.
 
-**Traits** Alchemical, Drug, Ingested
+**Traits** Rare, Alchemical, Drug, Ingested
+
+**Level** 5 **Identify Alchemy DC** 25 (20 for level 5, +5 for rarity)
 
 **Saving Throw** DC 20 Fortitude; **Stage 1** +2 item bonus to Perception and a side effect on the Numberian Fluids table (see below) (1 hours); **Stage 2** fascinated and stupefied 2 (6 hours);
 
@@ -220,6 +235,8 @@ d10 | Result
 
 ## Skymetals
 
+Most skymetals have now been converted to second edition with the release of *[Pathfinder Lost Omens: The Grand Bazaar](https://paizo.com/products/btq027kc)*.
+
 ### Glaucite
 
 Glaucite is an alloy of adamantine and steel that's 1.5x as heavy as steel but not much better than it. Glaucite is what the *Divinity*'s hull is made from, which is why scavengers leave these ships mostly in tact. For the sake of determining Hardness and HP for objects (likely structures if you're looking here), glaucite performs the same as steel.
@@ -229,69 +246,3 @@ Item       | Level | Hardness | HP | BT
 Thin item  | 1     | 5        | 20 | 10
 Item       | 1     | 9        | 36 | 18
 Structure  | 1     | 18       | 72 | 36
-
-### Siccatite
-
-**Traits** Rare, Cold or Fire, Precious
-
-Siccatite is a shining silver metal that is either incredibly hot or freezing cold when found. With regards to its hardness, it is comparable to iron or steel.
-
-Item           | Level | Hardness | HP | BT
----------------|-------|----------|----|----
-**Thin item**  |
-Standard-Grade | 9     | 5        | 20 | 10
-High-Grade     | 17    | 8        | 32 | 16
-**Item**       |
-Standard-Grade | 9     | 9        | 36 | 18
-High-Grade     | 17    | 12       | 48 | 24
-**Structure**  |
-Standard-Grade | 9     | 18       | 72 | 36
-High-Grade     | 17    | 24       | 96 | 48
-
-Compared to other rare skymetals, unprocessed siccatite is more expensive than expected by the virtue of it being a difficult material to transport - hot siccatite will eventually ignite items and cold siccatite will quickly surround itself with a 1-foot thick shell of ice in water. Physical contact with siccatite objects deal 1 point of damage - fire damage for hot siccatite and cold damage for cold siccatite - per round.
-
-* Siccatite Chunk **Price** 1,000 gp; **Bulk** L
-* Siccatite Ingot **Price** 10,000 gp; **Bulk** 1
-* Siccatite Item (Standard-Grade) **Level** 9; **Price** 500 gp/bulk
-* Siccatite Item (High-Grade) **Level** 17; **Price** 8,000 gp/bulk
-
-#### Siccatite Armor
-
-**Traits** Rare, Cold or Fire
-
-An armor made entirely out of siccatite is unviable, as the extreme temperatures make it dangerous to wear. However due to its insulating properties there are still some that desire to incorporate components made from siccatite into their armor.
-
-Hot siccatite armor grants cold resistance 5, negates the damage from severe cold and reduces damage of extreme cold to severe cold. Similarly, cold siccatite armor grants fire resistance 5, negates the damage from severe heat and reduces damage of extreme heat to severe heat.
-
-Armor                            | Level | Price                          | Crafting Requirements
----------------------------------|-------|--------------------------------|-----------------------------------------------
-Siccatite Armor (Standard-Grade) | 11    | 1,100 gp (+110 gp per bulk)    | at least 110 gp of siccatite of the same type + 11 gp/bulk.
-Siccatite Armor (High-Grade)     | 17    | 14,000 gp (+1,400 gp per bulk) | at lease 3,500 gp of siccatite of the same type + 350 gp/bulk.
-
-#### Siccatite Shields
-
-**Traits** Rare, Cold or Fire
-
-Like siccatite armor, siccatite shields provide resistance 5 to the opposite energy damage (cold for hot siccatite and fire for cold siccatite) when the Shield Block reaction is used in addition to its hardness. In addition if you raise a siccatite shield against a spell attack that would deal energy damage of the opposing type you gain a +2 circumstance bonus to your AC.
-
-Shield                             | Level | Price     | Hardness | HP | BT | Craft Requirements
------------------------------------|-------|-----------|----------|----|----|----------------------
-Siccatite Buckler (Standard-Grade) | 10    | 900 gp    | 3        | 12 | 6  | 113 gp of siccatite of the same type.
-Siccatite Shield (Standard-Grade)  | 10    | 1,000 gp  | 5        | 20 | 10 | 125 gp of siccatite of the same type.
-Siccatite Bucker (High-Grade)      | 15    | 6,000 gp  | 6        | 24 | 12 | 3,000 gp of siccatite of the same type
-Siccatite Shield (High-Grade)      | 15    | 6,600 gp  | 8        | 32 | 16 | 3,300 gp of siccatite of the same type
-
-#### Siccatite Weapons
-
-**Traits** Rare, Cold or Fire
-
-Siccatite weapons deal 1 additional point of damage of the appropriate energy per weapon damage die on a successful Strike, but the wielder of the weapon takes the same damage for each round it is used in combat at the end of their turn.
-
-On a critical hit, the target takes the additional precision damage as persistent damage (e.g. critically hitting with a *+1 striking hot siccatite longsword* and a +3 strength modifier would deal 2 x (2d8+3) piercing damage, 2 fire damage and 2 persistent fire damage).
-
-As with other precious materials, 10 pieces of ammunition made from siccatite costs as much as a siccatite weapon of 1 bulk, and unless the ammunition is stored in a place that requires the equivalent of a reload 1 trait on the weapon, the user takes the additional damage per round at the end of their turn as if they were wielding a siccatite weapon.
-
-Weapon                            | Level | Price                          | Crafting Requirements
-----------------------------------|-------|--------------------------------|-----------------------------------------------
-Siccatite Weapon (Standard-Grade) | 12    | 1,600 gp (+160 gp per bulk)    | at least 200 gp of siccatite of the same type + 20 gp/bulk.
-Siccatite Weapon (High-Grade)     | 19    | 32,000 gp (+3,200 gp per bulk) | at lease 16,000 gp of siccatite of the same type + 1,600 gp/bulk.
