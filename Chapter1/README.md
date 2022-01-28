@@ -291,6 +291,8 @@ Machines here have Hardness 18, 40 HP (20 BT).
 - **Loot - Perception - DC20:** Under the table.
   - 1x Black-level access keycard
 
+**NB:** As *speak with dead* is no longer a spell (its closest equivalent is *[talking corpse](https://2e.aonprd.com/Spells.aspx?ID=329)* - an uncommon 4th level spell) and other spells that can possibly illuminate Hetuath's backstory aren't until higher levels - long after the PCs have left Torch. DMs that wish to relay his tragic tale to PCs may want to leave additional clues.
+
 ### B16. Blocked Exit
 
 - **Skills:**
