@@ -23,10 +23,9 @@ Robots are Constructs like Golems or Clockworks, but if Golems are the dumb, bru
 Robots typically follow the following template:
 
 * **Intelligent:** Most Robots do NOT have the Mindless trait, and in fact are usually trained in a mental skill corresponding to their functionality. For example the Medical Drone in Part 4 would be trained in Medicine. This also means they are susceptible to effects with the Mental trait.
-* **Terrible Saving Throws:** Most Robot archetypes are not actually designed for combat, and as a result cannot adapt easily to the situations that require Saving Throws. Unless a Robot is specifically designed for combat, such as the Myrmidon Robot, they typically have Low to Abysmal saving throws on the monster creation guidelines.
+* **Terrible Saving Throws:** Unless a Robot is specifically designed for combat, such as the Myrmidon Robot, they typically have Low to Abysmal saving throws on the monster creation guidelines.
 * **Weak to Electricity:** Like Clockworks, Robots typically have a weakness to electricity with a value that lies within the monster creation guidelines.
-* **Critically Vulnerable:** Malfunctioning Robots are prone to errors and may inherit the Critical Vulnerability passive ability.
-  * **Critical Vulnerability** On being struck by a Critical Hit, the Robot makes a DC 5 flat check. On a failure, the robot becomes flat-footed until the start of its turn and stunned 1.
+* **Construct Armor:** Replacing the *Vulnerable to critical hits* trait from 1e, the common monster ability Construct Armor demonstrates a Robot's weakness to critical hits instead.
 
 Outside of Numeria, Robots may have the Rare trait but within the land they only have Uncommon as many of the citizens there have at least heard of one.
 
