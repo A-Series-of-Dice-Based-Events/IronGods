@@ -1,12 +1,56 @@
-# Title of AP
+# Lords of Rust
 
-[A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
+## Part 1: Aldronard's Grave
 
-A repository to hold tools for those wishing to run and convert Title of AP to Pathfinder 2E.
+### Power Relay
 
-The README.md files can have simple breakdowns of modified DCs for various tasks brought up in the Adventure while the individual folders can hold the files for the monster/NPC stat blocks.
+- **Skills:**
+  - **Recall Knowledge (Numerian Geography Lore, Engineering Lore or Society): DC20 -** If a player can speak Androffan, they can confirm the device was transmitting power to a spot 105 miles northeast from Torch - Scrapwall.
 
-## Recommended Tool
+### Ensuring Torch's Safety
 
-http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
-Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
+The town offers to pay the PCs a reward of 450 gp if they can ensure no further threat faces Torch.
+
+### Contacting Dinvaya
+
+Joram Kyte promises to give the PCs his [*wand of continuation (1st-level spell)*](https://2e.aonprd.com/Equipment.aspx?ID=369) as a reward once they complete his mission.
+
+### A1. Barbican
+
+- **Skills:**
+  - **Climb (Athletics): DC15 -** To scale the stone walls.
+
+The portcullis has. Should the portcullis be dropped use the stats of a [Slamming Door](https://2e.aonprd.com/Hazards.aspx?ID=3) trap.
+
+The wooden doors are locked
+
+### A2. Courtyard
+
+- **Creatures:**
+  - 5x [Smiler^](Creatures/README.md#smiler)
+  - 1x [Ewhar "Hatchet-Hand" Vress^](Creatures/README.md#ewhar-vress)
+
+The book is very loose on where the Smilers are actually placed. It is expected they patrol or wander around the camp.
+
+### A3. Ruined Keep
+
+- **Skills:**
+  - **Recall Knowledge (Medicine): DC15 -** To recognise the flesh being cooked as human.
+
+### A5. Ruined Chapel
+
+- **Creatures:**
+  - 1x [Aldronard^](Creatures/README.md#aldronard) - Optional
+
+### A6. Ruined Stable
+
+- **Skills:**
+  - **Recall Knowledge (Butcher Lore, Medicine): DC12 -** To recognise the bodies as having been carved for meat.
+
+### A7. Watchtower
+
+- **Creatures:**
+  - 2x [Smiler^](Creatures/README.md#smiler)
+
+## Part 2: Becoming Scrap-worthy
+

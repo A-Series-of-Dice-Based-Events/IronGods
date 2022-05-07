@@ -16,8 +16,8 @@ Therefore if an entry is missing something in this guide, treat it as if it is u
 
 Book Name                                                          | Levels  | Conversion Status
 -------------------------------------------------------------------|---------|------------------
-[Fires of Creation - Book 1 of 6](Chapter1/README.md)              | 1 - 4   | Complete!
-[Lords of Rust - Book 2 of 6](Chapter2/README.md)                  | 4 - 7   | Haven't begun
+[Fires of Creation - Book 1 of 6](Chapter1/README.md)              | 1 - 4   | 100% Complete!
+[Lords of Rust - Book 2 of 6](Chapter2/README.md)                  | 4 - 7   | 5% Complete
 [The Choking Tower - Book 3 of 6](Chapter3/README.md)              | 7 - 10  | Haven't begun
 [Valley of the Brain Collectors - Book 4 of 6](Chapter4/README.md) | 10 - 13 | Haven't begun
 [Palace of Fallen Stars - Book 5 of 6](Chapter5/README.md)         | 13 - 15 | Haven't begun
