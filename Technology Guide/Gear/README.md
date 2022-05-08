@@ -54,6 +54,16 @@ Wearing the mask gives a +2 item bonus to all saving throws made to resist inhal
 
 **Activate** (1 action) Interact; **Power Use** 1 charge/hour **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases.
 
+## Fire Extinguisher
+
+**Traits** Consumable, Gadget
+
+**Level** 6; **Price** 400 gp; **Hands** 2; **Bulk** 1; **Uses** 10; **Craft DC** 26
+
+**Activate** (2 actions) Interact; **Effect** You create 15 foot cone of misty vapor that extinguishes all nonmagical fires within its area of effect. For each continuous magical fire effect in the cone, make a counteract check at a +11 modifier. If it succeeds the effect is suppressed for 1 minute before it automatically reignites. A creature affected by persistent fire damage within the cone of effect may make a DC 10 flat check to end their condition immediately.
+
+**Activate** (2 actions) Ready; **Effect** You ready the fire extinguisher to put out any potential sources of instantaneous fire such as a [*fireball*](https://2e.aonprd.com/Spells.aspx?ID=119). If the source of fire is within a 15-foot cone of you, you may use your reaction to make a counteract check at a +11 modifier to counter the effect entirely.
+
 ## Flashlight
 
 **Traits** Light, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
