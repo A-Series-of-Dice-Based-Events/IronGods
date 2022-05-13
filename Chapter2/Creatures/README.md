@@ -47,6 +47,54 @@ Sevroth Slaid is built after an elite [Ganzi Martial Artist](https://2e.aonprd.c
 
 Birdfood is a level 6 ranger. His composite longbow has been replaced with a composite shortbow as most of his feats in 1e was just trying to get rid of the Volley trait.
 
+### Dinvaya Lanalei
+
+![Dinvaya Lanalei](PNGs/DinvayaLanalei.png)
+
+* [PF2 Tools JSON](PF2Tools/DinvayaLanalei.json)
+* [PDF](PDFs/DinvayaLanalei.pdf)
+
+Dinvaya is built as an Elite [Priest of Pharasma]() with her spells more aligned with her spell list in 1e.
+
+#### Dinvaya's Items
+
+* 2x [Bang Grenade^](/Technology%20Guide/Gear/README.md#grenade)
+* 1x [Inferno Grenade^](/Technology%20Guide/Gear/README.md#grenade)
+* 2x [Battery^](/Technology%20Guide/Gear/README.md#battery)
+* 1x [Gravity Clip^](/Technology%20Guide/Gear/README.md#gravity-clip)
+
+### Gunshy
+
+![Gunshy](PNGs/Gunshy.png)
+
+* [PF2 Tools JSON](PF2Tools/Gunshy.json)
+* [PDF](PDFs/Gunshy.pdf)
+
+Gunshy is built after a cross between an [Ogre Boss](https://2e.aonprd.com/Monsters.aspx?ID=319) and an Elite [Monster Hunter](https://2e.aonprd.com/NPCs.aspx?ID=924). Sundering weapons isn't really a mechanic in 2e and it's unlikely Gunshy will have a hand free to disarm guns, so to play up that aspect DMs may wish to have him try to smash the dropped gun after he knocks a player unconscious.
+
+### Whiskifliss
+
+![Whiskifliss](PNGs/Whiskifliss.png)
+
+* [PF2 Tools JSON](PF2Tools/Whiskifliss.json)
+* [PDF](PDFs/Whiskifliss.pdf)
+
+Whiskifliss is a [Ratfolk Grenadier](https://2e.aonprd.com/Monsters.aspx?ID=348) re-made as a ranger.
+
+### Marrow
+
+![Marrow](PNGs/Marrow.png)
+
+* [PF2 Tools JSON](PF2Tools/Marrow.json)
+* [PDF](PDFs/Marrow.pdf)
+
+Marrow is a reflavoured [Cult Leader](https://2e.aonprd.com/NPCs.aspx?ID=930) with necromancy spells. Don't forget about her [*mentalist's staff (greater)*](https://2e.aonprd.com/Equipment.aspx?ID=350) which has additional spells she can cast that aren't listed there.
+
+#### Marrow's Items
+
+* 2x [Gas Grenade^](../Items/README.md#gas-grenade)
+* 4x [Soothe^](../Items/README.md#soothe)
+
 ## New Creatures
 
 ### Smiler
@@ -61,3 +109,19 @@ Smilers are built as a [Archer Sentry](https://2e.aonprd.com/NPCs.aspx?ID=934) b
 #### Smiler's Items
 
 * [Soothe^](../Items/README.md#soothe)
+
+### Junk Golem
+
+![Junk Golem](PNGs/JunkGolem.png)
+
+* [PF2 Tools JSON](PF2Tools/JunkGolem.json)
+* [PDF](PDFs/JunkGolem.pdf)
+
+### Rust-Risen
+
+![Rust-Risen](PNGs/RustRisen.png)
+
+* [PF2 Tools JSON](PF2Tools/RustRisen.json)
+* [PDF](PDFs/RustRisen.pdf)
+
+No two rust-risen are meant to be the same, but feel free to pick any two augmentations you like.

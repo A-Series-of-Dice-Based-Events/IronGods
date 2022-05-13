@@ -6,24 +6,30 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Autograpnel
 
-**Level** 6; **Price** 240 gp; **Damage** 1d8+6 piercing; **Bulk** 2; **Hands** 2; **Range** 30 feet;
+**Level** 6; **Price** 240 gp; **Bulk** 2; **Hands** 2; **Range** 30 feet;
 
-**Category** Advanced; **Ammunition** [Batteries](../Gear/README.md#battery); **Group** Firearms; **Traits** Uncommon, Grapple, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Grapple, [Technology^](/Traits/README.md#technology)
 
 **Capacity** 20; **Power Use** 1 charge; **Craft DC** 20;
 
 ## Flare Gun
 
-**Level** 3; **Price** 18 gp; **Damage** 1d8 fire; **Bulk** L; **Hands** 1; **Range** 240 feet;
+**Level** 3; **Price** 18 gp; **Bulk** L; **Hands** 1; **Range** 240 feet;
 
 **Traits** Light, Consumable, Gadget, [Technology^](/Traits/README.md#technology)
 
 **Craft DC** 18;
 
+## Laser Rifle
+
+**Level** 6; **Price** 1200 gp; **Bulk** 2; **Hands** 2; **Range** 150 feet;
+
+**Traits** Rare, [Laser^](/Traits/README.md#laser), [Technology^](/Traits/README.md#technology)
+
 ## Stun Gun
 
-**Level** 5; **Price** 200 gp; **Damage** 1d6 sonic; **Bulk** L; **Hands** 1; **Range** 20 feet;
+**Level** 5; **Price** 200 gp; **Bulk** L; **Hands** 1; **Range** 20 feet;
 
-**Category** Advanced; **Ammunition** [Batteries](../Gear/README.md#battery); **Group** Firearms; **Traits** Uncommon, Nonlethal, Sonic, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Nonlethal, Sonic, [Technology^](/Traits/README.md#technology)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 22

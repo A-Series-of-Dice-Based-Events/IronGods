@@ -42,6 +42,10 @@ Extraterrestrials typically have the Rare trait.
 
 A grenade is a device designed to detonate after being thrown. See [Grenade^](/Technology%20Guide/Gear/README.md#grenade) for more details.
 
+### Laser
+
+Lasers are beams of intensely focused light capable of burning anything it strikes. Weapons and effects with the Laser trait can pass through force fields and other transparent physical barriers like windows. Invisible creatures are immune to Laser effects and damage from a Laser weapon.
+
 ### Module
 
 Items with the Module trait usually need to be slotted in another item before they can provide their full functionality. Modules often have different variants, allowing those with the receptacle item to change their functionality depending on what variant of module is inserted.

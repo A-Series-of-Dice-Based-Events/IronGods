@@ -1,5 +1,15 @@
 # Lords of Rust
 
+## Advancement Track
+
+Level | XP Progression          | Milestone
+------|-------------------------|----------
+5     | PCs begin at Lv 5       | PCs begin at Lv 5
+6     | | After completing Area D
+7     | | After completing Area H
+8     | | After clearing Scrapmaster's Arena (Q1)
+9     | After completing Part 3 | After completing Part 3
+
 ## Part 1: Aldronard's Grave
 
 ### Power Relay
@@ -60,11 +70,13 @@ The book is very loose on where the Smilers are actually placed. It is expected 
 
 ### Scrap-Worth
 
-**Scrap-Worth 2:** Award PCs 40 XP.
-**Scrap-worth 4:** Award PCs 60 XP.
-**Scrap-Worth 6:** Award PCs 80 XP.
-**Scrap-Worth 8:** Award PCs 120 XP.
-**Scrap-Worth 10:** Award PCs 160 XP.
+Award the PCs the following XP when they reach certain levels of Scrap-Worth:
+
+- **Scrap-Worth 2:** Award PCs 40 XP.
+- **Scrap-worth 4:** Award PCs 60 XP.
+- **Scrap-Worth 6:** Award PCs 80 XP.
+- **Scrap-Worth 8:** Award PCs 120 XP.
+- **Scrap-Worth 10:** Award PCs 160 XP.
 
 ### Exploring Scrapwall
 
@@ -139,9 +151,93 @@ There's a total of 6 [Orc Warriors](https://2e.aonprd.com/Monsters.aspx?ID=325) 
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*sound burst*](https://2e.aonprd.com/Spells.aspx?ID=292)
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [crossbow](https://2e.aonprd.com/Weapons.aspx?ID=67)*
   - 1x White access keycard
-  - 1x [Timeworn fire extinguisher^](/Technology%20Guide/Weapons/README.md#fire-extinguisher)
+  - 1x [Timeworn fire extinguisher^](/Technology%20Guide/Gear/README.md#fire-extinguisher)
   - 4x Silverdisks
   - 22 gp, 8 sp, 3 cp
 
 ### F. The Clockwork Chapel
 
+#### F1. Clockwork Facade
+
+- **Skills:**
+  - **Seek (Perception): DC25 -** To notice the hidden switch that opens the iron gear doors.
+  - **Force Open (Athletics): DC30 -** To force open the iron gear doors.
+  - **Disable a Device (Thievery): DC30 -** To disable the iron gear doors.
+
+The iron gear doors have Hardness 18, 72 HP (36 BT).
+
+#### F3. Chapel (40 XP, Trivial Threat)
+
+- **Creatures:**
+  - [Junk Golem^](Creatures/README.md#junk-golem)
+
+#### F5. Workshop (60 XP, Low Threat)
+
+- **Creatures:**
+  - [Dinvaya Lanalei^](Creatures/README.md#dinvaya-lanalei)
+
+### G. Smiler's Territory (40 XP, Trivial Threat)
+
+- **Creatures:**
+  - 4x [Smiler^](Creatures/README.md#smiler)
+
+### H. Smilers' Headquarters
+
+#### H1. Facade (40 XP, Low Threat)
+
+- **Hazards:**
+  - [Laser Turret^](Hazards/README.md#laser-turret)
+
+- **Loot:**
+  - [Timeworn Laser Rifle^](/Technology%20Guide/Weapons/README.md#laser-rifle) - If the Laser Turret was deactivated without breaking it or it expending all its charges.
+
+#### H2. Waiting Room (60 - 100 XP, Low to Moderate Threat)
+
+- **Creatures:**
+  - [Gunshy^](Creatures/README.md#gunshy)
+
+It takes the Smilers in H3 three total actions to open the doors should they wish to join the fray.
+
+#### H3. Barracks (40 XP, Low Threat)
+
+- **Creatures:**
+  - 4x [Smiler^](Creatures/README.md#smiler)
+
+#### H4. Specimen Storage (80 XP, Moderate Threat)
+
+- **Creatures:**
+  - 8x [Husk Zombie](https://2e.aonprd.com/Monsters.aspx?ID=1919)
+  - [Whiskifliss^](Creatures/README.md#whiskifliss)
+
+#### H5. Surgery (60 XP, Low Threat)
+
+- **Creatures:**
+  - 3x [Rust Risen^](Creatures/README.md#rust-risen)
+
+#### H6. Marrow's Inner Sanctum (100 XP, Moderate Threat)
+
+- **Creatures:**
+  - [Marrow^](Creatures/README.md#marrow)
+  - 4x Elite [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
+
+- **Loot:**
+  - 14x [Soothe^](Items/README.md#soothe)
+  - 3x [Gas Grenade^](Items/README.md#gas-grenade)
+  - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*2nd level animate dead*](https://2e.aonprd.com/Spells.aspx?ID=666)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*bind undead*](https://2e.aonprd.com/Spells.aspx?ID=22)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*technomancy^*](/Technology%20Guide/README.md#technomancy)
+  - 7x [Battery^](/Technology%20Guide/Gear/README.md#battery)
+  - 22x Silverdisks
+
+### I. Redtooth's Raiders Territory
+
+- **Creatures:**
+  - 4x [Smiler^](Creatures/README.md#smiler)
+  - 4x Ratfolk - Use the stats for an [Urchin](https://2e.aonprd.com/NPCs.aspx?ID=899)
+
+### J. Redtooth's Warren
+
+#### J1. Entrance Warrens
+
+- **Skills:**
+  - **Seek (Perception): DC 20 -** To notice the secret doors.

@@ -78,6 +78,14 @@ A flashlight emits bright light in a 60 foot cone and dim light in the next 60 f
 
 **Price** 3 sp; **Hands** 1; **Bulk** -; **Craft DC** 14
 
+## Gravity Clip
+
+**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+
+**Level** 5; **Price** 120 gp; **Usage** affixed to weapon; **Capacity** 10; **Power Use** 1 charge/round; **Craft DC** 26
+
+Once affixed to a melee weapon, the first successful weapon Strike made with it each round gains a status bonus to damage equal to twice the number of weapon damage dice - as if were under the effects of [*gravity weapon*](https://2e.aonprd.com/Spells.aspx?ID=770).
+
 ## Grenade
 
 **Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), [Technology^](/Traits/README.md#technology)
