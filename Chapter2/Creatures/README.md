@@ -120,6 +120,10 @@ Helskarg is a weak [Troll King](https://2e.aonprd.com/Monsters.aspx?ID=396). Thi
 
 Note that for Helskarg the autograpnel is considered a 1-handed weapon only due to her Large size. For player characters it remains a 2-handed weapon.
 
+#### Helskarg's Items
+
+* 1x [Autograpnel^](/Technology%20Guide/Weapons/README.md#autograpnel)
+
 ### Hellion
 
 ![Hellion](PNGs/Hellion.png)
@@ -170,7 +174,7 @@ Zagmaander is a [xill](https://2e.aonprd.com/Monsters.aspx?ID=866) brought up to
 
 * 1x [Laser Torch^](/Technology%20Guide/Weapons/README.md#laser-torch)
 
-### Dragis
+### Draigs
 
 ![Draigs](PNGs/Draigs.png)
 

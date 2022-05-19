@@ -70,7 +70,7 @@ EMP pistols deal no damage to living creatures.
 
 **Level** 10; **Price** 1,200 gp; **Bulk** 2; **Hands** 2; **Range** 150 feet;
 
-**Traits** Rare, [Laser^](/Traits/README.md#laser), [Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Beam^](/Traits/README.md#beam), [Laser^](/Traits/README.md#laser), [Technology^](/Traits/README.md#technology)
 
 **Capacity** 20; **Power Use** 1 charge; **Craft DC** 27
 
