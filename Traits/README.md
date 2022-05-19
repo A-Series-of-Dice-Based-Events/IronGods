@@ -14,6 +14,35 @@ Hazards or other devices with the Technology trait impose a -5 penalty on all Di
 
 ## Creature Traits
 
+### AI
+
+AIs, or Artificial Intelligences are sapient entities that cannot interface with the world without being installed into a robot or a structure (known as a host). As such AIs tend not to have any listed stats for physical defenses and ability modifiers, much like an [Intelligent Item](https://2e.aonprd.com/Rules.aspx?ID=1084)
+
+AIs can also be augmented with [Memory Facets^](/Chapter2/Items/README.md#memory-facet) by installing them into available slots connected to their central processing.
+
+Destroying the host robot or structure does not destroy the AI fully unless all of its processing was fully housed inside it.
+
+### Aggregate
+
+ When an AI is installed into a Robot, the host robot is known as an Aggregate and is modified as the following:
+
+* The Aggregate gains the AI and Aggregate traits.
+* The Aggregate's level increases by up to 2, up to GM's discretion of how much more powerful the AI is than it.
+* The Aggregate's Intelligence, Wisdom and Charisma modifiers are replaced with those of the AI's.
+* The Aggregate's Perception score is replaced with that of the AI's if it is higher.
+* The Aggregate replaces its Will save with the AI's while retaining its own Fortitude and Reflex saves.
+* The Aggregate gains all of the AI's special abilities while retaining its own.
+* The Aggregate gains all of the AI's skills while retaining its own, using the higher of the two if they double up.
+* The Aggregate gains [all-around vision](https://2e.aonprd.com/MonsterAbilities.aspx?ID=1) if they are in an area fitted with cameras or other sensors that are under the control of the AI.
+
+Unless the processing for the installed AI is entirely within the Aggregate, destroying the Aggregate does not destroy the AI.
+
+### Extraterrestrial
+
+Extraterrestrials are creatures that are from a different planet than Golarion. Surprisingly enough, this is actually less common than Outsiders or creatures from other planes.
+
+Extraterrestrials typically have the Rare trait.
+
 ### Robot
 
 A creature can only have one of these three traits: Robot, Golem or Clockwork. e.g. a Golem cannot be a Robot, nor can a Robot be a Clockwork.
@@ -23,18 +52,27 @@ Robots are Constructs like Golems or Clockworks, but if Golems are the dumb, bru
 Robots typically follow the following template:
 
 * **Intelligent:** Most Robots do NOT have the Mindless trait, and in fact are usually trained in a mental skill corresponding to their functionality. For example the Medical Drone in Part 4 would be trained in Medicine. This also means they are susceptible to effects with the Mental trait.
-* **Terrible Saving Throws:** Most Robot archetypes are not actually designed for combat, and as a result cannot adapt easily to the situations that require Saving Throws. Unless a Robot is specifically designed for combat, such as the Myrmidon Robot, they typically have Low to Abysmal saving throws on the monster creation guidelines.
+* **Terrible Saving Throws:** Unless a Robot is specifically designed for combat, such as the Myrmidon Robot, they typically have Low to Abysmal saving throws on the monster creation guidelines.
 * **Weak to Electricity:** Like Clockworks, Robots typically have a weakness to electricity with a value that lies within the monster creation guidelines.
-* **Critically Vulnerable:** Malfunctioning Robots are prone to errors and may inherit the Critical Vulnerability passive ability.
-  * **Critical Vulnerability** On being struck by a Critical Hit, the Robot makes a DC 5 flat check. On a failure, the robot becomes flat-footed until the start of its turn and stunned 1.
+* **Construct Armor:** Replacing the *Vulnerable to critical hits* trait from 1e, the common monster ability Construct Armor demonstrates a Robot's weakness to critical hits instead.
 
 Outside of Numeria, Robots may have the Rare trait but within the land they only have Uncommon as many of the citizens there have at least heard of one.
 
-### Extraterrestrial
+## Effect Traits
 
-Extraterrestrials are creatures that are from a different planet than Golarion. Surprisingly enough, this is actually less common than Outsiders or creatures from other planes.
+### Beam
 
-Extraterrestrials typically have the Rare trait.
+Beams are rays of focused energy from technological sources that capable of inflicting a variety of effects - painful or otherwise. Some equipment, such as the [Scatterlight Suit](/Technology%20Guide/Armor/README.md#scatterlight-suit) are specifically designed to counter such rays. 
+
+Note that a beam is specifically technologic in nature. Spells such as [*ray of enfeeblement*](https://2e.aonprd.com/Spells.aspx?ID=244) do not get affected by anything that affects beams.
+
+### Laser
+
+Lasers are beams of intensely focused light capable of burning anything it strikes. Weapons and effects with the Laser trait are unaffected by force barriers and transparent physical barriers like windows. Invisible creatures are immune to Laser effects and damage from a Laser weapon.
+
+### Plasma
+
+Plasma is superheated, electrically charged gas. Effects with the plasma trait typically deal both fire and electricity damage in equal amounts. For effects that deal persistent damage, treat it as dealing persistent fire damage only.
 
 ## Equipment Traits
 

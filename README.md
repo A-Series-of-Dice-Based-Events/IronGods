@@ -17,7 +17,7 @@ Therefore if an entry is missing something in this guide, treat it as if it is u
 Book Name                                                          | Levels  | Conversion Status
 -------------------------------------------------------------------|---------|------------------
 [Fires of Creation - Book 1 of 6](Chapter1/README.md)              | 1 - 5   | Requires bumping to Lvl 5
-[Lords of Rust - Book 2 of 6](Chapter2/README.md)                  | 5 - 9   | 25% Complete
+[Lords of Rust - Book 2 of 6](Chapter2/README.md)                  | 5 - 9   | All encounters complete.
 [The Choking Tower - Book 3 of 6](Chapter3/README.md)              | 9 - 12  | Haven't begun
 [Valley of the Brain Collectors - Book 4 of 6](Chapter4/README.md) | 12 - 15 | Haven't begun
 [Palace of Fallen Stars - Book 5 of 6](Chapter5/README.md)         | 15 - 18 | Haven't begun
