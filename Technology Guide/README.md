@@ -34,6 +34,7 @@ To see an overview of the traits that were added, please click [here](/Traits/RE
 * [Numerian Fluids](#numerian-fluids)
 * [Skymetals](#skymetals)
   * [Glaucite](#glaucite)
+* [Artificial Intelligence](#artificial-intelligence)
 
 ## Silverdisks
 
