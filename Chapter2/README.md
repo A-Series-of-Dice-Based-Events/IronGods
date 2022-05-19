@@ -8,7 +8,7 @@
 - [Area F: The Clockwork Chapel](#f-the-clockwork-chapel)
 - [Area H: Smilers' Headquarters](#h-smilers-headquarters)
 - [Area J: Redtooth's Warren](#j-redtooths-warren)
-- [Area K: Manticore Lair](#k-manticore-lair)
+- [Area K: Manticore Lair](#k-manticore-lair-40-xp-trivial-threat)
 - [Area N: Receiver Array](#n-receiver-array)
 - [Area P: Haunted Wreck](#p-haunted-wreck)
 - [Part 3: Hellion's Domain](#part-3-hellions-domain)
@@ -452,7 +452,7 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
   - **Decipher Writing (Society): DC20 -** To decipher the meaning of Nalakai's prayer book.
   - **Recall Knowledge (Numerian Lore): DC14 -** To deduce this bigger threat is under Silver Mount.
 
-- **XP Award:** If the PCs find Nalakai's quarters and successfully decipher it award them a ??? XP
+- **XP Award:** If the PCs find Nalakai's quarters and successfully decipher it award them a 100 XP
 
 ### R4. Backup Batteries (60 XP, Low Threat)
 
@@ -467,6 +467,8 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 Note that [glaucite^](/Technology%20Guide/README.md#glaucite) isn't affected by the Black Pudding's Corrosive Touch and Corrosive Mass abilities.
 
 ### S. Underlevels.
+
+For XP advancement, it should be noted that players do not have to clear every room on this floor to proceed.
 
 #### S2. Guardpost (45 XP, Trivial Threat)
 
@@ -513,7 +515,7 @@ The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10,
   - some moni
   - 244x Silverdisks
 
-- **XP Award:** If the PCs open this cabinet and read through her notes award them ??? XP
+- **XP Award:** If the PCs open this cabinet and read through her notes award them 100 XP
 
 #### S7. Cavern Access (40 XP, Trivial Threat)
 
@@ -586,3 +588,31 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 - **Creatures:**
   - 3x [Scrapyard Robot^](Creatures/README.md#scrapyard-robot)
   - 1x [Hellion's Chassis^](Creatures/README.md#hellions-chassis)
+
+- **XP Awards:** There should be more than enough XP for your PCs to hit level 9 here but just to be safe award them 200 XP for completing the adventure!
+
+## Scrapwall Encounters
+
+d%     | Result                                                                         | Encounter Level
+-------|--------------------------------------------------------------------------------|----------------
+01-04  | 1d6 [acolytes of Hellion^](Creatures/README.md#acolyte-of-hellion)             | 5
+05-09  | 1 [scrapyard robot^](https://2e.aonprd.com/Monsters.aspx?ID=346)               | 5
+10-14  | 1d6 [caligni stalker](https://2e.aonprd.com/Monsters.aspx?ID=66)               | 6
+15-19  | 1d2 [junk golem](https://2e.aonprd.com/Monsters.aspx?ID=673)                   | 6
+20-24  | 1d12 [husk zombies](https://2e.aonprd.com/Monsters.aspx?ID=1919)               | 6
+25-29  | 1d12 [nuglubs](https://2e.aonprd.com/Monsters.aspx?ID=689)                     | 6
+30-34  | 1 [mutant manticore](#k-manticore-lair-40-xp-trivial-threat)                   | 6
+35-39  | 1d6 [observer robots^](Creatures/README.md#observer-robot)                     | 7
+40-44  | 1d12 Elite [husk zombies](https://2e.aonprd.com/Monsters.aspx?ID=1919)         | 7
+45-49  | 2 [caligni callers](https://2e.aonprd.com/Monsters.aspx?ID=1088)               | 7
+50-52  | 1 [voidglutton](https://2e.aonprd.com/Monsters.aspx?ID=1041)                   | 7
+53-57  | 1d12 Elite [gnagrifs](https://2e.aonprd.com/Monsters.aspx?ID=1613)             | 7
+58-62  | 1d8 [rust monsters](https://2e.aonprd.com/Monsters.aspx?ID=354)                | 7
+63-67  | 1d8 [caligni stalkers](https://2e.aonprd.com/Monsters.aspx?ID=661)             | 8
+68-72  | 1d8 Elite [giant vultures](https://2e.aonprd.com/Monsters.aspx?ID=1362)        | 8
+73-77  | 2 [black puddings](https://2e.aonprd.com/Monsters.aspx?ID=323)                 | 8
+78-82  | 1d8 [rust-risen^](Creatures/README.md#rust-risen)                              | 8
+83-87  | 1d6 [will-o'-wisps](https://2e.aonprd.com/Monsters.aspx?ID=414)                | 8
+88-92  | 1d6 [sabosans](https://2e.aonprd.com/Monsters.aspx?ID=453)                     | 8
+93-94  | 1 [ogre boss](https://2e.aonprd.com/Monsters.aspx?ID=319) & 2 [ogre gluttons](https://2e.aonprd.com/Monsters.aspx?ID=318) | 8
+95-100 | a 40 XP encounter from [Scrap-worth Repercussions](#scrap-worth-repercussions) | varies
