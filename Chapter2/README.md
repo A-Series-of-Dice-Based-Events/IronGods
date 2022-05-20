@@ -251,6 +251,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*technomancy^*](/Technology%20Guide/README.md#technomancy)
   - 7x [Battery^](/Technology%20Guide/Gear/README.md#battery)
   - 22x Silverdisks
+  - 53 gp, 6 sp
 
 ### I. Redtooth's Raiders Territory (40 XP, Trivial Threat)
 
@@ -313,9 +314,9 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 - **Loot:** 
   - Rusted Iron Coffer (Force Open DC 15)
     - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [cold iron](https://2e.aonprd.com/Equipment.aspx?ID=375) [dagger](https://2e.aonprd.com/Weapons.aspx?ID=3)*
-    - some moni
+    - 5 gp, 4sp
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [greataxe](https://2e.aonprd.com/Weapons.aspx?ID=21)*
-  - more moni
+  - 1 gp, 4 cp
   - 1x [*ring of the ram*](https://2e.aonprd.com/Equipment.aspx?ID=461)
   - 1x [EMP Pistol^](/Technology%20Guide/Weapons/README.md#emp-pistol)
 
@@ -512,7 +513,7 @@ The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10,
   - 1x [*North Wind's Night Verse*](https://2e.aonprd.com/Equipment.aspx?ID=1068)
   - 1x [Timeworn Hard Light Shield^](/Technology%20Guide/Armor/README.md#hard-light-shield)
   - 1x [Power Cable^](/Technology%20Guide/Gear/README.md#power-cable)
-  - some moni
+  - 14 gp, 12 sp
   - 244x Silverdisks
 
 - **XP Award:** If the PCs open this cabinet and read through her notes award them 100 XP
