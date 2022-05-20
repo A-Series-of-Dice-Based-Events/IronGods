@@ -47,7 +47,7 @@ Joram Kyte promises to give the PCs his [*wand of continuation (1st-level spell)
 ### A1. Barbican
 
 - **Skills:**
-  - **Climb (Athletics): DC15 -** To scale the stone walls.
+  - **Climb (Athletics): DC20 -** To scale the stone walls.
   - **Force Open (Athletics): DC 28-** To force open the iron portcullis.
   - **Force Open (Athletics): DC 25-** To force open the wooden doors.
 
@@ -66,7 +66,7 @@ The book is very loose on where the Smilers are actually placed. It is expected 
 ### A3. Ruined Keep
 
 - **Skills:**
-  - **Recall Knowledge (Medicine): DC15 -** To recognise the flesh being cooked as human.
+  - **Recall Knowledge (Medicine): DC20 -** To recognise the flesh being cooked as human.
 
 ### A5. Ruined Chapel (60XP, Low Threat)
 
@@ -80,7 +80,7 @@ If the PCs put Aldronard to rest, they each gain [Sarenrae](https://2e.aonprd.co
 ### A6. Ruined Stable
 
 - **Skills:**
-  - **Recall Knowledge (Butcher Lore, Medicine): DC12 -** To recognise the bodies as having been carved for meat.
+  - **Recall Knowledge (Butcher Lore, Medicine): DC15 -** To recognise the bodies as having been carved for meat.
 
 ### A7. Watchtower (80XP, Moderate Threat)
 
@@ -105,14 +105,14 @@ Award the PCs the following XP when they reach certain levels of Scrap-Worth:
 
 - **Skills in General:**
   - **Climb (Athletics): DC15 -** To scale the junk walls.
-  - **Seek (Perception): DC25 -** To find the hidden entrance into Area H.
+  - **Seek (Perception): DC24 -** To find the hidden entrance into Area H.
 
 ### B. Entrance to Scrapwall
 
 #### B1. Front Gate
 
 - **Skills:**
-  - **Force Open (Athletics): DC27 -** To force open the gate.
+  - **Force Open (Athletics): DC25 -** To force open the gate.
 
 The front gate has Hardness 8, HP 50 (BT 25). 
 
@@ -185,7 +185,7 @@ There's a total of 6 [Orc Warriors](https://2e.aonprd.com/Monsters.aspx?ID=325) 
 - **Skills:**
   - **Seek (Perception): DC25 -** To notice the hidden switch that opens the iron gear doors.
   - **Force Open (Athletics): DC30 -** To force open the iron gear doors.
-  - **Disable a Device (Thievery): DC30 -** To disable the iron gear doors.
+  - **Disable a Device (Thievery): DC25 -** To disable the iron gear doors.
 
 The iron gear doors have Hardness 18, 72 HP (36 BT).
 
@@ -251,6 +251,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*technomancy^*](/Technology%20Guide/README.md#technomancy)
   - 7x [Battery^](/Technology%20Guide/Gear/README.md#battery)
   - 22x Silverdisks
+  - 53 gp, 6 sp
 
 ### I. Redtooth's Raiders Territory (40 XP, Trivial Threat)
 
@@ -265,7 +266,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 #### J1. Entrance Warrens
 
 - **Skills:**
-  - **Seek (Perception): DC 20 -** To notice the secret doors.
+  - **Seek (Perception): DC 24 -** To notice the secret doors.
 
 #### J2. Rat Nest (0 XP (?), Trivial Threat)
 
@@ -313,9 +314,9 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 - **Loot:** 
   - Rusted Iron Coffer (Force Open DC 15)
     - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [cold iron](https://2e.aonprd.com/Equipment.aspx?ID=375) [dagger](https://2e.aonprd.com/Weapons.aspx?ID=3)*
-    - some moni
+    - 5 gp, 4sp
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [greataxe](https://2e.aonprd.com/Weapons.aspx?ID=21)*
-  - more moni
+  - 1 gp, 4 cp
   - 1x [*ring of the ram*](https://2e.aonprd.com/Equipment.aspx?ID=461)
   - 1x [EMP Pistol^](/Technology%20Guide/Weapons/README.md#emp-pistol)
 
@@ -327,15 +328,15 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 ### N. Receiver Array
 
 - **Skills:**
-  - **Recall Knowledge (Engineering Lore): DC15 -** To know where to place the [cylex^](/Technology%20Guide/Gear/README.md#cylex).
+  - **Recall Knowledge (Engineering Lore): DC18 -** To know where to place the [cylex^](/Technology%20Guide/Gear/README.md#cylex).
   - **Climb (Athletics): DC15 -** To reach the support structures of the array.
-  - **Disable a Device (Thievery): DC10 -** To arm the [cylex^](/Technology%20Guide/Gear/README.md#cylex)
+  - **Disable a Device (Thievery): DC13 -** To arm the [cylex^](/Technology%20Guide/Gear/README.md#cylex)
 
 - **XP Award:** If the PCs successfully destroy the receiver array, award them 200 XP.
 
 #### N4. Holding Chamber
 
-The door is made from glaucite (Hardness 9, HP 36 (BT 18))
+The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardness 9, HP 36 (BT 18))
 
 #### N6. Rhu-Chalik Den (40 XP, Trivial Threat)
 
@@ -449,8 +450,8 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 #### R2. Nalakai's Quarters
 
 - **Skills:** 
-  - **Decipher Writing (Society): DC20 -** To decipher the meaning of Nalakai's prayer book.
-  - **Recall Knowledge (Numerian Lore): DC14 -** To deduce this bigger threat is under Silver Mount.
+  - **Decipher Writing (Society): DC15 -** To decipher the meaning of Nalakai's prayer book (need to speak Orcish)
+  - **Recall Knowledge (Numerian Lore): DC10 -** To deduce this bigger threat is under Silver Mount.
 
 - **XP Award:** If the PCs find Nalakai's quarters and successfully decipher it award them a 100 XP
 
@@ -478,9 +479,9 @@ For XP advancement, it should be noted that players do not have to clear every r
 #### S3. Central Processor (40 XP, Trivial Threat)
 
 - **Skills:**
-  - **Force Open (Athletics): DC 32 -** To force open the doors to the room.
+  - **Force Open (Athletics): DC 34 -** To force open the doors to the room.
   - **Recall Knowledge (Engineering Lore): DC 20 -** To realise the [inhibitor facet^](Items/README.md#memory-facet) from Area P5 can be slotted in here to inhibit Hellion.
-  - **Seek (Perception): DC 30 -** To realise one of the slots on the central processor looks like it'd fit the [inhibitor facet^](Items/README.md#memory-facet)
+  - **Seek (Perception): DC 29 -** To realise one of the slots on the central processor looks like it'd fit the [inhibitor facet^](Items/README.md#memory-facet)
 
 The doors to the room have Hardness 10, HP 40 (BT 20).
 
@@ -504,7 +505,7 @@ The central processor has Hardness 9, HP 36 (BT 18).
 
 - **Skills:**
   - **Force Open (Athletics): DC30 -** To force open the doors of the cabinet.
-  - **Disable Device (Thievery): DC40 -** To pick the electronic locks of the cabinet.
+  - **Disable Device (Thievery): DC31 -** To pick the electronic locks of the cabinet.
 
 The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10, HP 40 (BT 20)
 
@@ -512,7 +513,7 @@ The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10,
   - 1x [*North Wind's Night Verse*](https://2e.aonprd.com/Equipment.aspx?ID=1068)
   - 1x [Timeworn Hard Light Shield^](/Technology%20Guide/Armor/README.md#hard-light-shield)
   - 1x [Power Cable^](/Technology%20Guide/Gear/README.md#power-cable)
-  - some moni
+  - 14 gp, 12 sp
   - 244x Silverdisks
 
 - **XP Award:** If the PCs open this cabinet and read through her notes award them 100 XP
@@ -520,7 +521,7 @@ The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10,
 #### S7. Cavern Access (40 XP, Trivial Threat)
 
 - **Skills:**
-  - **Balance (Acrobatics): DC7 -** To move along the beams successfully.
+  - **Balance (Acrobatics): DC13 -** To move along the beams successfully.
 
 - **Creatures:**
   - 2x [Caligni Caller](https://2e.aonprd.com/Monsters.aspx?ID=1088) - wearing [veemod goggles^](/Technology%20Guide/Gear/README.md#veemod-goggles) with [brown veemods^](/Technology%20Guide/Gear/README.md#veemod) to disable their light blindness.
@@ -543,7 +544,8 @@ Drinking the toxic sludge has a 5% chance of rolling on the [Numerian Fluids](/T
 #### S10. Blood Ghost Shrine
 
 - **Skills:**
-  - **Recall Knowledge (Planes Lore): DC20 -** To recognise the creature depicted is a [Xill](https://2e.aonprd.com/Monsters.aspx?ID=866)
+  - **Recall Knowledge (Planar Lore): DC22 -** To recognise the creature depicted is a [Xill](https://2e.aonprd.com/Monsters.aspx?ID=866)
+  - **Recall Knowledge (Occultism): DC24 -** To recognise the creature depicted is a [Xill](https://2e.aonprd.com/Monsters.aspx?ID=866)
   - **Recall Knowledge (Religion): DC15 -** To realise this is a place of worship, but not what the religion is.
 
 #### S11. Lair of the Blood Ghost (60 - 80 XP, Low to Moderate Threat)
@@ -561,7 +563,7 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
   - 1x [Draigs^](Creatures/README.md#draigs)
 
 - **Skills:**
-  - **Balance (Acrobatics): DC11 -** To move along the beam successfully
+  - **Balance (Acrobatics): DC13 -** To move along the beam successfully
 
 - **Loot:** Draigs' Nest
   - 11x [Battery^](/Technology%20Guide/Gear/README.md#battery)
@@ -579,6 +581,7 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 
 - **Skills:**
   - **Recall Knowledge (Numeria or Geography Lore): DC10 -** To recognise the scrawl as Silver Mount.
+  - **Recall Knowledge (Society): DC15 -** To recognise the scrawl as Silver Mount.
 
 - **Hazards:**
   - 3x [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138) - The glyph casts [*sound burst*](https://2e.aonprd.com/Spells.aspx?ID=292) at 3rd level, triggered by a any creatures walking over that aren't constructs or androids. DC 24.
@@ -590,6 +593,14 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
   - 1x [Hellion's Chassis^](Creatures/README.md#hellions-chassis)
 
 - **XP Awards:** There should be more than enough XP for your PCs to hit level 9 here but just to be safe award them 200 XP for completing the adventure!
+
+## Scrapwall Gazetteer
+
+![Scrapwall](Scrapwall/Scrapwall.png)
+
+- [PF2 Tools JSON](Scrapwall/Scrapwall.json)
+  - Use with [https://template.pf2.tools/]
+- [PDF](Scrapwall/Scrapwall.pdf)
 
 ## Scrapwall Encounters
 
