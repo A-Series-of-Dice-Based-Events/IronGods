@@ -18,6 +18,20 @@ A battery contains 10 charges when full. It is a single Interact action to inser
 
 When used it grants a +2 item bonus to any Identify Alchemy and Identify Pharmaceutical checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. This cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
 
+## Cylex
+
+**Traits** Uncommon, [Signal^](/Traits/README.md#signal), [Technology^](/Traits/README.md#technology)
+
+**Level** 7; **Price** 70 gp; **Bulk** L; **Craft DC** 26
+
+Cylex can be triggered to explode by using a Detonator or applying 10 or more points of electricity damage to it in a single turn. When detonated each use of cylex deals 6d6 bludgeoning damage and 6d6 fire damage to all creatures and objects within a 40-foot radius (basic DC 15 Reflex).
+
+## Detonator
+
+**Traits** [Powered^](/Traits/README.md#powered), [Signal^](/Traits/README.md#signal), [Technology^](/Traits/README.md#technology)
+
+**Price** 30 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/use; **Craft DC** 23
+
 ## E-pick
 
 **Traits** [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
@@ -44,6 +58,24 @@ Prismatic | 19    | +4         | 31       | Rare     | 800 gp
 
 A DC 15 Track action can follow the beacon's signal.
 
+## Emergency Raft
+
+**Traits** Uncommon, Consumable, Gadget, [Technology^](/Traits/README.md#technology), Vehicle
+
+**Level** 8; **Price** 200 gp; **Usage** vehicle; **Bulk** 2 **Craft DC** 24
+
+**Activate** (2 actions) Interact; **Effect** You command the emergency raft to unfurl. It quickly becomes a [Rowboat](https://2e.aonprd.com/Vehicles.aspx?ID=8)
+
+## Emergency Shelter
+
+**Traits** Rare, Consumable, Gadget, [Powered^](/Traits/README.md#powered), Structure, [Technology^](/Traits/README.md#technology)
+
+**Level** 10; **Price** 1,000 gp; **Usage** structure; **Bulk** 2; **Power Use** 1 charge/8 hours; **Craft DC** 24
+
+**Activate** (1 minute) Interact; **Frequency** 3 times a day; **Effect** The egg-shaped device rapidly unfolds into a hut capable of providing shelter for 6 Medium creatures. The climate inside the hut is comfortable and allows creatures inside it to withstand all hostile weather conditions, powerful storms, and winds provided it was anchored on solid ground. Creatures inside the hut become immune to inhaled poisons and diseases originating from outside the hut.
+
+The emergency shelter can be unfurled with a single Interact action provided there are no foreign elements inside it.
+
 ## Filter Mask
 
 **Traits** Uncommon, Air, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
@@ -53,6 +85,16 @@ A DC 15 Track action can follow the beacon's signal.
 Wearing the mask gives a +2 item bonus to all saving throws made to resist inhaled poisons and diseases even when not activated.
 
 **Activate** (1 action) Interact; **Power Use** 1 charge/hour **Effect** The creature wearing the mask becomes immune to all inhaled poisons and diseases.
+
+## Fire Extinguisher
+
+**Traits** Consumable, Gadget
+
+**Level** 6; **Price** 400 gp; **Hands** 2; **Bulk** 1; **Uses** 10; **Craft DC** 26
+
+**Activate** (2 actions) Interact; **Effect** You create 15 foot cone of misty vapor that extinguishes all nonmagical fires within its area of effect. For each continuous magical fire effect in the cone, make a counteract check at a +11 modifier. If it succeeds the effect is suppressed for 1 minute before it automatically reignites. A creature affected by persistent fire damage within the cone of effect may make a DC 10 flat check to end their condition immediately.
+
+**Activate** (2 actions) Ready; **Effect** You ready the fire extinguisher to put out any potential sources of instantaneous fire such as a [*fireball*](https://2e.aonprd.com/Spells.aspx?ID=119). If the source of fire is within a 15-foot cone of you, you may use your reaction to make a counteract check at a +11 modifier to counter the effect entirely.
 
 ## Flashlight
 
@@ -67,6 +109,14 @@ A flashlight emits bright light in a 60 foot cone and dim light in the next 60 f
 **Traits** Consumable
 
 **Price** 3 sp; **Hands** 1; **Bulk** -; **Craft DC** 14
+
+## Gravity Clip
+
+**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+
+**Level** 5; **Price** 120 gp; **Usage** affixed to weapon; **Capacity** 10; **Power Use** 1 charge/round; **Craft DC** 26
+
+Once affixed to a melee weapon, the first successful weapon Strike made with it each round gains a status bonus to damage equal to twice the number of weapon damage dice - as if were under the effects of [*gravity weapon*](https://2e.aonprd.com/Spells.aspx?ID=770).
 
 ## Grenade
 
@@ -120,6 +170,12 @@ Grippers can also be used in combat.
 
 When used to bind a creature, a few strips of activated ion tape require a successful DC 28 Escape check to break.
 
+## Magboots
+
+**Level** 4; **Price** 100 gp; **Usage** worn shoes; **Bulk** 1; **Craft DC** 20
+
+**Activate** (Free) Envision; **Power Use** 1 charge/hour; **Effect** You gain a climb speed equal to your land speed like [*spider climb*](https://2e.aonprd.com/Spells.aspx?ID=299) but only on metal surfaces.
+
 ## Medlance
 
 **Traits** Uncommon, Injection, [Technology^](/Traits/README.md#technology)
@@ -160,6 +216,14 @@ Blue        | 15    | 4,200 gp  | 33       | 7d8+13  | Casts *[regenerate](http:
 Orange      | 17    | 6,250 gp  | 34       | 8d8+15  | Casts *[moment of renewal](http://2e.aonprd.com/Spells.aspx?ID=201)*
 Prismatic   | 20    | 13,500 gp | 35       | 9d8+17  | Casts *[revival](http://2e.aonprd.com/Spells.aspx?ID=262)*
 
+## Power Cable
+
+**Traits** [Technology^](/Traits/README.md#technology)
+
+**Price** 30 gp; **Bulk** L; **Craft DC** 20
+
+It is a 3-action Activity to connect a technological device to a generator via a power cable.
+
 ## Radiation Detector
 
 **Traits** Rare, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
@@ -184,13 +248,21 @@ Mark V   | 10    | 850 gp | +5    | Rare     | 32
 
 **Traits** Uncommon, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical)
 
-**Level** 4; **Price** 30 gp; **Hands** 2; **Bulk** 1; **Craft DC** 20
+**Level** 4; **Price** 30 gp; **Hands** 2; **Bulk** 1; **Uses** 5; **Craft DC** 20
 
-A full trauma pack can be used 5 times before it is depleted.
-
-A trauma pack can be used as [Healer's Tools](https://2e.aonprd.com/Equipment.aspx?ID=25) for the sake of making [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) checks, but if a charge is expended the patient is not temporarily immune to further [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) actions made using trauma pack charges.
+A trauma pack can be used as [Healer's Tools](https://2e.aonprd.com/Equipment.aspx?ID=25) for the sake of making [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) checks, but if a use is expended the patient is not temporarily immune to further [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) actions made using trauma pack charges.
 
 You cannot use a trauma pack in this fashion for [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) DCs set above 20.
+
+## Trauma Pack Plus
+
+**Traits** Rare, Healing, [Pharmaceutical^](/Traits/README.md#pharmaceutical)
+
+**Level** 9; **Price** 800 gp; **Hands** 2; **Bulk** 1; **Uses** 5; **Craft DC** 26
+
+As the trauma pack, but a charge can be also expended to bring a creature that died in the last minute back to life. A creature brought back this way has no spells prepared or spell slots available, no points in any pools or any other daily resources, and still with any long-term debilitations of the old body, but persistent damage is removed.
+
+Trauma pack plus uses can be expended like a trauma pack use for [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57) DCs set up to 30.
 
 ## Veemod
 
