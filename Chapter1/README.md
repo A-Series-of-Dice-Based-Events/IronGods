@@ -549,18 +549,18 @@ d%     | Result                                                           | Enco
 10-13  | 1d4 [giant centipedes](http://2e.aonprd.com/Monsters.aspx?ID=77) | 1
 14-18  | 1 [giant fly](http://2e.aonprd.com/Monsters.aspx?ID=673)         | 1
 19-23  | 1d6 [flash beetles](http://2e.aonprd.com/Monsters.aspx?ID=49)    | 1
-24-28  | 1 [vexgit gremlin](http://2e.aonprd.com/Monsters.aspx?ID=688)    | 1
-29-32  | 1d6 [young slime molds^](Creatures/README.md#young-slime-mold)   | 1
+24-28  | 2 [vexgit gremlin](http://2e.aonprd.com/Monsters.aspx?ID=688)    | 2
+29-32  | 1d6 [young slime molds^](Creatures/README.md#young-slime-mold)   | 2
 33-35  | 1 [cockroach swarm](http://2e.aonprd.com/Monsters.aspx?ID=586)   | 2
 36-39  | 1d6 [giant maggots](http://2e.aonprd.com/Monsters.aspx?ID=672)   | 2
 40-46  | 1 [pilo^](Creatures/README.md#pilo)                              | 2
-47-51  | 1d6 [Ropefist thugs^](Creatures/README.md#ropefist-thug)         | 2
-52-57  | 1 [tsaalgrend^](Creatures/README.md#tsaalgrend)                  | 2
-58-63  | 1d6 [vegepygmies^](Creatures/README.md#vegepygmy)                | 2
-64-68  | 1 [giant flea](http://2e.aonprd.com/Monsters.aspx?ID=501)        | 3
+47-51  | 1d6 [Ropefist thugs^](Creatures/README.md#ropefist-thug)         | 3
+52-57  | 2 [tsaalgrend^](Creatures/README.md#tsaalgrend)                  | 3
+58-63  | 1d6 [vegepygmies^](Creatures/README.md#vegepygmy)                | 3
+64-68  | 2 [giant flea](http://2e.aonprd.com/Monsters.aspx?ID=501)        | 3
 69-74  | 1d4 [giant amoebas](http://2e.aonprd.com/Monsters.aspx?ID=751)   | 3
-75-79  | 1 [vermlek](http://2e.aonprd.com/Monsters.aspx?ID=500)           | 3
-80-86  | 1d4 [jinkin gremlins](http://2e.aonprd.com/Monsters.aspx?ID=247) | 3
-87-91  | 1d4 [skulks](http://2e.aonprd.com/Monsters.aspx?ID=805)          | 3
-92-96  | 1 [violet fungus](http://2e.aonprd.com/Monsters.aspx?ID=853)     | 3
+75-79  | 2 [vermlek](http://2e.aonprd.com/Monsters.aspx?ID=500)           | 4
+80-86  | 1d6 [jinkin gremlins](http://2e.aonprd.com/Monsters.aspx?ID=247) | 4
+87-91  | 1d6 [skulks](http://2e.aonprd.com/Monsters.aspx?ID=805)          | 4
+92-96  | 2 [violet fungus](http://2e.aonprd.com/Monsters.aspx?ID=853)     | 4
 97-100 | 1 [gray ooze](http://2e.aonprd.com/Monsters.aspx?ID=753)         | 4
