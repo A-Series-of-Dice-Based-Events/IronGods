@@ -1,4 +1,4 @@
-# Fires of Creation Lv 1-4
+# Fires of Creation Lv 1-5
 
 ## Table of Contents
 
@@ -17,7 +17,6 @@
 
 ## General GM Information
 
-- While the skills have been converted into appropriate action checks, the DCs themselves have not been converted into PF2e's DCs. You may wish to adjust them to fit if they aren't playing well.
 - Links that end with a carat (^) are custom converted content and will take you to their statblock in this repository. Links without it should take you to [Archives of Nethys](https://2e.aonprd.com/) or another SRD source.
 
 ## Advancement Track
@@ -27,9 +26,10 @@ There generally aren't enough encounters in this chapter for characters to level
 Level | XP Progression          | Milestone
 ------|-------------------------|----------
 1     | PCs begin at Lv 1       | PCs begin at Lv 1
-2     | Around Part 3, B7       | After completing Part 2
-3     | After completing Part 4 | After completing Part 4
-4     | After completing Part 5 | After completing Part 5
+2     | After completing Part 2 | After completing Part 2
+3     | After completing Part 3 | After completing Part 3
+4     | After completing Part 4 | After completing Part 4
+5     | After completing Part 5 | After completing Part 5
 
 ## Part 1: A Dying Torch
 
@@ -41,10 +41,6 @@ Each morning, have the PCs make a DC 2 Flat Check. On a failure, have them make 
 
 The bounty for finding Khonnir Baine is 250 gp, and a *scroll of [raise dead](http://2e.aonprd.com/Spells.aspx?ID=243)* if they bring Khonnir Baine back alive. Similarly, the bounty for reigniting Torch is also 250 gp.
 
-### Talking with the Council
-
-- **XP Award:** Grant the PCs 80 XP for finally starting.
-
 ### Visiting the Foundry (30 XP, Trivial Threat)
 
 - **Creatures:**
@@ -52,76 +48,56 @@ The bounty for finding Khonnir Baine is 250 gp, and a *scroll of [raise dead](ht
 
 ## Part 2: Black Hill Caves
 
-A common theme with this chapter is that there will be a "jackpot" loot pile that is incredibly difficult to get to, but the loot pile will usually contain almost as much as the rest of the dungeon combined. Due to its difficulty however it's expected the PCs will never see it. Therefore the loot breakdowns will be between "expected loot" and "maximum loot"
-
-Expected Loot
-
-Permanent Items                  | Consumable Items | Treasure             | Total Value
----------------------------------|------------------|----------------------|------------
-**3rd** 1,  **2nd** 1, **1st** 1 | **1st** 2        | 72 gp 5 sp 9 cp      | 173 gp 5 sp 9 cp
-
-Maximum Loot
-
-Permanent Items                  | Consumable Items     | Treasure             | Total Value
----------------------------------|----------------------|----------------------|------------
-**3rd** 2,  **2nd** 2, **1st** 9 | **3rd** 3, **1st** 3 | 108 gp 8 sp 9 cp     | 350 gp 7 sp 9 cp
-
-XP Breakdown
-
-Encounters | Story Awards | Total
------------|--------------|------
-516        | 170          | 686
-
-### A1. Entry Caves (60XP, Low Threat)
+### A1. Entry Caves (60 XP, Low Threat)
 
 - **Skills:**
   - **Identify Alchemy Action -** As foul as it is, it doesn't seem to be dangerous.
-  - **Track (Survival): DC20 -** There appear to have been several people that climbed onto the five-foot-high ledge.
+  - **Track (Survival): DC15 -** There appear to have been several people that climbed onto the five-foot-high ledge.
   - **Climb (Athletics): DC10 -** Required to climb the five-foot-high ledge, although if rope is used, the DC is reduced to 5.
 - **Creatures:**
   - 3x [Flash Beetles](https://2e.aonprd.com/Monsters.aspx?ID=49)
 
-### A2. First Expedition's Fate (60XP, Low Threat)
+### A2. First Expedition's Fate (60 XP, Low Threat)
 
 - **Creatures:**
   - 3x [Young Slime Mold^](Creatures/README.md#young-slime-mold)
-- **Loot - Perception - DC20:** One of the dead halflings under the mounds of mold
-  - Agate worth 10 sp
+- **Loot:** One of the dead halflings under the mounds of mold
+  - 12 gp, 9 sp
 
-### A3. Stalagmite Forest (30XP Reward)
+### A3. Stalagmite Forest
 
 - **Skills:**
   - **Recall Knowledge (Torch Lore): DC10 -** Recalls Parda Garr was a popular brawler in town.
-  - **Recall Knowledge (Medicine): DC12 -** Confirms that Parda Garr was killed by multiple stab wounds from a short-bladed weapon.
+  - **Recall Knowledge (Medicine): DC15 -** Confirms that Parda Garr was killed by multiple stab wounds from a short-bladed weapon.
 - **Loot:** Parda Garr's body
-  - 4 sp, 9cp
+  - 6 gp, 2 sp
 - **XP Award:** If the PCs deliver Parda Garr's body back to the town, award them 80 XP.
 
-### A4. Dark River Cave (60XP, Low Threat)
+### A4. Dark River Cave (60 XP, Low Threat)
 
 - **Creatures:**
   - 1x [Blindheim](http://2e.aonprd.com/Monsters.aspx?ID=570)
 - **Loot:** Mostly eaten body's belt pouch
   - 2x *[Minor healing potion](https://2e.aonprd.com/Equipment.aspx?ID=186)*
   - 1x [Religious symbol of Zyphus, Silver](http://2e.aonprd.com/Equipment.aspx?ID=41)
-  - 6 gp, 8 sp
+  - 11 gp, 7 sp
 
-### A5. Skulk Watch Post (40XP, Trivial Threat)
+### A5. Skulk Watch Post (40 XP, Trivial Threat)
 
 - **Skills:**
   - **Recall Knowledge (Society): DC20 -** Realises chalk drawings are of some unknown race.
 - **Creatures:**
   - 1x [Skulk named Luepel](http://2e.aonprd.com/Monsters.aspx?ID=805)
-- **Loot - Perception - DC20:** Rubble and refuse
+- **Loot** Rubble and refuse
   - 7x silverdisks
-- **XP Award:** If PCs recognize the meaning of the chalk drawings, award then 30 XP.
+- **XP Award:** If PCs decipher the meaning of the chalk drawings, award them 100 XP.
 
-### A6. Mold-ridden Tunnel (12XP Hazard, 40XP Reward)
+### A6. Mold-ridden Tunnel (12 XP Hazard)
 
 - **Skills:**
   - **Climb (Athletics): DC10 -** Climb down the 10-foot ledge.
-  - **Perception: DC12 -** Notices strange filaments growing along Gerrol's body.
-  - **Recall Knowledge (Dungeoneering Lore): DC16 -** Recognises filaments as [russet mold^](Hazards/README.md#russet-mold)
+  - **Perception: DC25 -** Notices strange filaments growing along Gerrol's body.
+  - **Recall Knowledge (Dungeoneering Lore): DC20 -** Recognises filaments as [russet mold^](Hazards/README.md#russet-mold)
   - **Recall Knowledge (Torch Lore): DC12 -** Remembers Gerrol recently proposed to Emilia Otterbie.
   - **Request (Diplomacy): DC15 -** Convincing Emilia to cremate Gerrol's body to stop a [vegepygmy^](Creatures/README.md#vegepygmy) spawning.
 - **Hazard:** [Brown Mold](http://2e.aonprd.com/Hazards.aspx?ID=35)
@@ -130,19 +106,19 @@ Encounters | Story Awards | Total
   - 1x [Chain shirt](http://2e.aonprd.com/Armor.aspx?ID=6)
   - 1x [Infiltrator thieves' tools](http://2e.aonprd.com/Equipment.aspx?ID=58)
   - 14 gp, 2 sp
-- **XP Award:** If PCs recognize Gerrol Sonder and bring his body back to Emilia Otterbie, award them 80 XP. If PCs recognize the Russet Mold and help to deal with it, award them another 30XP. Emilia's father will craft each PC a +1 weapon of their choice, but this is only delivered once they finish Part 2.
+- **XP Award:** If PCs recognize Gerrol Sonder and bring his body back to Emilia Otterbie, award them 100 XP. If PCs recognize the Russet Mold and help to deal with it, award them another 100 XP. Emilia's father will craft each PC a +1 weapon of their choice, but this is only delivered once they finish Part 2.
 
-### A7. Skulk Lair (80 - 180XP, Moderate to Extreme Threat)
+### A7. Skulk Lair (80 XP - 180 XP, Moderate to Extreme Threat)
 
 - **Skills:**
   - **Climb (Athletics): DC10 -** Scramble down west side of cave.
-  - **Climb (Athletics): DC15 -** Scaling down slope to Nar-Voth.
+  - **Climb (Athletics): DC25 -** Scaling down slope to Nar-Voth.
 - **Creatures:**
   - 2x [Skulks named Brath and Yadriss](http://2e.aonprd.com/Monsters.aspx?ID=805)
   - 1x [Skulk named Luepel from A5](http://2e.aonprd.com/Monsters.aspx?ID=805) as reinforcement
   - 1x [Elite Skulk named Sef^](Creatures/README.md#Sef) as reinforcement
 
-### A9. Junkyard Cave (60XP, Low Threat)
+### A9. Junkyard Cave (60 XP, Low Threat)
 
 - **Creatures:**
   - 1x [Elite Skulk named Sef](Creatures/README.md#Sef)
@@ -158,18 +134,18 @@ Encounters | Story Awards | Total
   - 1x *[+1 sap](http://2e.aonprd.com/Weapons.aspx?ID=37)*
   - 2x *[Lesser healing potion](http://2e.aonprd.com/Equipment.aspx?ID=186)*
   - 1x [Sunrod](http://2e.aonprd.com/Equipment.aspx?ID=137)
-  - 1x *[Scroll of comprehend language](http://2e.aonprd.com/Spells.aspx?ID=46)*
+  - 1x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [comprehend language](http://2e.aonprd.com/Spells.aspx?ID=46)*
   - 1x [Infiltrator thieves' tools](http://2e.aonprd.com/Equipment.aspx?ID=58)
   - 29 gp, 3 sp
 - **XP Awards:**
   - If PCs reach an agreement with Sef, give them XP as if they had defeated her and the skulks in combat (180 XP)
-  - If PCs finish Sef's request of clearing out the Gremlin Caves, grant them 80 XP.
+  - If PCs finish Sef's request of clearing out the Gremlin Caves, grant them 100 XP.
 
-### A10. Gremlin Caves (144XP, Moderate to Severe Threat)
+### A10. Gremlin Caves (144 XP, Moderate to Severe Threat)
 
 Gremlin Caves are split into rooms marked A10a and A10b. Each one of these marked rooms contains the listed encounters.
 
-#### A10a. Spring-loaded Spike Trap (8XP Hazard)
+#### A10a. Spring-loaded Spike Trap (8 XP Hazard)
 
 - **Hazard:** [Spring-loaded Spike Trap^](Hazards/README.md#spring-loaded-spike-trap)
 
@@ -178,14 +154,14 @@ Gremlin Caves are split into rooms marked A10a and A10b. Each one of these marke
 - **Creatures:**
   - 1x [Jinkin Gremlin](http://2e.aonprd.com/Monsters.aspx?ID=247)
 
-### A11. Jazvit's Lair (60XP, Low Threat)
+### A11. Jazvit's Lair (60 XP, Low Threat)
 
 **NB** Jinkin Gremlins in PF1e could cast *dimension door* at will, which was used to explain their presence in these caves. This was removed when they were translated into 2e, likely for balance reasons. However this creates a weird plothole. Come up with your own explanation for how these Gremlins got in, and how they're able to resupply their traps without ever leaving the cave (I used a fey portal).
 
 - **Creatures:**
   - 1x [Jazvit, Elite Jinkin Gremlin](http://2e.aonprd.com/Monsters.aspx?ID=247)
 
-The wall here has Hardness 24, HP 96 (BT 48), if the PCs want to try smashing.
+The wall here has Hardness 18, HP 72 (BT 36), if the PCs want to try smashing.
 
 ## Torch Event 1: Invitation to Silverdisk Hall
 
@@ -197,62 +173,46 @@ The wall here has Hardness 24, HP 96 (BT 48), if the PCs want to try smashing.
 - **Creatures:** If the PCs cause trouble at Silverdisk Hall
   - 3x [Elite Bodyguards](http://2e.aonprd.com/NPCs.aspx?ID=921)
   - [Garmen Ulreth^](Creatures/README.md#garmen-ulreth)
-- **XP Awards:** If the PCs do well gambling, award them 30 XP.
+- **XP Awards:** If the PCs RP Gambling well, or learn of the unscrupulous business practices here, award them 100 XP.
 
 ## Part 3: The Buried World
 
-Expected Loot
-
-Permanent Items      | Consumable Items     | Treasure | Total Value
----------------------|----------------------|----------|------------
-**4th** 2, **3rd** 1 | **3rd** 1, **1st** 5 | 0        | 289 gp 8 sp
-
-Maximum Loot
-
-Permanent Items                  | Consumable Items     | Treasure | Total Value
----------------------------------|----------------------|----------|------------
-**4th** 2, **3rd** 2,  **1st** 1 | **3rd** 1, **1st** 7 | 0        | 339 gp 8 sp
-
-XP Breakdown
-
-Encounters | Story Awards | Total
------------|--------------|------
-406        | 110          | 516
-
-### B2. Guardian on Standby (60XP, Low Threat)
+### B2. Guardian on Standby (80 XP, Moderate Threat)
 
 - **Creatures:**
-  - 1x [Repair Drone^](Creatures/README.md#repair-drone)
+  - 2x [Repair Drone^](Creatures/README.md#repair-drone)
 - **Loot:** On the repair drone (if defeated)
   - 5x [Polymer mesh net^](Items/README.md#polymer-mesh-net)
 
+Sneaking past the repair drones should award the same amount of XP as if they were defeated.
+
 ### B3. Wildlife Staging Room
 
-- **Loot - Perception - DC20** Rubble
+- **Loot** Rubble
   - 1x [Grippers^](/Technology%20Guide/Gear/README.md#grippers)
   - 1x [Black e-pick^](/Technology%20Guide/Gear/README.md#e-pick)
   - 2x [Batteries^](/Technology%20Guide/Gear/README.md#battery)
 
 ### B5. Functional Biolock
 
-If the PCs restore power to the area (see [B12](#b12-habitat-controls-80xp-reward)) the Biolock can cast *[remove disease](http://2e.aonprd.com/Spells.aspx?ID=251)* once a day at Counteract Level 5 with a +18 modifier.
+If the PCs restore power to the area (see [B12](#b12-habitat-controls)) the Biolock can cast *[remove disease](http://2e.aonprd.com/Spells.aspx?ID=251)* once a day at Counteract Level 5 with a +18 modifier.
 
-### B6. Taboo Cavern (60 XP, Low Threat)
+### B6. Taboo Cavern (40 XP, Trivial Threat)
 
 - **Creatures:**
   - 1x [Ghelarn^](Creatures/README.md#ghelarn)
 
-### B7. Alien Habitat (140 XP, Trivial to Severe Threat)
+### B7. Alien Habitat (120 XP, Severe Threat)
 
 - **Skills:**
   - **Climb (Athletics): DC25 -** To scale the dome's walls.
-  - **Perception: DC15 -** Able to see a glow coming from [B10](#b10-glowing-tunnel-30xp-reward).
+  - **Seek (Perception): DC15 -** Able to see a glow coming from [B10](#b10-glowing-tunnel).
 - **Creatures:**
-  - 7x [Kasatha Skeleton^](Creatures/README.md#kasatha-skeleton)
+  - 8x [Kasatha Skeleton^](Creatures/README.md#kasatha-skeleton)
 
-### B8. Ancient Alien Den (30XP Reward)
+### B8. Ancient Alien Den
 
-- **XP Award:** If the PCs recognise the meaning of the Kasatha cave drawings, award them 30 XP
+- **XP Award:** If the PCs learn of the Kasatha cave drawings, award them 200 XP
 
 ### B9. Ancient Alien Den (60XP, Low Threat)
 
@@ -263,23 +223,23 @@ If the PCs restore power to the area (see [B12](#b12-habitat-controls-80xp-rewar
 
 For the sake of the vermin repellant agent, ghelarns count as an arthropod.
 
-### B10. Glowing Tunnel (30XP Reward)
+### B10. Glowing Tunnel
 
 - **Skills:**
   - **Seek (Perception): DC11 -** Able to see through the hologram as if it were an *[illusory object](http://2e.aonprd.com/Spells.aspx?ID=160).*
-- **XP Award:** If the PCs see through the hologram, award them 30 XP
+- **XP Award:** If the PCs see through the hologram, award them 100 XP
 
-### B11. Malfunctioning Biolock (6XP Hazard)
+### B11. Malfunctioning Biolock (30 XP Hazard)
 
 - **Hazard:** [Malfunctioning Sterilizers^](Hazards/README.md#malfunctioning-sterilizers)
 
-### B12. Habitat Controls (80XP Reward)
+### B12. Habitat Controls
 
-Machines here have Hardness 18, 40 HP (20 BT).
+Machines here have Hardness 5, 20 HP (10 BT).
 
-- **XP Award:** If the PCs reactivate the habitat controls, award them 80 XP
+- **XP Award:** If the PCs reactivate the habitat controls, award them 300 XP
 
-### B13. Observation Room (80XP, Moderate Threat)
+### B13. Observation Room (80 XP, Moderate Threat)
 
 - **Skills:**
   - **Recall Knowledge (Religion): DC17 -** Identifies crude paintings as representation of Zyphus' unholy symbol.
@@ -288,7 +248,7 @@ Machines here have Hardness 18, 40 HP (20 BT).
 - **Loot:** On Hetuath's body
   - 2x *[+1 striking shortswords](http://2e.aonprd.com/Weapons.aspx?ID=43)*
   - 1x *[Coyote cloak](http://2e.aonprd.com/Equipment.aspx?ID=426)*
-- **Loot - Perception - DC20:** Under the table.
+- **Loot:** Under the table.
   - 1x Black-level access keycard
 
 **NB:** As *speak with dead* is no longer a spell (its closest equivalent is *[talking corpse](https://2e.aonprd.com/Spells.aspx?ID=329)* - an uncommon 4th level spell) and other spells that can possibly illuminate Hetuath's backstory aren't until higher levels - long after the PCs have left Torch. DMs that wish to relay his tragic tale to PCs may want to leave additional clues.
@@ -305,29 +265,13 @@ Machines here have Hardness 18, 40 HP (20 BT).
 
 ## Part 4: Technological Terrors
 
-Expected Loot
-
-Permanent Items                 | Consumable Items                            | Treasure  | Total Value
---------------------------------|---------------------------------------------|-----------|------------
-**5th** 1, **2nd** 4, **1st** 1 | **5th** 1, **4th** 2, **3rd** 3, **1st** 65 | 38 gp 5sp | 427 gp 4 sp
-
-Maximum Loot
-
-Permanent Items                            | Consumable Items                            | Treasure        | Total Value
--------------------------------------------|---------------------------------------------|-----------------|------------
-**5th** 1, **4th** 1, **2nd** 4, **1st** 1 | **5th** 2, **4th** 2, **3rd** 5, **1st** 66 | 38 gp 5sp       | 687 gp 4 sp
-
-XP Breakdown
-
-Encounters | Story Awards | Total
------------|--------------|------
-520        | 220          | 740
-
 ### C1. Security Desk
 
 - **Skills:**
-  - **Disable a Device (Thievery): DC25 -** Picks the lock to the storage closet without a black access keycard.
-  - **Disable a Device (Thievery): DC30 -** Picks the lock to the white bin in the storage closet without a white access keycard.
+  - **Disable a Device (Thievery): DC18 -** Picks the lock to the storage closet without a black access keycard.
+  - **Disable a Device (Thievery): DC20 -** Picks the lock to the white bin in the storage closet without a white access keycard.
+    - Remember to apply the -5 penalty if these checks aren't made with an expended charge of an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick)
+
 - **Loot:** Storage Closet
   - 1x [Flashlight^](../Technology%20Guide/Gear/README.md#flashlight)
   - 3x [Batteries^](/Technology%20Guide/Gear/README.md#battery)
@@ -341,31 +285,30 @@ Encounters | Story Awards | Total
 
 The white glaucite bin in the room has Hardness 5, HP 20 (BT 10). But smashing it has a 50% chance of detonating all of the grenades.
 
-### C3. Chemistry Lab (60XP, Low Threat)
+### C3. Chemistry Lab (60 XP, Low Threat)
 
 - **Creatures:**
-  - 2x [Boilborn^](Creatures/README.md#boilborn)
+  - 3x [Boilborn^](Creatures/README.md#boilborn)
 
-### C4. Geology Lab (60XP, Low Threat)
+### C4. Geology Lab (60 XP, Low Threat)
 
 - **Creatures:**
   - 1x [Cerebric Fungus^](Creatures/README.md#cerebric-fungus)
 - **Loot:** Box under the table
   - 3x [Timeworn flare guns^](/Technology%20Guide/Weapons/README.md#flare-gun)
-- **XP Award:** Award the players 30 XP if they recognise the significance of the computer monitors.
+- **XP Award:** Award the players 80 XP if they recognise the significance of the computer monitors.
 
 ### C5. Break Room
 
 - **Loot:** Cabinets
   - 120x [Goo Tubes^](/Technology%20Guide/Gear/README.md#goo-tube)
 
-### C6. Xenobiology (60XP - 160XP, Trivial to Extreme Threat)
+### C6. Xenobiology (40 XP, Trivial Threat)
 
 - **Skills:**
-  - **Recall Knowledge (Dungeoneering Lore): DC16 -** Recognises that the clerics succumbed to [russet mold^](Hazards/README.md#russet-mold) and spawned [vegepygmies^](Creatures/README.md#vegepygmy).
+  - **Recall Knowledge (Dungeoneering Lore): DC20 -** Recognises that the clerics succumbed to [russet mold^](Hazards/README.md#russet-mold) and spawned [vegepygmies^](Creatures/README.md#vegepygmy).
 - **Creatures:**
   - 1x [Violet Fungus](http://2e.aonprd.com/Monsters.aspx?ID=853)
-  - 5x [Vegepygmies^](Creatures/README.md#vegepygmy) from C7 as reinforcements
 - **Loot:** Followers of Brigh's corpses
   - 4x [Religious symbol of Brigh, Silver](http://2e.aonprd.com/Equipment.aspx?ID=41)
   - 3x *[+1 light hammers](http://2e.aonprd.com/Weapons.aspx?ID=29)*
@@ -373,12 +316,12 @@ The white glaucite bin in the room has Hardness 5, HP 20 (BT 10). But smashing i
   - 3x *[Lesser healing potion](http://2e.aonprd.com/Equipment.aspx?ID=186)*
   - 3d10+9 sp on each body.
 
-### C7. Greenhouse (100XP, Moderate Threat)
+### C7. Greenhouse (90 XP, Moderate Threat)
 
 - **Creatures:**
-  - 5x [Vegepygmies^](Creatures/README.md#vegepygmy)
+  - 6x [Vegepygmies^](Creatures/README.md#vegepygmy)
 
-### C8. Hydroponics Station (100XP, Moderate Threat)
+### C8. Hydroponics Station (90 XP, Moderate Threat)
 
 - **Creatures:**
   - 1x [Vrilledt^](Creatures/README.md#vrilledt)
@@ -388,40 +331,45 @@ The white glaucite bin in the room has Hardness 5, HP 20 (BT 10). But smashing i
 ### C9. Elevator
 
 - **Skills:**
-  - **Perception: DC15 -** Notices ceiling is hollow.
+  - **Seek (Perception): DC15 -** Notices ceiling is hollow.
   - **Climb (Athletics): DC15 -** To climb the shaft above the elevator.
-  - **Disable a Device (Thievery): DC15 -** To remove the broken element from the power cable.
-  - **Force Open (Athletics): DC20 -** To remove the broken element from the power cable.
-  - **Repair (Crafting): DC25 -** To fix the broken element. Activity takes 8 hours instead of 10 minutes.
-- **XP Award:** Award the players 30 XP for fixing the Elevator
+  - **Disable a Device (Thievery): DC15 -** To remove the broken element from the power cable
+    - This does not incur the -5 penalty for making a check on a technological device without an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick) charge.
+  - **Force Open (Athletics): DC15 -** To remove the broken element from the power cable.
+  - **Repair (Crafting): DC21 -** To fix the broken element. Activity takes 8 hours instead of 10 minutes.
+- **XP Award:** Award the players 100 XP for fixing the Elevator
 
-The ceiling has Hardness 9, HP 36 (BT 18) for those that wish to climb the shaft.
+The ceiling has Hardness 5, HP 20 (BT 10) for those that wish to climb the shaft.
 
-### C11. Medical Lab (40XP, Low Threat)
+### C11. Medical Lab (60 XP, Low Threat)
 
-- **Skills:**
-  - **Disable a Device (Thievery): DC20 -** To shut off the malfunctioning surgery seat.
 - **Creatures:**
-  - 1x [Medical Drone^](Creatures/README.md#medical-drone)
+  - 2x [Medical Drone^](Creatures/README.md#medical-drone)
+- **Hazards:**
+  - [Automated Surgery Assistant]()
+  - **Disable a Device (Thievery): DC20 -** To shut off the malfunctioning surgery seat.
 
 A surgery seat has Hardness 5, HP 20 (BT 10) if people want to just smash it.
 
-### C12. Sick Bay (100XP, Severe Threat)
+The drones in this room should attempt to sedate the PCs and drag them into the surgery seats.
+
+### C12. Sick Bay (120 XP, Severe Threat)
 
 - **Skills:**
-  - **Disable a Device (Thievery): DC30 -** To open the western doors without a white access keycard.
-  - **Disable a Device (Thievery): DC25 -** To open Khonnir's stasis pod without a black access keycard.
+  - **Disable a Device (Thievery): DC20 -** To open the western doors without a white access keycard.
+  - **Disable a Device (Thievery): DC18 -** To open Khonnir's stasis pod without a black access keycard.
+    - Remember to apply the -5 penalty if these checks aren't made with an expended charge of an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick)
 - **Creatures:**
-  - 1x [Medical Drone^](Creatures/README.md#medical-drone)
+  - 2x [Medical Drone^](Creatures/README.md#medical-drone)
   - 1x [Collector Robot^](Creatures/README.md#collector-robot)
-- **Loot - Perception - DC15:** Desk.
+- **Loot:** Desk.
   - 1x [Timeworn radiation detector^](/Technology%20Guide/Gear/README.md#radiation-detector)
   - 1x [Medlance^](/Technology%20Guide/Gear/README.md#medlance)
   - 1x [Timeworn brown nanite hypogun^](/Technology%20Guide/Gear/README.md#nanite-hypogun)
   - 2x [Nanite canisters^](/Technology%20Guide/Gear/README.md#nanite-canister)
   - 2x [Grade I Hemochem^](/Technology%20Guide/Pharmaceuticals/README.md#hemochem)
   - As well as all of [Khonnir Baine^](Creatures/README.md#khonnir-baine)'s gear.
-- **XP Award:** Award the players 80 XP for finally finding Khonnir Baine!
+- **XP Award:** Award the players 400 XP for finally finding Khonnir Baine!
 
 ## Torch Event 3: Sanvil's Betrayal (40 XP - Trivial Threat)
 
@@ -433,7 +381,7 @@ A surgery seat has Hardness 5, HP 20 (BT 10) if people want to just smash it.
 Each day [Khonnir Baine^](Creatures/README.md#khonnir-baine)'s stupefied value increases by 1. When it reaches stupefied 5, Khonnir can no longer speak. To remove this affliction, one needs to cast *[remove disease](http://2e.aonprd.com/Spells.aspx?ID=251)* with an effect level of 4 and a DC of 20, but the counteract check takes a -5 penalty if it is not coming from a technological device.
 
 - **Skills:**
-  - **Recall Knowledge (Medicine): DC20 -** Reveals that the serum the robots injected Khonnir with is affecting his mind.
+  - **Recall Knowledge (Medicine): DC24 -** Reveals that the serum the robots injected Khonnir with is affecting his mind.
 - **XP Award:** Award the players 80 XP if they manage to cure Khonnir Baine of his sickness.
 
 ## Torch Event 5: Garmen's Warehouse (100 XP - Moderate Threat)
@@ -441,44 +389,25 @@ Each day [Khonnir Baine^](Creatures/README.md#khonnir-baine)'s stupefied value i
 - **Skills:**
   - **Recall Knowledge (Torch Lore): DC15 -** To find the location of the warehouse.
   - **Gather Information (Diplomacy): DC15 -** To find the location of the warehouse.
-  - **Perception: DC15 -** To notice that the front and back doors aren't actually boarded up.
+  - **Seek (Perception) DC15 -** To notice that the front and back doors aren't actually boarded up.
   - **Pick a Lock (Thievery): DC30 -** To pick the locks on the front and back doors. Treat as a [Good Lock](http://2e.aonprd.com/Equipment.aspx?ID=30).
   - **Disable a Device (Thievery): DC20 -** To half the time spent dismantling a boarded up door and to avoid the guards noticing.
-  - **Perception: DC15 -** To notice that the front and back doors aren't actually boarded up.
+  - **Seek (Perception): DC15 -** To notice that the front and back doors aren't actually boarded up.
 - **Creatures:**
   - 1x [Garmen Ulreth^](Creatures/README.md#garmen-ulreth)
   - 4x [Ropefist Thug^](Creatures/README.md#ropefist-thug)
-- **Loot**
-- **Loot - Perception - DC20:** Hidden panel in Garmen's Desk
+- **Loot** Garmen's Desk
   - 50x silverdisks
 - **XP Award** If the PCs shut down the Power Relay and stop the headaches in Torch, award them 80 XP
 
-A boarded up door has has Hardness 5, HP 20 (BT 10) if people want to just smash it.
+A boarded up door has has Hardness 3, HP 12 (BT 6) if people want to just smash it.
 
 ## Part 5: Meltdown
 
-Expected Loot
-
-Permanent Items                                                  | Consumable Items                 | Treasure   | Total Value
------------------------------------------------------------------|----------------------------------|------------|------------
-**6th** 1, **5th** 3, **4th** 2, **3rd** 1, **2nd** 2, **1st** 4 | **5th** 1, **3rd** 2, **1st** 34 | 68 gp 3 sp | 1,026 gp 2 sp
-
-Maximum Loot
-
-Permanent Items                                                  | Consumable Items                 | Treasure   | Total Value
------------------------------------------------------------------|----------------------------------|------------|------------
-**6th** 2, **5th** 4, **4th** 2, **3rd** 1, **2nd** 2, **1st** 5 | **5th** 1, **3rd** 2, **1st** 36 | 92 gp 3 sp | 1,277 gp 7 sp
-
-XP Breakdown
-
-Encounters | Story Awards | Total
------------|--------------|------
-578        | 160          | 738
-
-### D1. Improvised Kennel (40 XP - Trivial Threat)
+### D1. Improvised Kennel (60 XP - Low Threat)
 
 - **Creatures:**
-  - 4x [Guard Dog](http://2e.aonprd.com/Monsters.aspx?ID=124)
+  - 4x [Hyena](https://2e.aonprd.com/Monsters.aspx?ID=270)
 
 ### D2. Power Distribution Hub (8XP Hazard)
 
@@ -497,7 +426,7 @@ Encounters | Story Awards | Total
   - 2x [Batteries^](/Technology%20Guide/Gear/README.md#battery)
   - 24x silverdisks
 
-The locker's door has Hardness 9, HP 33 (BT 18) if the PCs wish to finish the job.
+The locker's door has Hardness 9, HP 21 (BT 18) if the PCs wish to finish the job.
 
 ### D4. Storeroom (45 XP - Trivial Threat)
 
@@ -512,18 +441,19 @@ The locker's door has Hardness 9, HP 33 (BT 18) if the PCs wish to finish the jo
 - **Loot:** Goo Tube Vending Machine
   - 32x [Goo tubes^](/Technology%20Guide/Gear/README.md#goo-tube)
 
-### D6. Robotics Lab (60 XP - Low Threat)
+### D6. Robotics Lab (40 XP - Low Threat)
 
 - **Skills:**
   - **Recall Knowledge (Society): DC15 -** For a PC that understands Androffan to realise this is a manufacturing lab.
-  - **Disable a Device (Thievery): DC30 -** For a PC to destroy the machine.
+  - **Disable a Device (Thievery): DC20 -** For a PC that understands Androffan to sabotage the machine.
+    - This check does not incur the -5 penalty for checks without an e-pick charge as the machine is already logged in.
 - **Creatures:**
   - 2x [Repair Drone^](Creatures/README.md#repair-drone)
 - **XP Award:** When the PCs activate the command core reboot for the first time, award them XP for any robots they have not yet defeated from Part 3 onwards. If they manage to destroy the command core, award them 80XP.
 
-The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and want to try smashing it.
+The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and want to try smashing it.
 
-### D7. Fabrication Lab (60XP - Low Threat)
+### D7. Fabrication Lab (60 XP - Low Threat)
 
 - **Creatures:**
   - 1x [Gearsman^](Creatures/README.md#gearsman)
@@ -531,10 +461,10 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
   - 1x [Timeworn chemalyzer^](/Technology%20Guide/Gear/README.md#chemalyzer)
 - **Loot:** Gearsman
   - 1x [Timeworn neural inhibitor^](Items/README.md#neural-inhibitor) with 8 charges
-- **Loot - Perception - DC22:** Behind a monitor in the northwest.
+- **Loot:** Behind a monitor in the northwest.
   - 1x White-level access keycard
 
-### D8. Navigation Control Room (60XP - Low Threat)
+### D8. Navigation Control Room (60 XP - Low Threat)
 
 - **Skills:**
   - **Recall Knowledge (Religion): DC10 -** Recognises religious overtones of altar.
@@ -550,10 +480,12 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
   - 1x [Timeworn proximity helmet](Items/README.md#proximity-helmet)
   - 48x silverdisks
 
-### D9. Reactor Core (120XP - Severe Threat)
+### D9. Reactor Core (120 XP - Severe Threat)
 
 - **Skills:**
-  - **Disable a Device (Thievery): DC30 -** Deactivates the power transmitter.
+  - **Disable a Device (Thievery): DC20 -** Deactivates the power transmitter if the character doing so knows Androffan.
+  - **Disable a Device (Thievery): DC30 -** Deactivates the power transmitter If the character does not know Androffan.
+    - These checks do not incur the -5 penalty for checks without an e-pick charge as the terminals were already logged in.
 - **Creatures:**
   - 1x [Collector Robot^](Creatures/README.md#collector-robot)
   - 1x [Meyanda^](Creatures/README.md#meyanda)
@@ -565,7 +497,7 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
   - 2x [Nanite canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
   - 11x silverdisks
   - 1x White-level access keycard
-  - 9 gp, 3 sp
+  - 18 gp, 6 sp
 - **XP Award:** If the PCs manage to deactivate the power transmitter and reboot the reactor, award them 80XP for concluding the adventure.
 
 ## Torch Gazetteer
@@ -617,23 +549,23 @@ The machine has Hardness 18, HP 72 (BT 36) if PCs can't disable the machine and 
 
 d%     | Result                                                           | Encounter Level
 -------|------------------------------------------------------------------|----------------
-01–06  | 1 [boilborn^](Creatures/README.md#boilborn)                      | 1
-07–09  | 1d6 [giant rats](http://2e.aonprd.com/Monsters.aspx?ID=346)      | 1
-10–13  | 1d4 [giant centipedes](http://2e.aonprd.com/Monsters.aspx?ID=77) | 1
-14–18  | 1 [giant fly](http://2e.aonprd.com/Monsters.aspx?ID=673)         | 1
-19–23  | 1d6 [flash beetles](http://2e.aonprd.com/Monsters.aspx?ID=49)    | 1
-24–28  | 1 [vexgit gremlin](http://2e.aonprd.com/Monsters.aspx?ID=688)    | 1
-29–32  | 1d6 [young slime molds^](Creatures/README.md#young-slime-mold)   | 1
-33–35  | 1 [cockroach swarm](http://2e.aonprd.com/Monsters.aspx?ID=586)   | 2
-36–39  | 1d6 [giant maggots](http://2e.aonprd.com/Monsters.aspx?ID=672)   | 2
-40–46  | 1 [pilo^](Creatures/README.md#pilo)                              | 2
-47–51  | 1d6 [Ropefist thugs^](Creatures/README.md#ropefist-thug)         | 2
-52–57  | 1 [tsaalgrend^](Creatures/README.md#tsaalgrend)                  | 2
-58–63  | 1d6 [vegepygmies^](Creatures/README.md#vegepygmy)                | 2
-64–68  | 1 [giant flea](http://2e.aonprd.com/Monsters.aspx?ID=501)        | 3
-69–74  | 1d4 [giant amoebas](http://2e.aonprd.com/Monsters.aspx?ID=751)   | 3
-75–79  | 1 [vermlek](http://2e.aonprd.com/Monsters.aspx?ID=500)           | 3
-80–86  | 1d4 [jinkin gremlins](http://2e.aonprd.com/Monsters.aspx?ID=247) | 3
-87–91  | 1d4 [skulks](http://2e.aonprd.com/Monsters.aspx?ID=805)          | 3
-92–96  | 1 [violet fungus](http://2e.aonprd.com/Monsters.aspx?ID=853)     | 3
-97–100 | 1 [gray ooze](http://2e.aonprd.com/Monsters.aspx?ID=753)         | 4
+01-06  | 1 [boilborn^](Creatures/README.md#boilborn)                      | 1
+07-09  | 1d6 [giant rats](http://2e.aonprd.com/Monsters.aspx?ID=346)      | 1
+10-13  | 1d4 [giant centipedes](http://2e.aonprd.com/Monsters.aspx?ID=77) | 1
+14-18  | 1 [giant fly](http://2e.aonprd.com/Monsters.aspx?ID=673)         | 1
+19-23  | 1d6 [flash beetles](http://2e.aonprd.com/Monsters.aspx?ID=49)    | 1
+24-28  | 1 [vexgit gremlin](http://2e.aonprd.com/Monsters.aspx?ID=688)    | 1
+29-32  | 1d6 [young slime molds^](Creatures/README.md#young-slime-mold)   | 1
+33-35  | 1 [cockroach swarm](http://2e.aonprd.com/Monsters.aspx?ID=586)   | 2
+36-39  | 1d6 [giant maggots](http://2e.aonprd.com/Monsters.aspx?ID=672)   | 2
+40-46  | 1 [pilo^](Creatures/README.md#pilo)                              | 2
+47-51  | 1d6 [Ropefist thugs^](Creatures/README.md#ropefist-thug)         | 2
+52-57  | 1 [tsaalgrend^](Creatures/README.md#tsaalgrend)                  | 2
+58-63  | 1d6 [vegepygmies^](Creatures/README.md#vegepygmy)                | 2
+64-68  | 1 [giant flea](http://2e.aonprd.com/Monsters.aspx?ID=501)        | 3
+69-74  | 1d4 [giant amoebas](http://2e.aonprd.com/Monsters.aspx?ID=751)   | 3
+75-79  | 1 [vermlek](http://2e.aonprd.com/Monsters.aspx?ID=500)           | 3
+80-86  | 1d4 [jinkin gremlins](http://2e.aonprd.com/Monsters.aspx?ID=247) | 3
+87-91  | 1d4 [skulks](http://2e.aonprd.com/Monsters.aspx?ID=805)          | 3
+92-96  | 1 [violet fungus](http://2e.aonprd.com/Monsters.aspx?ID=853)     | 3
+97-100 | 1 [gray ooze](http://2e.aonprd.com/Monsters.aspx?ID=753)         | 4
