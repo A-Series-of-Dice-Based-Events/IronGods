@@ -125,7 +125,6 @@ The front gate has Hardness 8, HP 50 (BT 25).
 
 - **Skills:**
   - **Seek (Perception): DC20 -** To notice the arrow slit.
-
 - **Creatures:** 
   - Steel Hawk Brigand - Use the stats for a [Bandit](https://2e.aonprd.com/NPCs.aspx?ID=887) but with a [Longbow](https://2e.aonprd.com/Weapons.aspx?ID=76) instead of the sling.
 
@@ -210,7 +209,6 @@ The iron gear doors have Hardness 18, 72 HP (36 BT).
 
 - **Hazards:**
   - [Laser Turret^](Hazards/README.md#laser-turret)
-
 - **Loot:**
   - [Timeworn Laser Rifle^](/Technology%20Guide/Weapons/README.md#laser-rifle) - If the Laser Turret was deactivated without breaking it or it expending all its charges.
 
@@ -242,7 +240,6 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 - **Creatures:**
   - [Marrow^](Creatures/README.md#marrow)
   - 4x Elite [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
-
 - **Loot:**
   - 14x [Soothe^](Items/README.md#soothe)
   - 3x [Gas Grenade^](Items/README.md#gas-grenade)
@@ -307,10 +304,8 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 
 - **Creatures:**
   - 1x Elite [Manticore](https://2e.aonprd.com/Monsters.aspx?ID=294) - add the special ability of exposing anyone hit with its jaw Strike to [Low Radiation^](/Technology%20Guide/README.md#radiation)
-
 - **Hazards:**
   - The Manticore's nest is hazardous terrain that deals 5 points of slashing damage to any non-Manticore creature that moves through a square or ends its turn there.
-
 - **Loot:** 
   - Rusted Iron Coffer (Force Open DC 15)
     - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [cold iron](https://2e.aonprd.com/Equipment.aspx?ID=375) [dagger](https://2e.aonprd.com/Weapons.aspx?ID=3)*
@@ -331,7 +326,6 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - **Recall Knowledge (Engineering Lore): DC18 -** To know where to place the [cylex^](/Technology%20Guide/Gear/README.md#cylex).
   - **Climb (Athletics): DC15 -** To reach the support structures of the array.
   - **Disable a Device (Thievery): DC13 -** To arm the [cylex^](/Technology%20Guide/Gear/README.md#cylex)
-
 - **XP Award:** If the PCs successfully destroy the receiver array, award them 200 XP.
 
 #### N4. Holding Chamber
@@ -354,7 +348,6 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
 
 - **Creatures:**
   - 3x [Poltergeist](https://2e.aonprd.com/Monsters.aspx?ID=334)
-
 - **Loot:** 
   - 1x [Timeworn Grenade Launcher^](/Technology%20Guide/Weapons/README.md#grenade-launcher)
   - 3x [Concussion Grenade^](/Technology%20Guide/Gear/README.md#grenade)
@@ -373,7 +366,6 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
 
 - **Creatures:**
   - 4x [Skeletal Technician^](Creatures/README.md#skeletal-technician)
-
 - **Loot:**
   - 4x Gray Access Keycard
 
@@ -381,17 +373,14 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
 
 - **Hazards:**
   - 1x [Echoes of the Crash^](Hazards/README.md#echoes-of-the-crash)
-
 - **Creatures:**
   - 1x Yurian Valako, an Elite [Wraith](https://2e.aonprd.com/Monsters.aspx?ID=417)
-
 - **Loot:**
   - 1x [Timeworn Mind Burner^](Items/README.md#mind-burner)
   - 1x [Scatterlight Suit^](/Technology%20Guide/Armor/README.md#scatterlight-suit)
   - 1x [Envoy's Mouthpiece^](Items/README.md#envoys-mouthpiece)
   - 1x [Skillslot^](/Technology%20Guide/Cybertech/README.md#skillslot)
   - 1x [Inhibitor Facet^](Items/README.md#memory-facet)
-
  - **XP Award:** If the PCs successfully decipher the message from the Envoy's Mouthpiece, award them 200 XP.
 
 ## Part 3: Hellion's Domain
@@ -452,7 +441,6 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 - **Skills:** 
   - **Decipher Writing (Society): DC15 -** To decipher the meaning of Nalakai's prayer book (need to speak Orcish)
   - **Recall Knowledge (Numerian Lore): DC10 -** To deduce this bigger threat is under Silver Mount.
-
 - **XP Award:** If the PCs find Nalakai's quarters and successfully decipher it award them a 100 XP
 
 ### R4. Backup Batteries (60 XP, Low Threat)
@@ -485,10 +473,10 @@ For XP advancement, it should be noted that players do not have to clear every r
 
 The doors to the room have Hardness 10, HP 40 (BT 20).
 
-The central processor has Hardness 9, HP 36 (BT 18).
-
 - **Creatures:**
   - 4x [Observer Robot^](Creatures/README.md#observer-robot)
+
+The central processor has Hardness 9, HP 36 (BT 18).
 
 #### S4. Control Room (120 - 140 XP, Severe Threat)
 
@@ -502,7 +490,6 @@ The central processor has Hardness 9, HP 36 (BT 18).
 - **Loot:** On top of cabinet
   - 12x [Goo Tube^](/Technology%20Guide/Gear/README.md#goo-tube)
   - 2x [Cureall^](/Technology%20Guide/Pharmaceuticals/README.md#cureall)
-
 - **Skills:**
   - **Force Open (Athletics): DC30 -** To force open the doors of the cabinet.
   - **Disable Device (Thievery): DC31 -** To pick the electronic locks of the cabinet.
@@ -515,14 +502,12 @@ The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10,
   - 1x [Power Cable^](/Technology%20Guide/Gear/README.md#power-cable)
   - 14 gp, 12 sp
   - 244x Silverdisks
-
 - **XP Award:** If the PCs open this cabinet and read through her notes award them 100 XP
 
 #### S7. Cavern Access (40 XP, Trivial Threat)
 
 - **Skills:**
   - **Balance (Acrobatics): DC13 -** To move along the beams successfully.
-
 - **Creatures:**
   - 2x [Caligni Caller](https://2e.aonprd.com/Monsters.aspx?ID=1088) - wearing [veemod goggles^](/Technology%20Guide/Gear/README.md#veemod-goggles) with [brown veemods^](/Technology%20Guide/Gear/README.md#veemod) to disable their light blindness.
 
@@ -561,10 +546,8 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 
 - **Creatures:**
   - 1x [Draigs^](Creatures/README.md#draigs)
-
 - **Skills:**
   - **Balance (Acrobatics): DC13 -** To move along the beam successfully
-
 - **Loot:** Draigs' Nest
   - 11x [Battery^](/Technology%20Guide/Gear/README.md#battery)
   - 1x [Timeworn Magboots^](/Technology%20Guide/Gear/README.md#magboots)
@@ -582,7 +565,6 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 - **Skills:**
   - **Recall Knowledge (Numeria or Geography Lore): DC10 -** To recognise the scrawl as Silver Mount.
   - **Recall Knowledge (Society): DC15 -** To recognise the scrawl as Silver Mount.
-
 - **Hazards:**
   - 3x [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138) - The glyph casts [*sound burst*](https://2e.aonprd.com/Spells.aspx?ID=292) at 3rd level, triggered by a any creatures walking over that aren't constructs or androids. DC 24.
 
@@ -591,7 +573,6 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 - **Creatures:**
   - 3x [Scrapyard Robot^](Creatures/README.md#scrapyard-robot)
   - 1x [Hellion's Chassis^](Creatures/README.md#hellions-chassis)
-
 - **XP Awards:** There should be more than enough XP for your PCs to hit level 9 here but just to be safe award them 200 XP for completing the adventure!
 
 ## Scrapwall Gazetteer
