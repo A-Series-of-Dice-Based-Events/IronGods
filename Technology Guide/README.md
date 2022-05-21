@@ -127,7 +127,7 @@ Prismatic   | 17
 
 ## Timeworn Technology
 
-Items with the Timeworn trait are worth 50% of its original value, cannot be recharged - gaining the Consumable trait - and has a 50% chance of glitching under the following circumstances:
+Items with the Timeworn trait are worth 50% of its original value, cannot be recharged and has a 50% chance of glitching under the following circumstances:
 
 * When the item is used for the first time in a month or more of inactivty
 * Any time a single-use consumable is used
