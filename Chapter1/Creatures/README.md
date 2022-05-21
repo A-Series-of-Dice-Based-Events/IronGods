@@ -24,7 +24,7 @@ Sef is just an [Elite Skulk](http://2e.aonprd.com/Monsters.aspx?ID=805) with a b
 * [PF2 Tools JSON](PF2Tools/GarmenUlreth.json)
 * [PDF](PDFs/GarmenUlreth.pdf)
 
-Garmen is built as a Level 3 Rogue with the Scoundrel Racket.
+Garmen is built as a Level 4 Rogue with the Scoundrel Racket.
 
 ### Hetuath
 
@@ -63,7 +63,7 @@ In addition *[magic weapon](http://2e.aonprd.com/Spells.aspx?ID=182)* is no long
 * [PF2 Tools JSON](PF2Tools/Vrilledt.json)
 * [PDF](PDFs/Vrilledt.pdf)
 
-Vrilledt is a [Vegepygmy^](#vegepygmy) scaled to Level 3 and given some fighter feats.
+Vrilledt is a [Vegepygmy^](#vegepygmy) scaled to Level 4 and given some fighter feats.
 
 ### Khonnir Baine
 
@@ -86,7 +86,7 @@ Khonnir Baine is built as an evocation wizard with some alchemist and rogue feat
 * [PF2 Tools JSON](PF2Tools/Meyanda.json)
 * [PDF](PDFs/Meyanda.pdf)
 
-Meyanda is built as a Level 5 Android Cleric with a Harmful Font under the [delirium domain](http://2e.aonprd.com/Domains.aspx?ID=43).
+Meyanda is built as a Level 6 Android Cleric with a Harmful Font under the [delirium domain](http://2e.aonprd.com/Domains.aspx?ID=43).
 
 #### Meyanda's Items
 
