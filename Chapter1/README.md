@@ -346,12 +346,7 @@ The ceiling has Hardness 5, HP 20 (BT 10) for those that wish to climb the shaft
 - **Creatures:**
   - 2x [Medical Drone^](Creatures/README.md#medical-drone)
 - **Hazards:**
-  - [Automated Surgery Assistant]()
-  - **Disable a Device (Thievery): DC20 -** To shut off the malfunctioning surgery seat.
-
-A surgery seat has Hardness 5, HP 20 (BT 10) if people want to just smash it.
-
-The drones in this room should attempt to sedate the PCs and drag them into the surgery seats.
+  - [Automated Surgery Assistant^](Hazards/README.md)
 
 ### C12. Sick Bay (120 XP, Severe Threat)
 
@@ -395,7 +390,7 @@ Each day [Khonnir Baine^](Creatures/README.md#khonnir-baine)'s stupefied value i
   - **Seek (Perception): DC15 -** To notice that the front and back doors aren't actually boarded up.
 - **Creatures:**
   - 1x [Garmen Ulreth^](Creatures/README.md#garmen-ulreth)
-  - 4x [Ropefist Thug^](Creatures/README.md#ropefist-thug)
+  - 6x [Ropefist Thug^](Creatures/README.md#ropefist-thug)
 - **Loot** Garmen's Desk
   - 50x silverdisks
 - **XP Award** If the PCs shut down the Power Relay and stop the headaches in Torch, award them 80 XP

@@ -1,5 +1,7 @@
 # Hazard Statblocks
 
+Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these do **NOT** import directly into FoundryVTT.
+
 ## A. Black Hill Caves
 
 ### Russet Mold
@@ -26,6 +28,15 @@ Based on [Spear Launcher](http://2e.aonprd.com/Hazards.aspx?ID=4)
 
 * [JSON](MalfunctioningSterilizers.json)
 * [PDF](MalfunctioningSterilizers.pdf)
+
+## C. Science Deck
+
+### Automated Surgery Assistant
+
+![Automated Surgery Assistant](AutomatedSurgeryAssistant.png)
+
+* [JSON](AutomatedSurgeryAssistant.json)
+* [PDF](AutomatedSurgeryAssistant.pdf)
 
 ## D. Engineering Deck
 
