@@ -4,6 +4,14 @@ This section is likely going to be the most controversial of all the conversions
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
+## Arc Pistol
+
+**Level** 8; **Price** 600 gp; **Bulk** 1; **Hands** 1; **Range** 50 feet;
+
+**Traits** Uncommon, Electricity, [Technology^](/Traits/README.md#technology)
+
+**Capacity** 10; **Power Use** 1 charge; **Craft DC** 23;
+
 ## Autograpnel
 
 **Level** 6; **Price** 240 gp; **Bulk** 2; **Hands** 2; **Range** 30 feet;
@@ -81,3 +89,11 @@ EMP pistols deal no damage to living creatures.
 **Traits** Uncommon, Nonlethal, Sonic, [Technology^](/Traits/README.md#technology)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 22
+
+## Zero Pistol
+
+**Level** 8; **Price** 600 gp; **Bulk** 1; **Hands** 1; **Range** 50 feet;
+
+**Traits** Uncommon, Cold, [Technology^](/Traits/README.md#technology)
+
+**Capacity** 10; **Power Use** 1 charge; **Craft DC** 23

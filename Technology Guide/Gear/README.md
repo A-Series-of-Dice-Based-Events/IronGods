@@ -10,6 +10,16 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 A battery contains 10 charges when full. It is a single Interact action to insert or eject a battery from an item. Much like a [repeating](http://2e.aonprd.com/Traits.aspx?ID=374) weapon, it is often 3 Interact actions to replace an empty battery (eject used battery, retrieve new battery, insert new battery). When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
 
+## Commset
+
+**Traits** Rare, [Signal^](/Traits/README.md#signal), [Technology^](/Traits/README.md#technology)
+
+**Level** 12; **Price** 2,000 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 27
+
+When a message is broadcast on a commset, all other active commsets tuned to the same frequency within 1 mile will play the broadcasted message. Activating or deactivating a commset is a single interact action, and the commset uses 1 charge of power for each hour it remains active. Inactive commsets will not receive, play or broadcast messages.
+
+Broadcasting a message on a commset records video and audio footage of the creature doing so.
+
 ## Chemalyzer
 
 **Traits** Rare, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
@@ -161,6 +171,27 @@ Grippers can be used like a crowbar, negating the -2 item penalty to pry somethi
 Grippers can also be used in combat.
 
 **Activate** (2 actions) Interact; **Effect** Make a Strike, treating the grippers as an improvised weapon. On a successful hit, the grippers deal 1d4+7 points of bludgeoning damage.
+
+## Hologram Generator
+
+**Traits** [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+
+**Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 26
+
+**Activate** (2 actions) Interact; **Effect** You project an image from one of the holograms stored in the generator's memory banks within 500 feet. The type of image depends on the colour grade of the hologram generator (see below), but must fit within a 20-foot burst. Any creature that touches the image or uses the Seek action to examine it can attempt to disbelieve the illusion with a Will Save.
+
+Grade     | Level | Hologram Type                                   | Will DC  | Extra Traits                  | Cost
+----------|-------|-------------------------------------------------|----------|-------------------------------|-------
+Brown     | 1     | Static image only                               | 15       | Uncommon, Visual              | 15 gp
+Black     | 3     | Animated image, no sound                        | 18       | Uncommon, Visual              | 60 gp
+White     | 5     | Animated image with sound                       | 20       | Rare, Visual, Auditory        | 180 gp
+Blue      | 13    | Animated image with sound and touch (see below) | 31       | Rare, Visual, Auditory, Force | 3,000 gp
+
+Blue grade hologram projectors enable the image to interact with the environment through manipulating graviton fields. This allows for creative uses as the following:
+
+- If a creature is generated, it gains the minion trait (acts on your turn, gains 2 actions with Command an Animal). Its attack modifier is +14 and any DCs it may use for offensive abilities is 22. Any damage it does is equal to 20 damage or what the projected creature would have dealt (including resistances), whichever is lower. This damage is always force damage.
+  - As an example, a creature with slashing resist 5 being hit with a project creature's attack that would have dealt 15 slashing damage before resistance would take 10 force damage.
+- If a barrier is generated, the barrier has Hardness 10, HP 40 (BT 20).
 
 ## Ion Tape
 
