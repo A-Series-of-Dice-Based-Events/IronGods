@@ -31,6 +31,13 @@ Ilaris is a 10th level Magus with some spell trickster and rogue feats. She cann
 * 5x [Concussion Grenade^](/Technology%20Guide/Gear/README.md#grenade)
 * 2x [Battery^](/Technology%20Guide/Gear/README.md#battery)
 
+### Furkas Xoud
+
+![Furkas Xoud](PNGs/FurkasXoud.png)
+
+* [PF2 Tools JSON](PF2Tools/FurkasXoud.json)
+* [PDF](PDFs/FurkasXoud.pdf)
+
 ## New Creatures
 
 ### Yaoguai
@@ -80,9 +87,23 @@ Ilaris is a 10th level Magus with some spell trickster and rogue feats. She cann
 
 * 1x [Timeworn Laser Rifle^](/Technology%20Guide/Weapons/README.md#laser-rifle)
 
+### Warden Robot
+
+![Warden Robot](PNGs/WardenRobot.png)
+
+* [PF2 Tools JSON](PF2Tools/WardenRobot.json)
+* [PDF](PDFs/WardenRobot.pdf)
+
 ### Star Monarch
 
 ![Star Monarch](PNGs/StarMonarch.png)
 
 * [PF2 Tools JSON](PF2Tools/StarMonarch.json)
 * [PDF](PDFs/StarMonarch.pdf)
+
+### Riot Suppressor
+
+![Riot Suppressor](PNGs/RiotSuppressor.png)
+
+* [PF2 Tools JSON](PF2Tools/RiotSuppressor.json)
+* [PDF](PDFs/RiotSuppressor.pdf)

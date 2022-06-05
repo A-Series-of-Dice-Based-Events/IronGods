@@ -13,12 +13,12 @@
 
 ## Advancement Track
 
-Level | XP Progression                              | Milestone
-------|---------------------------------------------|----------
-9     | PCs begin at Lv 9                           | PCs begin at Lv 9
-10    | After completing Part 3                     | After completing Part 3
-11    | After completing Area G                     | After completing Area G
-12    | After completing Part 4 and two side-quests | After completing Part 4
+Level | XP Progression                           | Milestone
+------|------------------------------------------|----------
+9     | PCs begin at Lv 9                        | PCs begin at Lv 9
+10    | After completing Part 3                  | After completing Part 3
+11    | After completing Area G                  | After completing Area G
+12    | After completing Part 4 and a side-quest | After completing Part 4
 
 ## Part 1: Intrigue in Iadenveigh
 
@@ -66,7 +66,7 @@ The capstone on the well has 40 Bulk, meaning it likely needs at least 4 creatur
 - **Creatures:**
   - 1x [Bionanite Cloud^](Creatures/README.md#bionanite-cloud)
 - **Hazards:**
-  - 1x [Malfunctioning Doorway^]()
+  - 1x [Malfunctioning Doorway^](Hazards/README.md#malfunctioning-doorway)
 
 ### A2. Administration
 
@@ -123,7 +123,7 @@ The door to this room has been repaired and only needs a single Interact action 
 ### A9. Demarcation Line (8 XP, Trivial Threat)
 
 - **Hazards:**
-  - 1x [Collapsing Rubble^]()
+  - 1x [Collapsing Rubble^](Hazards/README.md#collapsing-rubble)
 
 ### A10. Robot Battlefield (60 XP, Low Threat)
 
@@ -148,10 +148,10 @@ The door to this room has been repaired and only needs a single Interact action 
 
 The door here has Hardness 18, HP 72 (BT 36)
 
-### A13. Gas Canisters (40 XP, Trivial Threat)
+### A13. Gas Canisters (40 XP, Moderate Threat)
 
 - **Hazards:**
-  - 1x [Decayed Nanotech Mutagen Fumes^]()
+  - 1x [Decayed Nanotech Mutagen Fumes^](Hazards/README.md#decayed-nanotech-mutagen-fumes)
 - **XP Award:** If the PCs remove the threat of the gas canisters to the town, award them 200 XP.
 
 ### A14. Nanotech Laboratory (30 XP, Trivial Threat)
@@ -183,7 +183,7 @@ The door here has Hardness 18, HP 72 (BT 36)
 ### C. The Buried Killer (80 XP, Moderate Threat)
 
 - **Creatures:**
-  - 1x [Warden Robot^]()
+  - 1x [Warden Robot^](Creatures/README.md#warden-robot)
 - **Loot:** Hill giant's bag
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [mithral](https://2e.aonprd.com/Equipment.aspx?ID=377) [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=47)*
   - 1x *[bag of tricks]* ??
@@ -192,19 +192,19 @@ The door here has Hardness 18, HP 72 (BT 36)
 ### D. Longdreamer's Lair (80 XP, Moderate Threat)
 
 - **Creatures:**
-  - 1x Longdreamer - A [Star Monarch^]()
+  - 1x Longdreamer - A [Star Monarch^](Creatures/README.md#star-monarch)
 
 ### E. Secret Entrance
 
 - **Skills:**
-  - **Seek (Perception): DC 30 -** To find this entrance to the Choking Tower's Dungeon (see area [G6]())
+  - **Seek (Perception): DC 30 -** To find this entrance to the Choking Tower's Dungeon (see area [G6](#g6-escape-tunnel))
 
 ## Part 4: Below a Smoke-filled Sky
 
 ### F1. Choking Tower Entrance
 
 - **Skills:**
-  - **Track (Survival): DC 20 -** To follow the tracks back to the [Hill Giant Campsite]()
+  - **Track (Survival): DC 20 -** To follow the tracks back to the [Hill Giant Campsite](#b-hill-giant-campsite-60-xp-low-threat)
   - **Disable a Device (Thievery): DC 30-** To jury-rig repairs for the wheel.
 
 ### F2. Front Hall (6 XP, Trivial Threat)
@@ -215,14 +215,14 @@ The door here has Hardness 18, HP 72 (BT 36)
 ### F3. Guard Post (80 XP, Moderate Threat)
 
 - **Creatures:**
-  - 2x [Riot Suppressors^]()
+  - 2x [Riot Suppressors^](Creatures/README.md#riot-suppressor)
 - **Loot:** Toolbox
   - 11x [Battery^](/Technology%20Guide/Gear/README.md#battery)
 
 ### F4. Hallway (120 XP, Severe Threat)
 
 - **Creatures:**
-  - 1x [Furkas Xoud^]()
+  - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
 
 Note that Furkas Xoud only attacks for 2 rounds before retreating.
 
@@ -236,11 +236,11 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 ### F6. Library
 
 - **Loot:**
-  - 1x Furkas Xoud's [spellbook](). Contains the following spells:
-    - **2nd**
-    - **1st**
+  - 1x Furkas Xoud's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53). Contains the following spells:
+    - **2nd** *[dispel magic](https://2e.aonprd.com/Spells.aspx?ID=78), [mirror image](https://2e.aonprd.com/Spells.aspx?ID=197), [obscuring mist](https://2e.aonprd.com/Spells.aspx?ID=210)*
+    - **1st** *[magic missile](https://2e.aonprd.com/Spells.aspx?ID=180), [mage armor](https://2e.aonprd.com/Spells.aspx?ID=176), [technomancy^](/Technology%20Guide/README.md#technomancy)*
 
-### F7. Reading Nook (80 XP, Moderate Threat)
+### F7. Reading Nook (60 XP, Low Threat)
 
 - **Hazards:**
   - 1x [Nightmare Fumes^]()
@@ -255,7 +255,7 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Creatures:**
   - 3x [Gearghost^]()
 - **Loot:**
-  - moni
+  - moni in the form of gold leaf stripped from furniture, silverware and other valuables looted from the tower.
 
 ### F10. Supply Closet
 
@@ -321,7 +321,7 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Loot:** Secret Shelf
   - 3 spellbooks (wizard 14)
 - **Creatures:**
-  - 1x [Furkas Xoud^]()
+  - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
 
 Note that Furkas Xoud retreats after taking 30 damage.
 
@@ -342,6 +342,7 @@ Note that Furkas Xoud retreats after taking 30 damage.
 - **Creatures:**
   - 2x [Riot Suppressor^]()
   - 3x Elite [Azer](https://2e.aonprd.com/Monsters.aspx?ID=1074)
+- **XP Award:** For each Azer that survives the fight, award the PCs ??? XP
 
 ### F29. Storage Closet
 
@@ -353,8 +354,8 @@ Note that Furkas Xoud retreats after taking 30 damage.
   - 200x Bolts
   - 20x [Silver Bolts]()
   - 40x [Cold Iron Bolts]()
-  - 5x *[Screaming Bolts]()*
-  - 10x [Adamantine Bolts]()
+  - 5x *[Terrifying Ammounition](https://2e.aonprd.com/Equipment.aspx?ID=725)*
+  - 10x [Adamantine Bolts](https://2e.aonprd.com/Equipment.aspx?ID=374)
 
 ### F30. Forge Supplies (80 XP, Moderate Threat)
 
@@ -389,7 +390,7 @@ Note that Furkas Xoud retreats after taking 30 damage.
   - 1x *[eversmoking bottle]()*
 - **Creatures:**
   - 1x belker - need to bump up to lvl 11? https://2e.aonprd.com/Monsters.aspx?ID=648
-  - 1x [Furkas Xoud^]() - if the PCs open the *[eversmoking bottle]()*
+  - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud) - if the PCs open the *[eversmoking bottle]()*
 
 Note that Furkas Xoud retreats almost immediately.
 
@@ -410,7 +411,7 @@ Note that Furkas Xoud retreats almost immediately.
   - 3x *[Scroll]() of [gaseous form]()*
   - 1x horn of fog
   - 1x *[Bottle of Air]()*
-  - 1x [orichalcum]() rod that opens the door to the dungeons in area [F23.]()
+  - 1x [orichalcum]() rod that opens the door to the dungeons in area [F23.](#f23-master-bedroom-152-xp-extreme-threat)
 
 ## G. Choking Tower Dungeon
 
@@ -454,34 +455,35 @@ Note that Furkas Xoud retreats almost immediately.
 ### G8. Smoke Furnace
 
 - **Skills:**
-  - **Disable a Device (Perception): DC35 -** To open the door to [G9]()
-  - **Force Open (Athletics): DC40 -** To open the door to [G9]()
+  - **Disable a Device (Perception): DC35 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
+  - **Force Open (Athletics): DC40 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
   - **Recall Knowledge (Engineering Lore): DC 25 -** To know that using a [nanite canister^](/Technology%20Guide/Gear/README.md#nanite-canister) on the door can reduce the above DCs to open it by 15.
+- **XP Award:** Grant the PCs 200 XP when they manage to open the door to [G9.](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
 
 ### G9. Lab Zero: Mnemotechnic Recovery (160 XP, Extreme Threat)
 
 - **Creatures:**
   - 1x [Thought Harvester Robot^]()
-  - 1x [Furkas Xoud^]()
+  - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
 
-Here is the only place where Furkas Xoud fights to the (re)-death.
+Here is the only place where Furkas Xoud fights to the (re)death.
 
 - **Loot:**
   - 1x [Scatterlight Suit^](/Technology%20Guide/Armor/README.md#scatterlight-suit)
   - 22x [Moderate Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
-  - 1x *[+2]() [striking]() [EMP Pistol^](/Technology%20Guide/Weapons/README.md#emp-pistol)*
+  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [EMP Pistol^](/Technology%20Guide/Weapons/README.md#emp-pistol)*
   - 1x [Laser Sight^]() - attached to EMP Pistol
   - 1x +2 cloak of resistance
   - 1x goggles of minute seeing
   - 1x ring of mminor fire resistance
-  - 1x ring of forcefangs
+  - 1x *[brooch of shielding](https://2e.aonprd.com/Equipment.aspx?ID=418)*
   - 1x *[rod of gripping smoke^]()*
 
 <!-- only 450 xp here -->
 
 ## Missions in Numeria
 
-A significant amount of XP remains for the PCs to reach Level 12. The appendix of this book offers three side-quest adventures that can be done after completing the Choking Tower to get them up to that level. For XP advancement purposes this book assumes the players take on two of these three side-quests before reaching level 12.
+A significant amount of XP remains for the PCs to reach Level 12. The appendix of this book offers three side-quest adventures that can be done after completing the Choking Tower to get them up to that level. For XP advancement purposes this book assumes the players takes on one of these three side-quests before reaching level 12.
 
 ### Black Beacon
 
