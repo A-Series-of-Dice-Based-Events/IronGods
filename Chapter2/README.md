@@ -597,7 +597,7 @@ d%     | Result                                                                 
 35-39  | 1d6 [observer robots^](Creatures/README.md#observer-robot)                     | 7
 40-44  | 1d12 Elite [husk zombies](https://2e.aonprd.com/Monsters.aspx?ID=1919)         | 7
 45-49  | 2 [caligni callers](https://2e.aonprd.com/Monsters.aspx?ID=1088)               | 7
-50-52  | 1 [voidglutton](https://2e.aonprd.com/Monsters.aspx?ID=1041)                   | 7
+50-52  | 1 [gearghost^](Creatures/README.md#gearghost)                                  | 7
 53-57  | 1d12 Elite [gnagrifs](https://2e.aonprd.com/Monsters.aspx?ID=1613)             | 7
 58-62  | 1d8 [rust monsters](https://2e.aonprd.com/Monsters.aspx?ID=354)                | 7
 63-67  | 1d8 [caligni stalkers](https://2e.aonprd.com/Monsters.aspx?ID=661)             | 8
