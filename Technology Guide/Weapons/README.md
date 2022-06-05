@@ -42,7 +42,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 9 **Price** 700 gp; **Bulk** 1; **Hands** 1; **Range** 50 feet;
 
-**Traits** Rare, Electricity, **[Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Beam^](/Traits/README.md#beam), Electricity, **[Technology^](/Traits/README.md#technology)
 
 **Capacity** 10; **Power Use** 1; **Craft DC** 25
 

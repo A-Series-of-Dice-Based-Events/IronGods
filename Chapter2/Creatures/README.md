@@ -276,3 +276,10 @@ Note that the Scrapyard Robot's Construct Armor is only removed on a critical hi
 
 * [PF2 Tools JSON](PF2Tools/ObserverRobot.json)
 * [PDF](PDFs/ObserverRobot.pdf)
+
+### Gearghost
+
+![Gearghost](PNGs/Gearghost.png)
+
+* [PF2 Tools JSON](PF2Tools/Gearghost.json)
+* [PDF](PDFs/Gearghost.pdf)
