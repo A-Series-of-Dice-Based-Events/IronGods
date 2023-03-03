@@ -88,26 +88,55 @@ You also gain access to the [Install Cybertech^](Cybertech/README.md#install-cyb
 
 ## New Spells
 
-### Technomancy
+Spell rarity has been left up to the GM, but it's pretty safe to assume these spells are all Rare, with the only people that have access being Technic League members.
 
-![Technomancy](Technomancy.png)
-
-* [JSON](Technomancy.json)
-* [PDF](Technomancy.pdf)
+Use the JSON files with [https://template.pf2.tools/]. Be aware these do **NOT** import directly into FoundryVTT.
 
 ### Detect Radiation
 
-![Detect Radiation](DetectRadiation.png)
+![Detect Radiation](Spells/DetectRadiation.png)
 
-* [JSON](DetectRadiation.json)
-* [PDF](DetectRadiation.pdf)
+* [JSON](Spells/DetectRadiation.json)
+* [PDF](Spells/DetectRadiation.pdf)
+
+### Irradiate
+
+![Irradiate](Spells/Irradiate.png)
+
+* [JSON](Spells/Irradiate.json)
+* [PDF](Spells/Irradiate.pdf)
 
 ### Rebuke Technology
 
-![Rebuke Technology](RebukeTechnology.png)
+![Rebuke Technology](Spells/RebukeTechnology.png)
 
-* [JSON](RebukeTechnology.json)
-* [PDF](RebukeTechnology.pdf)
+* [JSON](Spells/RebukeTechnology.json)
+* [PDF](Spells/RebukeTechnology.pdf)
+
+### Recharge
+
+![Recharge](Spells/Recharge.png)
+
+* [JSON](Spells/Recharge.json)
+* [PDF](Spells/Recharge.pdf)
+
+Recharge now works similarly to [Treat Wounds](https://2e.aonprd.com/Actions.aspx?ID=57), where it's possible to gamble with the amount recharged, but without penalising the player for "doing too well."
+
+### Remove Radioactivity
+
+![Remove Radioactivity](Spells/RemoveRadioactivity.png)
+
+* [JSON](Spells/RemoveRadioactivity.json)
+* [PDF](Spells/RemoveRadioactivity.pdf)
+
+This spell has been simplified to just that of the greater version as the effects of radiation can both be alleviated with *[neutralize poison](https://2e.aonprd.com/Spells.aspx?ID=207)* and *[restoration](https://2e.aonprd.com/Spells.aspx?ID=258)*
+
+### Technomancy
+
+![Technomancy](Spells/Technomancy.png)
+
+* [JSON](Spells/Technomancy.json)
+* [PDF](Spells/Technomancy.pdf)
 
 ## Color Grading
 
@@ -176,13 +205,13 @@ Intensity | Fort DC | Drained value | Radiation Poisoning
 Low       | 13      | 1             | Stage 1
 Medium    | 17      | 2             | Stage 2
 High      | 22      | 3             | Stage 3
-Severe    | 30      | 5             | Stage 5
+Severe    | 30      | 4             | Stage 5
 
 ### Radiation Poisoning
 
-**Traits** Poison
+**Traits** Poison, Radiation
 
-**Saving Throw** see table above; **Onset** 1 day; **Stage 1** enfeebled 1 (1 day); **Stage 2** enfeebled 2 (1 day); **Stage 3** enfeebled 3 (1 day); **Stage 4** enfeebled 4 (1 day); **Stage 5** enfeebled 5 (1 day)
+**Saving Throw** see table above; **Onset** 1 day; **Stage 1** enfeebled 1 (1 day); **Stage 2** enfeebled 2 (1 day); **Stage 3** enfeebled 3 (1 day); **Stage 4** enfeebled 4 (1 day); **Stage 5** 12d10 poison damage and enfeebled 5 (1 day)
 
 ## Numerian Fluids
 

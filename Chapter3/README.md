@@ -250,10 +250,10 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Hazards:**
   - 1x [Scalding Steam Spray^]()
 
-### F9. Staff Quarters (90 XP, Moderate Threat)
+### F9. Staff Quarters (60 XP, Low Threat)
 
 - **Creatures:**
-  - 3x [Gearghost^]()
+  - 3x [Gearghost^](/Chapter2/Creatures/README.md#gearghost)
 - **Loot:**
   - moni in the form of gold leaf stripped from furniture, silverware and other valuables looted from the tower.
 
@@ -273,7 +273,7 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 
 - **Loot:**
   - 1x [Expanded Alchemist Lab](https://2e.aonprd.com/Equipment.aspx?ID=543)
-  - 3x potion of gaseous form
+  - 3x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [gaseous form](https://2e.aonprd.com/Spells.aspx?ID=129)*
   - 1x [Cardioamp^](/Technology%20Guide/Pharmaceuticals/README.md#cardioamp)
   - 1x [Cureall^](/Technology%20Guide/Pharmaceuticals/README.md#cureall)
   - 3x [Grade III Hemochem^](/Technology%20Guide/Pharmaceuticals/README.md#hemochem)
@@ -294,10 +294,15 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
   - 1x [Hungry Fog]() - some form of gaseous ooze that can cause fear and deal negative damage - lvl 11
 - **Loot:**
   - 1x voidfrost robe - lvl 10 worn robe that increases cold resistance and cold damage dealt
-  - 1x *[wand]() of [gust of wind]()*
-  - 1x Anada Visk's [spellbook] - lvl 8 spellcaster
+  - 1x *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [gust of wind](https://2e.aonprd.com/Spells.aspx?ID=143)*
+  - 1x Anada Visk's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53) - 16 spells 
+    - **4th:** 
+    - **3rd:**
+    - **2nd:**
+    - **1st:**
+    - **Cantrips:**
 
-### F18. Fourth-Floor Atrium (???)
+### F18. Fourth-Floor Atrium (80 XP, Moderate Threat)
 
 - **Creatures:**
   - 2x achaierais (birds from hell that can spit smoke)
@@ -312,14 +317,14 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Loot:**
   - 1x all-tools vest (vest that allows you to conjure all the tools needed for a crafting check)
 
-### F23. Master Bedroom (152 XP, Extreme Threat)
+### F23. Master Bedroom (136 XP, Severe Threat)
 
 - **Hazards:**
-  - 1x [Shocking Door^]()
+  - 1x [Shocking Door^]() - lvl 12
 - **Loot:** Fine tapestries
   - some moni
 - **Loot:** Secret Shelf
-  - 3 spellbooks (wizard 14)
+  - 3 spellbooks (wizard 13)
 - **Creatures:**
   - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
 
@@ -340,20 +345,20 @@ Note that Furkas Xoud retreats after taking 30 damage.
 ### F27. Foundry (80 XP, Moderate Threat)
 
 - **Creatures:**
-  - 2x [Riot Suppressor^]()
+  - 2x [Riot Suppressor^](Creatures/README.md#riot-suppressor)
   - 3x Elite [Azer](https://2e.aonprd.com/Monsters.aspx?ID=1074)
-- **XP Award:** For each Azer that survives the fight, award the PCs ??? XP
+- **XP Award:** For each Azer that survives the fight, award the PCs 20 XP
 
 ### F29. Storage Closet
 
 - **Loot:** Closet
-  - 4x [Tower Shield]()
-  - 4x *[+1]() [longsword]()*
-  - 6x [Net]()
-  - 4x *[+1]() [heavy crossbow]()*
+  - 4x [Tower Shield](https://2e.aonprd.com/Shields.aspx?ID=4)
+  - 4x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [longsword](https://2e.aonprd.com/Weapons.aspx?ID=31)*
+  - 6x [Net](https://2e.aonprd.com/Equipment.aspx?ID=681)
+  - 4x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [heavy crossbow](https://2e.aonprd.com/Weapons.aspx?ID=70)*
   - 200x Bolts
-  - 20x [Silver Bolts]()
-  - 40x [Cold Iron Bolts]()
+  - 20x [Silver Bolts](https://2e.aonprd.com/Equipment.aspx?ID=379)
+  - 40x [Cold Iron Bolts](https://2e.aonprd.com/Equipment.aspx?ID=375)
   - 5x *[Terrifying Ammounition](https://2e.aonprd.com/Equipment.aspx?ID=725)*
   - 10x [Adamantine Bolts](https://2e.aonprd.com/Equipment.aspx?ID=374)
 
@@ -367,10 +372,10 @@ Note that Furkas Xoud retreats after taking 30 damage.
 - **Loot:** Table
   - some moni in the form of skymetal circuits and tools
 
-### F32. Trapped Robotics Storage (24 XP, Severe Threat)
+### F32. Trapped Robotics Storage (16 XP, Moderate Threat)
 
 - **Hazards:**
-  - 1x [Flailing Robot Parts^]() - lvl 13
+  - 1x [Flailing Robot Parts^]() - lvl 12
 - **Loot:**
   - 1x *[nuglub-skin drum^]()*
 
@@ -382,14 +387,14 @@ Note that Furkas Xoud retreats after taking 30 damage.
 ### F35. Lab 8: Swarm Behaviour Studies (80 XP, Moderate Threat)
 
 - **Creatures:**
-  - 2x [Bionanite Cloud^]()
+  - 2x [Bionanite Cloud^](Creatures/README.md#bionanite-cloud)
 
-### F36. Lab 9: Smoke and Particle Research (60 - 180 XP, Moderate to Extreme Threat)
+### F36. Lab 9: Smoke and Particle Research (40 - 180 XP, Trivial to Extreme Threat)
 
 - **Treasure:** Sphere Turbine
   - 1x *[eversmoking bottle]()*
 - **Creatures:**
-  - 1x belker - need to bump up to lvl 11? https://2e.aonprd.com/Monsters.aspx?ID=648
+  - 1x belker - need to bump up to lvl 10? https://2e.aonprd.com/Monsters.aspx?ID=648
   - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud) - if the PCs open the *[eversmoking bottle]()*
 
 Note that Furkas Xoud retreats almost immediately.
@@ -408,17 +413,17 @@ Note that Furkas Xoud retreats almost immediately.
   - 1x [Timeworn Chemalyzer^](/Technology%20Guide/Gear/README.md#chemalyzer)
   - 2x [Nanite Canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
   - 1x [Timeworn Fire Extinguisher^](/Technology%20Guide/Gear/README.md#fire-extinguisher)
-  - 3x *[Scroll]() of [gaseous form]()*
+  - 3x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [gaseous form](https://2e.aonprd.com/Spells.aspx?ID=129)*
   - 1x horn of fog
   - 1x *[Bottle of Air]()*
-  - 1x [orichalcum]() rod that opens the door to the dungeons in area [F23.](#f23-master-bedroom-152-xp-extreme-threat)
+  - 1x [orichalcum](https://2e.aonprd.com/Equipment.aspx?ID=276) rod that opens the door to the dungeons in area [F23.](#f23-master-bedroom-152-xp-extreme-threat)
 
 ## G. Choking Tower Dungeon
 
 ### G2. Conjuration Preparation
 
 - **Loot:**
-  - 1x *[wand]() of [wind wall]()*
+  - 1x *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [wall of wind](https://2e.aonprd.com/Spells.aspx?ID=367)*
 - **Skills:**
   - **Recall Knowledge (Planar Lore): DC24 -** Identifies the flies in the notes as ones exhaled by [leukodaemons](https://2e.aonprd.com/Monsters.aspx?ID=90)
 
@@ -437,7 +442,7 @@ Note that Furkas Xoud retreats almost immediately.
 - **Skills:**
   - **Recall Knowledge (Religion): DC15 -** To recognise the room as a shrine to Zyphus.
 - **Creatures:**
-  - 1x deathtrap ooze - lvl 11
+  - 1x deathtrap ooze - lvl 12
 
 ### G6. Escape Tunnel
 
