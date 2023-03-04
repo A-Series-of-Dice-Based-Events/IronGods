@@ -4,13 +4,13 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Envoy's Mouthpiece
 
-**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Level** 6; **Price** 280 gp; **Usage** worn; **Bulk** L; **Capacity** 10; **Power Use** 1/hour; **Craft DC** 28
 
 ## Gas Grenade
 
-**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), Poison, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), Poison, [Tech^](/Traits/README.md#tech)
 
 **Level** 3; **Price** 10 gp; **Hands** 1; **Bulk** L; **Craft DC** 20
 
@@ -20,7 +20,7 @@ Upon detonation the grenade emits a 20-foot emananation of gas that persists for
 
 ## Memory Facet
 
-**Traits** Rare, Artifact, [Technology^](/Traits/README.md#technology)
+**Traits** Rare, Artifact, [Tech^](/Traits/README.md#tech)
 
 Removing an installed memory facet is a 3-action activity that requires passing a DC 25 Force Open or a DC 30 Disable a Device check.
 
@@ -34,7 +34,7 @@ There are 3 types of facets in this adventure path:
 
 **Level** 7; **Price** 450 gp; **Damage** 1d4 mental; **Bulk** 1; **Hands** 1; **Range** 20 feet;
 
-**Category** Advanced; **Ammunition** [Nanite Canisters](../Gear/README.md#nanite-canister); **Group** Firearms; **Traits** Uncommon, Mental, [Technology^](/Traits/README.md#technology)
+**Category** Advanced; **Ammunition** [Nanite Canisters](../Gear/README.md#nanite-canister); **Group** Firearms; **Traits** Uncommon, Mental, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 28
 
