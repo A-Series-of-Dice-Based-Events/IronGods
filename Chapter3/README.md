@@ -63,7 +63,7 @@ Before power is returned to the wreck, all doors here are shut unless otherwise 
 
 The capstone on the well has 40 Bulk, meaning it likely needs at least 4 creatures to push the stone off the well (see [rules for dragging items](https://2e.aonprd.com/Rules.aspx?ID=193))
 
-### A1. Recordkeeping (64 XP, Low Threat)
+### A1. Recordkeeping (68 XP, Low Threat)
 
 - **Creatures:**
   - 1x [Bionanite Cloud^](Creatures/README.md#bionanite-cloud)
