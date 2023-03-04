@@ -8,7 +8,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 8; **Price** 600 gp; **Bulk** 1; **Hands** 1; **Range** 50 feet;
 
-**Traits** Uncommon, Electricity, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Electricity, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 23;
 
@@ -16,7 +16,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 6; **Price** 240 gp; **Bulk** 2; **Hands** 2; **Range** 30 feet;
 
-**Traits** Uncommon, Grapple, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Grapple, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 20; **Power Use** 1 charge; **Craft DC** 20;
 
@@ -24,7 +24,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Price** 150 gp; **Damage** 1d10 S **Bulk** 2; **Hands** 2; **Group** Axe;
 
-**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Craft DC** 20;
 
@@ -34,7 +34,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 5; **Price** 180 gp; **Bulk** 1; **Hands** 1; **Range** 30 feet;
 
-**Traits** Uncommon, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Nanite Use** 1 charge; **Craft DC** 24
 
@@ -42,7 +42,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 9 **Price** 700 gp; **Bulk** 1; **Hands** 1; **Range** 50 feet;
 
-**Traits** Rare, [Beam^](/Traits/README.md#beam), Electricity, **[Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Beam^](/Traits/README.md#beam), Electricity, **[Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1; **Craft DC** 25
 
@@ -52,7 +52,7 @@ EMP pistols deal no damage to living creatures.
 
 **Level** 3; **Price** 18 gp; **Bulk** 1; **Hands** 1; **Range** 240 feet;
 
-**Traits** Light, Consumable, Gadget, [Technology^](/Traits/README.md#technology)
+**Traits** Light, Consumable, Gadget, [Tech^](/Traits/README.md#tech)
 
 **Craft DC** 18;
 
@@ -60,7 +60,7 @@ EMP pistols deal no damage to living creatures.
 
 **Level** 7; **Price** 450 gp; **Bulk** 2; **Hands** 2; **Range** 100 feet;
 
-**Traits** Rare, [Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 20; **Power Use** 1; **Craft DC** 28
 
@@ -68,7 +68,7 @@ EMP pistols deal no damage to living creatures.
 
 **Level** 8; **Price** 450 gp; **Damage** 1d10 Fire **Bulk** 1; **Hands** 1;
 
-**Traits** Uncommon, Finesse, [Laser^](/Traits/README.md#laser), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Finesse, [Laser^](/Traits/README.md#laser), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 26
 
@@ -78,7 +78,7 @@ EMP pistols deal no damage to living creatures.
 
 **Level** 10; **Price** 1,200 gp; **Bulk** 2; **Hands** 2; **Range** 150 feet;
 
-**Traits** Rare, [Beam^](/Traits/README.md#beam), [Laser^](/Traits/README.md#laser), [Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Beam^](/Traits/README.md#beam), [Laser^](/Traits/README.md#laser), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 20; **Power Use** 1 charge; **Craft DC** 27
 
@@ -86,7 +86,7 @@ EMP pistols deal no damage to living creatures.
 
 **Level** 5; **Price** 200 gp; **Bulk** 1; **Hands** 1; **Range** 20 feet;
 
-**Traits** Uncommon, Nonlethal, Sonic, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Nonlethal, Sonic, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 22
 
@@ -94,6 +94,6 @@ EMP pistols deal no damage to living creatures.
 
 **Level** 8; **Price** 600 gp; **Bulk** 1; **Hands** 1; **Range** 50 feet;
 
-**Traits** Uncommon, Cold, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Cold, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 23

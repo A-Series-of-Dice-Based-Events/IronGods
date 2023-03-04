@@ -4,13 +4,13 @@ Links with a carat (^) designate new entries from this conversion, and will take
 
 ## General Traits
 
-### Technology
+### Tech
 
-Items with the Technology trait are considered technological items and use the [Identify Technology^](/Technology%20Guide/README.md#identify-technology) action to identify.
+Items with the Tech trait are considered technological items and use the [Identify Technology^](/Technology%20Guide/README.md#identify-technology) action to identify.
 
-Creatures with the Technology trait is powered by or constructed through technological means, and is affected by effects that specifically target technology such as *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*. Most Robots have the Technology trait, but Androids do not.
+Creatures with the Tech trait is powered by or constructed through technological means, and is affected by effects that specifically target technology such as *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*. Most Robots have the Techn trait, but Androids do not.
 
-Hazards or other devices with the Technology trait impose a -5 penalty on all Disable a Device checks against it if the creature making the check does not use an [e-pick^](Gear/README.md#e-pick) charge in the attempt.
+Hazards or other devices with the Tech trait impose a -5 penalty on all Disable a Device checks against it if the creature making the check does not use an [e-pick^](Gear/README.md#e-pick) charge in the attempt.
 
 ## Creature Traits
 

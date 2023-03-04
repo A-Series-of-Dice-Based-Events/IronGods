@@ -6,7 +6,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 8; **Price** 500 gp; **AC Bonus** +1; **Speed Penalty** -
 
-**Bulk** L; **Hardness** 10; **Traits** Uncommon, Force, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Bulk** L; **Hardness** 10; **Traits** Uncommon, Force, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 20; **Craft DC** 27
 
@@ -18,7 +18,7 @@ When inactive the hard light shield is a bulky wristband that provides no bonuse
 
 **Level** 5; **Price** 120 gp; **AC Bonus** +2; **Dex Cap** +2; **Check Penalty** -2; **Speed Penalty** -5 feet;
 
-**Category** Medium; **Strength** 14; **Bulk** L; **Group** Tech; **Traits** Rare, Consumable, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Category** Medium; **Strength** 14; **Bulk** L; **Group** Tech; **Traits** Rare, Consumable, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 30
 
@@ -32,7 +32,7 @@ A panic suit is a single-use item. When its charges run out or its wearer deacti
 
 **Level** 8; **Price** 700 gp; **AC Bonus** +1; **Dex Cap**: +4; **Check Penalty** -1; **Speed Penalty** - ;
 
-**Category** Light; **Strength** 10; **Bulk** 1; **Group** Tech; **Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Category** Light; **Strength** 10; **Bulk** 1; **Group** Tech; **Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 24; **Craft DC** 29
 
@@ -42,7 +42,7 @@ A panic suit is a single-use item. When its charges run out or its wearer deacti
 
 **Level** 16; **Price** 12,500 gp; **AC Bonus** +7; **Dex Cap**: +0; **Check Penalty** -3; **Speed Penalty** -10 ft;
 
-**Category** Heavy; **Strength** 18; **Bulk** 4; **Group** Tech; **Traits** Rare, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Category** Heavy; **Strength** 18; **Bulk** 4; **Group** Tech; **Traits** Rare, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 25; **Power Use** 1 charge/hour; **Craft DC** 30
 

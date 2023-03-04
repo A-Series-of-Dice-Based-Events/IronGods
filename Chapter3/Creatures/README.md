@@ -8,14 +8,20 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 
 ## Named NPCs
 
-### Ilaris Zeleshi
+### Ilarris Zeleshi
 
-![Ilaris Zeleshi](PNGs/IlarisZeleshi.png)
+![Ilarris Zeleshi](PNGs/IlarrisZeleshi.png)
 
-* [PF2 Tools JSON](PF2Tools/IlarisZeleshi.json)
-* [PDF](PDFs/IlarisZeleshi.pdf)
+* [PF2 Tools JSON](PF2Tools/IlarrisZeleshi.json)
+* [PDF](PDFs/IlarrisZeleshi.pdf)
 
-Ilaris is a 10th level Magus with some spell trickster and rogue feats. She cannot cast 5th level spells because if she could she could've just cast *sending* and her cover wouldn't have been blown by the mechanical bird.
+Ilarris is built like [Mialari Docur](https://2e.aonprd.com/NPCs.aspx?ID=1561) but as a Magus. She cannot cast 5th level spells because if she could she could've just cast [*sending*](https://2e.aonprd.com/Spells.aspx?ID=272) and her cover wouldn't have been blown by the mechanical bird.
+
+Ilarris' spellbook contains the following spells in addition to the ones she has prepared:
+
+* **3rd** *[levitate](https://2e.aonprd.com/Spells.aspx?ID=170)*
+* **2nd** *[humanoid form](https://2e.aonprd.com/Spells.aspx?ID=153), [phantom steed](https://2e.aonprd.com/Spells.aspx?ID=221)*
+* **1st** *[burning hands](https://2e.aonprd.com/Spells.aspx?ID=30), [color spray](https://2e.aonprd.com/Spells.aspx?ID=44), [illusory object](https://2e.aonprd.com/Spells.aspx?ID=160)*
 
 ### Seerath
 
@@ -23,6 +29,8 @@ Ilaris is a 10th level Magus with some spell trickster and rogue feats. She cann
 
 * [PF2 Tools JSON](PF2Tools/Seerath.json)
 * [PDF](PDFs/Seerath.pdf)
+
+Seerath is built as a [Scarlet Triad Sniper](https://2e.aonprd.com/NPCs.aspx?ID=1559).
 
 #### Seerath's Items
 

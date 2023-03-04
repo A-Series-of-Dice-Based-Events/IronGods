@@ -4,7 +4,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Battery
 
-**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Price** 10 gp; **Bulk** L; **Craft DC** 25
 
@@ -12,7 +12,7 @@ A battery contains 10 charges when full. It is a single Interact action to inser
 
 ## Commset
 
-**Traits** Rare, [Signal^](/Traits/README.md#signal), [Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
 
 **Level** 12; **Price** 2,000 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 27
 
@@ -22,7 +22,7 @@ Broadcasting a message on a commset records video and audio footage of the creat
 
 ## Chemalyzer
 
-**Traits** Rare, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Level** 5; **Price** 150 gp; **Hands** 1; **Bulk** 1; **Capacity** 10; **Power Use** 1 charge/use; **Craft DC** 25
 
@@ -30,7 +30,7 @@ When used it grants a +2 item bonus to any Identify Alchemy and Identify Pharmac
 
 ## Cylex
 
-**Traits** Uncommon, [Signal^](/Traits/README.md#signal), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
 
 **Level** 7; **Price** 70 gp; **Bulk** L; **Craft DC** 26
 
@@ -38,13 +38,13 @@ Cylex can be triggered to explode by using a Detonator or applying 10 or more po
 
 ## Detonator
 
-**Traits** [Powered^](/Traits/README.md#powered), [Signal^](/Traits/README.md#signal), [Technology^](/Traits/README.md#technology)
+**Traits** [Powered^](/Traits/README.md#powered), [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
 
 **Price** 30 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/use; **Craft DC** 23
 
 ## E-pick
 
-**Traits** [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Hands** 2; **Bulk** L **Capacity** 10
 
@@ -62,7 +62,7 @@ Prismatic | 19    | +4         | 31       | Rare     | 800 gp
 
 ## Emergency Beacon
 
-**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Signal^](/Traits/README.md#signal), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
 
 **Price** 55 gp; **Usage** structure; **Bulk** 2 **Capacity** 30; **Power Use** 1 charge/8 hours; **Craft DC** 25.
 
@@ -70,7 +70,7 @@ A DC 15 Track action can follow the beacon's signal.
 
 ## Emergency Raft
 
-**Traits** Uncommon, Consumable, Gadget, [Technology^](/Traits/README.md#technology), Vehicle
+**Traits** Uncommon, Consumable, Gadget, [Tech^](/Traits/README.md#tech), Vehicle
 
 **Level** 8; **Price** 200 gp; **Usage** vehicle; **Bulk** 2 **Craft DC** 24
 
@@ -78,7 +78,7 @@ A DC 15 Track action can follow the beacon's signal.
 
 ## Emergency Shelter
 
-**Traits** Rare, Consumable, Gadget, [Powered^](/Traits/README.md#powered), Structure, [Technology^](/Traits/README.md#technology)
+**Traits** Rare, Consumable, Gadget, [Powered^](/Traits/README.md#powered), Structure, [Tech^](/Traits/README.md#tech)
 
 **Level** 10; **Price** 1,000 gp; **Usage** structure; **Bulk** 2; **Power Use** 1 charge/8 hours; **Craft DC** 24
 
@@ -88,7 +88,7 @@ The emergency shelter can be unfurled with a single Interact action provided the
 
 ## Filter Mask
 
-**Traits** Uncommon, Air, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Air, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Price** 250 gp; **Usage** worn mask; **Bulk** L **Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 24.
 
@@ -108,7 +108,7 @@ Wearing the mask gives a +2 item bonus to all saving throws made to resist inhal
 
 ## Flashlight
 
-**Traits** Light, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Light, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Price** 3 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/8 hours; **Craft DC** 16
 
@@ -122,7 +122,7 @@ A flashlight emits bright light in a 60 foot cone and dim light in the next 60 f
 
 ## Gravity Clip
 
-**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Level** 5; **Price** 120 gp; **Usage** affixed to weapon; **Capacity** 10; **Power Use** 1 charge/round; **Craft DC** 26
 
@@ -130,7 +130,7 @@ Once affixed to a melee weapon, the first successful weapon Strike made with it 
 
 ## Grenade
 
-**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
 
 **Hands** 1; **Bulk** L; **Craft DC** 20
 
@@ -151,7 +151,7 @@ Atom Grenade          | 11    | 360 gp | N/A           | Radiation         | Cre
 Bang Grenade          | 3     | 15 gp  | Fort 23       | Auditory          | On a failure, creatures are deafened until the end of their next turn. On a critical failure, creature is deafened for 1 minute and stunned 1
 Bio Grenade           | 10    | 200 gp | Fort 15       | Disease           | Infects targets with [Bubonic Plague](http://2e.aonprd.com/Diseases.aspx?ID=6) with no onset
 Concussion Grenade    | 5     | 25 gp  | basic Ref 20  |                   | 5d6 bludgeoning damage
-EMP Grenade           | 4     | 20 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage to robots and technology with charges. Half to androids and cyborgs. No damage to other creatures
+EMP Grenade           | 4     | 20 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage to robots and tech with charges. Half to androids and cyborgs. No damage to other creatures
 Flash Grenade         | 1     | 5 gp   | Fort 20       | Light, Visual     | Creatures are blinded for 1 round and dazzled for 1 minute. Creatures blinded this way can spend 1 interact action rubbing their eyes to end the blinded condition
 Flechette Grenade     | 5     | 25 gp  | basic Ref 20  |                   | 5d6 piercing damage
 Fragmentation Grenade | 5     | 25 gp  | basic Ref 20  |                   | 5d6 slashing damage
@@ -174,7 +174,7 @@ Grippers can also be used in combat.
 
 ## Hologram Generator
 
-**Traits** [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 26
 
@@ -195,7 +195,7 @@ Blue grade hologram projectors enable the image to interact with the environment
 
 ## Ion Tape
 
-**Traits** Consumable, [Technology^](/Traits/README.md#technology)
+**Traits** Consumable, [Tech^](/Traits/README.md#tech)
 
 **Level** 3; **Price** 15 gp; **Hands** 2; **Bulk** L; **Craft DC** 14
 
@@ -209,7 +209,7 @@ When used to bind a creature, a few strips of activated ion tape require a succe
 
 ## Medlance
 
-**Traits** Uncommon, Injection, [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Injection, [Tech^](/Traits/README.md#tech)
 
 **Level** 5; **Price** 30 gp; **Hands** 1; **Bulk** -; **Craft DC** 23
 
@@ -219,13 +219,13 @@ A medlance doesn't use electrical charges, but after 10 uses its internal steril
 
 ## Nanite Canister
 
-**Traits** Rare, Consumable, [Technology^](/Traits/README.md#technology)
+**Traits** Rare, Consumable, [Tech^](/Traits/README.md#tech)
 
 **Price** 30 gp; **Bulk** L; **Craft DC** 25
 
 ## Nanite Hypogun
 
-**Traits** Rare, Healing, [Technology^](/Traits/README.md#technology)
+**Traits** Rare, Healing, [Tech^](/Traits/README.md#tech)
 
 **Hands** 1; **Bulk** L; **Ammunition** [Nanite Canisters](#nanite-canister);
 
@@ -249,7 +249,7 @@ Prismatic   | 20    | 13,500 gp | 35       | 9d8+17  | Casts *[revival](http://2
 
 ## Power Cable
 
-**Traits** [Technology^](/Traits/README.md#technology)
+**Traits** [Tech^](/Traits/README.md#tech)
 
 **Price** 30 gp; **Bulk** L; **Craft DC** 20
 
@@ -257,13 +257,13 @@ It is a 3-action Activity to connect a technological device to a generator via a
 
 ## Radiation Detector
 
-**Traits** Rare, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Level** 5; **Price** 120 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 27
 
 ## Skillchip
 
-**Traits** [Module^](/Traits/README.md#module), [Technology^](/Traits/README.md#technology)
+**Traits** [Module^](/Traits/README.md#module), [Tech^](/Traits/README.md#tech)
 
 A skillchip contains a wealth of knowledge concerning a single Lore skill, granting an item bonus to checks made using that skill. It must be slotted into a [skillslot](../Cybertech/README.md#skillslot) before it can provide the benefits. All skillchips have negligible bulk.
 
@@ -297,7 +297,7 @@ Trauma pack plus uses can be expended like a trauma pack use for [Treat Wounds](
 
 ## Veemod
 
-**Traits** Rare, [Module^](/Traits/README.md#module), [Technology^](/Traits/README.md#technology)
+**Traits** Rare, [Module^](/Traits/README.md#module), [Tech^](/Traits/README.md#tech)
 
 Veemods slot into [Veemod Goggles](#veenmod-goggles) and are useless without them. All veemods have negligible bulk.
 
@@ -315,13 +315,13 @@ Prismatic   | 15    | 5,000 gp  | 35       | 1/round   | Wearer is able to see t
 
 ## Veemod Goggles
 
-**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Price** 60 gp; **Usage** worn eyepiece; **Bulk** -; **Capacity** 10; **Craft DC** 25
 
 ## Zipstick
 
-**Traits** [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Price** 3 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Craft DC** 18;
 

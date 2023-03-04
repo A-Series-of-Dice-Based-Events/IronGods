@@ -44,7 +44,7 @@ You take a number of hours equal to a piece of cybertech's Implantation score to
 
 ### Skillslot
 
-**Traits** Rare, Cybertech, [Technology^](/Traits/README.md#technology)
+**Traits** Rare, Cybertech, [Tech^](/Traits/README.md#tech)
 
 **Level** 5; **Price** 120 gp; **Slot** brain; **Bulk** L; **Install DC** 30; **Implanatation** 1; **Craft DC** 28
 

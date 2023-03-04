@@ -25,13 +25,13 @@ Level | XP Progression                           | Milestone
 ### Approaching Iadenveigh
 
 - **Skills:**
-  - **Recall Knowledge (Iadenveigh Lore): DC15 -** Know that visitors are meant to introduce themselves at High Home.
+  - **Recall Knowledge (Iadenveigh Lore): DC 15 -** Know that visitors are meant to introduce themselves at High Home.
 
 ### Monster on the Farm (80 XP, Moderate Threat)
 
 - **Skills:**
-  - **Gather Information (Diplomacy): DC12 -** To find out Jevik hasn't been seen in 3 days.
-  - **Track (Survival): DC11 -** To follow the tracks northeast.
+  - **Gather Information (Diplomacy): DC 20 -** To find out Jevik hasn't been seen in 3 days.
+  - **Track (Survival): DC 15 -** To follow the tracks northeast.
 - **Creatures:**
   - 1x [Yaoguai^](Creatures/README.md#yaoguai)
 - **Loot:** Gifted by Redfang if PCs haven't been overtly using technology.
@@ -40,22 +40,24 @@ Level | XP Progression                           | Milestone
 ### Unmasking the Spy (60 XP, Low Threat)
 
 - **Skills:**
-  - **Request (Diplomacy): DC20 -** To coax an answer out of the Varisian lumberjacks.
+  - **Recall Knowledge (Varisian Lore): DC 20: -** To recognise the finger-cymbals as a traditional Varisian dancer's instrument.
+  - **Recall Knowledge (Performance): DC 25: -** To recognise the finger-cymbals as a traditional Varisian dancer's instrument.
+  - **Request (Diplomacy): DC 28 -** To coax an answer out of the Varisian lumberjacks.
 - **Creatures:**
-  - 1x [Ilarris Zeleshi^](Creatures/README.md#ilaris-zeleshi000)
+  - 1x [Ilarris Zeleshi^](Creatures/README.md#ilarris-zeleshi000)
 
 ## Part 2: Into the Aurora
 
 Before power is returned to the wreck, all doors here are shut unless otherwise mentioned. Shut doors can be opened with the following:
 
 - **Attacking** Doors have Hardness 10, HP 40 (BT 20)
-- **Force Open (Athletics)** DC 20
+- **Force Open (Athletics)** DC 25
 - **Disable a Device (Thievery)** DC 25 - Remember to add a -5 penalty if an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick) charge wasn't expended.
 
 ### The Cursed Well (4 XP, Trivial Threat)
 
 - **Skills:**
-  - **Climb (Athletics): DC15 -** To climb down the well.
+  - **Climb (Athletics): DC 20 -** To climb down the well.
 - **Hazards:**
   - 1x [*glyph of warding*](https://2e.aonprd.com/Spells.aspx?ID=138) - The glyph casts [*sound burst*](https://2e.aonprd.com/Spells.aspx?ID=292) at 4th level, triggered by any creatures pushing the capstone without saying the password first. DC 27.
 
@@ -71,20 +73,20 @@ The capstone on the well has 40 Bulk, meaning it likely needs at least 4 creatur
 ### A2. Administration
 
 - **Skills:**
-  - **Recall Knowledge (Iadenveigh Lore): DC20 -** To know of the legend of Furkas Xoud.
-  - **Recall Knowledge (Arcana): DC15 -** To know Xoud's companion is invisible.
+  - **Recall Knowledge (Iadenveigh Lore): DC 20 -** To know of the legend of Furkas Xoud.
+  - **Recall Knowledge (Arcana, Nature): DC 23 -** To know Xoud's companion is invisible.
 
 ### A3. Malfunctioning Android Foundry (40 XP, Trivial Threat)
 
 - **Skills:**
-  - **Recall Knowledge (Engineering Lore): DC25 -** To recognise this facility as once capable of producing androids, and has been reactivated several years ago.
+  - **Recall Knowledge (Engineering Lore): DC 25 -** To recognise this facility as once capable of producing androids, and has been reactivated several years ago.
 - **Creatures:**
   - 4x [Deformed Android^](Creatures/README.md#deformed-android)
 
 ### A4. Storage Room
 
 - **Skills:**
-  - **Seek (Perception): DC 15 -** If Ilarris escaped, notice this door has been forced open recently.
+  - **Seek (Perception): DC 25 -** If Ilarris escaped, notice this door has been forced open recently.
 - **Loot:**
   - 1x [Timeworn Arc Pistol^](/Technology%20Guide/Weapons/README.md#arc-pistol)
   - 1x [Timeworn White Hologram Generator^](/Technology%20Guide/Gear/README.md#hologram-generator)
@@ -98,7 +100,8 @@ The door to this room has been repaired and only needs a single Interact action 
 - **Creatures:**
   - 1x [Seerath^](Creatures/README.md#seerath)
 - **Skills:**
-  - **Recall Knowledge (Engineering Lore): DC20 -** To recognise the components here were intended to create a long-range communication device.
+  - **Recall Knowledge (Engineering Lore): DC 30 -** To recognise the components here were intended to create a long-range communication device.
+  - **Recall Knowledge (Extraterrestrial Lore): DC 30 -** To understand the meaning of Seerath's panic about the Dominion of the Black.
 - **Loot:**
   - 3x [Timeworn Commset^](/Technology%20Guide/Gear/README.md#commset)
 
@@ -115,8 +118,8 @@ The door to this room has been repaired and only needs a single Interact action 
 ### A8. Lively Awfulness (80 XP, Moderate Threat)
 
 - **Skills:**
-  - **Force Open (Athletics): DC 25 -** To wrench open the cap on the tube.
-  - **Disable a Device (Thievery): DC 20 -** To wrench open the cap on the tube.
+  - **Force Open (Athletics): DC 32 -** To wrench open the cap on the tube.
+  - **Disable a Device (Thievery): DC 27 -** To wrench open the cap on the tube.
 - **Creatures:**
   - 1x [Tallow Ooze](https://2e.aonprd.com/Monsters.aspx?ID=533)
 
@@ -128,8 +131,7 @@ The door to this room has been repaired and only needs a single Interact action 
 ### A10. Robot Battlefield (60 XP, Low Threat)
 
 - **Skills:**
-  - **Recall Knowledge (Engineering Lore): DC 21 -** To recognize the remains under the rubble as a [myrmidon robot^]().
-  - **Disable a Device (Thievery): DC 20 -** To wrench open the cap on the tube.
+  - **Recall Knowledge (Engineering Lore): DC 29 -** To recognize the remains under the rubble as a [myrmidon robot^]().
 - **Creatures:**
   - 3x [Gearsman Mk. II^](Creatures/README.md#gearsman-mk-ii)
 
@@ -144,7 +146,7 @@ The door to this room has been repaired and only needs a single Interact action 
 ### A12. Canister Access
 
 - **Skills:**
-  - **Recall Knowledge (Society): DC20 -** For a PC that knows Androffan to recognise the sign on the door as a biohazard warning sign.
+  - **Recall Knowledge (Society): DC 20 -** For a PC that knows Androffan to recognise the sign on the door as a biohazard warning sign.
 
 The door here has Hardness 18, HP 72 (BT 36)
 
@@ -157,11 +159,9 @@ The door here has Hardness 18, HP 72 (BT 36)
 ### A14. Nanotech Laboratory (30 XP, Trivial Threat)
 
 - **Skills:**
-  - **Recall Knowledge (Engineering): DC20 -** To realise the plates and cables are an immense power conduit that can accept electrical charges.
-  - **Disable a Device (Thievery): DC30 -** To force the ship's systems to neutralize the toxic gas in [A13](#a13-gas-canisters-40-xp-trivial-threat).
-  - **Decipher Writing (Society): DC25 -** To correctly follow the commands for the ship's systems to neutralize the toxic gas in [A13](#a13-gas-canisters-40-xp-trivial-threat). 
+  - **Recall Knowledge (Engineering Lore): DC 30 -** To realise the plates and cables are an immense power conduit that can accept electrical charges.
 - **Creatures:**
-  - 1x Sahasho - An Elite [Invisible Stalker](https://2e.aonprd.com/Monsters.aspx?ID=179).
+  - 1x Sahasho - An Elite [Invisible Stalker](https://2e.aonprd.com/Monsters.aspx?ID=179). Indifferent, Perception DC 28, Will DC 23
     - PCs wanting to help Sahasho need to cast [*banishment*](https://2e.aonprd.com/Spells.aspx?ID=19) or [*plane shift*](https://2e.aonprd.com/Spells.aspx?ID=222)
 - **Loot:** Hidden Panel
   - 5x [Nanite Canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
@@ -170,15 +170,29 @@ The door here has Hardness 18, HP 72 (BT 36)
 
 ## Part 3: Smokewood
 
+### Gathering information on Furkas Xoud
+
+Using either **Recall Knowledge (Iadenveigh Lore)** or **Gather Information (Diplomacy)**:
+
+| DC | Information |
+| -- | ----------- |
+| 20 | 1st level of information |
+| 25 | 2nd level of information |
+| 30 | 3rd level of information |
+
+The information gotten will be on page 26 of *[Pathfinder Adventure Path #87: The Choking Tower (Iron Gods 3 of 6) (PFRPG)](https://paizo.com/products/btpy95bt)*
+
 ### B. Hill Giant Campsite (60 XP, Low Threat)
 
 - **Creatures:**
   - 2x Elite [Hill Giant](https://2e.aonprd.com/Monsters.aspx?ID=220)
+- **Skills:**
+  - **Recall Knowledge (Geography Lore): DC 15 -** To realise the the drawing on the dire wolverine hide is a crude map of Smokewood.
 - **Loot:**
   - 1x [Noqual Chunk](https://2e.aonprd.com/Equipment.aspx?ID=1419)
-  - 1x *[animated wooden shield]*()
+  - 1x [*floating shield*](https://2e.aonprd.com/Equipment.aspx?ID=319)
   - 3x [Moderate Antidote](https://2e.aonprd.com/Equipment.aspx?ID=80)
-  - 1x [*Boots of Bounding*](https://2e.aonprd.com/Equipment.aspx?ID=412)
+  - 1x [*boots of bounding*](https://2e.aonprd.com/Equipment.aspx?ID=412)
 
 ### C. The Buried Killer (80 XP, Moderate Threat)
 
@@ -186,7 +200,7 @@ The door here has Hardness 18, HP 72 (BT 36)
   - 1x [Warden Robot^](Creatures/README.md#warden-robot)
 - **Loot:** Hill giant's bag
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [mithral](https://2e.aonprd.com/Equipment.aspx?ID=377) [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=47)*
-  - 1x *[bag of tricks]* ??
+  - 1x *[wondrous figurine (bisumuth leopards)](https://2e.aonprd.com/Equipment.aspx?ID=270)*
   - 1x *[pink rhomboid aeon stone](https://2e.aonprd.com/Equipment.aspx?ID=407)*
 
 ### D. Longdreamer's Lair (80 XP, Moderate Threat)
@@ -197,7 +211,7 @@ The door here has Hardness 18, HP 72 (BT 36)
 ### E. Secret Entrance
 
 - **Skills:**
-  - **Seek (Perception): DC 30 -** To find this entrance to the Choking Tower's Dungeon (see area [G6](#g6-escape-tunnel))
+  - **Seek (Perception): DC 35 -** To find this entrance to the Choking Tower's Dungeon (see area [G6](#g6-escape-tunnel))
 
 ## Part 4: Below a Smoke-filled Sky
 
@@ -205,7 +219,7 @@ The door here has Hardness 18, HP 72 (BT 36)
 
 - **Skills:**
   - **Track (Survival): DC 20 -** To follow the tracks back to the [Hill Giant Campsite](#b-hill-giant-campsite-60-xp-low-threat)
-  - **Disable a Device (Thievery): DC 30-** To jury-rig repairs for the wheel.
+  - **Disable a Device (Thievery): DC 30 -** To jury-rig repairs for the wheel.
 
 ### F2. Front Hall (6 XP, Trivial Threat)
 
