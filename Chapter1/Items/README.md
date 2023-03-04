@@ -6,7 +6,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 5; **Price** 200 gp; **Damage** 1d6 fire; **Bulk** L; **Hands** 1; **Range** 30 feet;
 
-**Category** Advanced; **Ammunition** [Nanite Canisters](../Gear/README.md#nanite-canister); **Group** Firearms; **Traits** Uncommon, Fire, [Technology^](/Traits/README.md#technology)
+**Category** Advanced; **Ammunition** [Nanite Canisters](../Gear/README.md#nanite-canister); **Group** Firearms; **Traits** Uncommon, Fire, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Nanite Use** 1 charge; **Craft DC** 21
 
@@ -16,7 +16,7 @@ On a critical hit, the inferno pistol deals 1 persistent fire damage.
 
 **Level** 4; **Price** 100 gp; **AC Bonus** +1; **Dex Cap** +4; **Check Penalty** -1; **Speed Penalty** -;
 
-**Category** Light; **Strength** 10; **Bulk** 1; **Group** Tech; **Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Category** Light; **Strength** 10; **Bulk** 1; **Group** Tech; **Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Capacity** 24; **Craft DC** 22
 
@@ -26,7 +26,7 @@ On a critical hit, the inferno pistol deals 1 persistent fire damage.
 
 **Level** 4; **Price** 140 gp; **Damage** 1d6 B; **Bulk** 1; **Hands** 1;
 
-**Category** Simple; **Group** Club; **Traits** Uncommon, Mental, [Powered^](/Traits/README.md#powered), Shove, [Technology^](/Traits/README.md#technology)
+**Category** Simple; **Group** Club; **Traits** Uncommon, Mental, [Powered^](/Traits/README.md#powered), Shove, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Craft DC** 20
 
@@ -44,7 +44,7 @@ A polymer mesh net behaves the same as a regular [net](http://2e.aonprd.com/Equi
 
 ## Proximity Helmet
 
-**Traits** Uncommon, Auditory, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
+**Traits** Uncommon, Auditory, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
 
 **Level** 6; **Price** 240 gp **Usage** worn headwear; **Bulk** L
 
