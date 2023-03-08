@@ -8,17 +8,17 @@
 - [Part 4: Below a Smoke-Filled Sky](#part-4-below-a-smoke-filled-sky)
 - [Area G: Choking Tower Dungeon](#g-choking-tower-dungeon)
 - [Missions in Numeria](#missions-in-numeria)
-- [Iadenveigh Gazetteer]()
-- [Iadenveigh Encounters]()
+- [Iadenveigh Gazetteer](#iadenveigh-gazetteer)
+- [Iadenveigh Encounters](#iadenveigh-encounters)
 
 ## Advancement Track
 
-Level | XP Progression                           | Milestone
-------|------------------------------------------|----------
-9     | PCs begin at Lv 9                        | PCs begin at Lv 9
-10    | After completing Part 3                  | After completing Part 3
-11    | After completing Area G                  | After completing Area G
-12    | After completing Part 4 and a side-quest | After completing Part 4
+Level | XP Progression          | Milestone
+------|-------------------------|----------
+9     | PCs begin at Lv 9       | PCs begin at Lv 9
+10    | After completing Part 3 | After completing Part 3
+11    | After completing Area F | After completing Area F
+12    | After completing Part 4 | After completing Part 4
 
 ## Part 1: Intrigue in Iadenveigh
 
@@ -207,6 +207,7 @@ The information gotten will be on page 26 of *[Pathfinder Adventure Path #87: Th
 
 - **Creatures:**
   - 1x Longdreamer - A [Star Monarch^](Creatures/README.md#star-monarch)
+- **XP Award:** If the PCs agree to help Longdreamer out, award the XP as if they had defeated her.
 
 ### E. Secret Entrance
 
@@ -214,6 +215,8 @@ The information gotten will be on page 26 of *[Pathfinder Adventure Path #87: Th
   - **Seek (Perception): DC 35 -** To find this entrance to the Choking Tower's Dungeon (see area [G6](#g6-escape-tunnel))
 
 ## Part 4: Below a Smoke-filled Sky
+
+<!-- Players are level 10 now. They have gained over 11,000 gp in loot. -->
 
 ### F1. Choking Tower Entrance
 
@@ -224,7 +227,7 @@ The information gotten will be on page 26 of *[Pathfinder Adventure Path #87: Th
 ### F2. Front Hall (6 XP, Trivial Threat)
 
 - **Hazards:**
-  - 1x [False Hatch^]()
+  - 1x [False Hatch^](Hazards/README.md#false-hatch)
 
 ### F3. Guard Post (80 XP, Moderate Threat)
 
@@ -243,9 +246,9 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 ### F5. Kitchen (8 XP, Trivial Threat)
 
 - **Hazards:**
-  - 1x [Belching Stove^]()
+  - 1x [Belching Stove^](Hazards/README.md#belching-stove)
 - **Skills:**
-  - **Recall Knowledge (Nature): DC15 -** To know the mold in the sink is harmless.
+  - **Recall Knowledge (Nature): DC 15 -** To know the mold in the sink is harmless.
 
 ### F6. Library
 
@@ -257,26 +260,26 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 ### F7. Reading Nook (60 XP, Low Threat)
 
 - **Hazards:**
-  - 1x [Nightmare Fumes^]()
+  - 1x [Nightmare Fumes^](Hazards/README.md#nightmare-fumes)
 
-### F8. Staff Quarters Hall (6 XP, Trivial Threat)
+### F8. Staff Quarters Hall (8 XP, Trivial Threat)
 
 - **Hazards:**
-  - 1x [Scalding Steam Spray^]()
+  - 1x [Scalding Steam Spray^](Hazards/README.md#scalding-steam-spray)
 
 ### F9. Staff Quarters (60 XP, Low Threat)
 
 - **Creatures:**
   - 3x [Gearghost^](/Chapter2/Creatures/README.md#gearghost)
-- **Loot:**
-  - moni in the form of gold leaf stripped from furniture, silverware and other valuables looted from the tower.
+<!-- - **Loot:**
+  - moni in the form of gold leaf stripped from furniture, silverware and other valuables looted from the tower. -->
 
 ### F10. Supply Closet
 
 - **Skills:**
-  - **Force Open (Athletics): DC14 -** To peel the nanite coccoon off the wall.
-  - **Seek (Perception): DC30 -** To notice a tiny crack in the wall where the coccoon was.
-  - **Identify Technology (Engineering Lore): DC 35 -** To know the nanites are laying dormant until brought near what they're supposed to do.
+  - **Force Open (Athletics): DC 10 -** To peel the nanite coccoon off the wall.
+  - **Seek (Perception): DC 30 -** To notice a tiny crack in the wall where the coccoon was.
+  - **Identify Technology (Engineering Lore): DC 30 -** To know the nanites are laying dormant until brought near what they're supposed to do.
 
 ### F14. Third-Floor Stairwell
 
@@ -293,33 +296,33 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
   - 3x [Grade III Hemochem^](/Technology%20Guide/Pharmaceuticals/README.md#hemochem)
   - 4x [Torpinol^](/Technology%20Guide/Pharmaceuticals/README.md#torpinol)
 
-### F16. Lab 2: Fluid Siponing Research (80 XP, Low Threat)
+### F16. Lab 2: Fluid Siponing Research (80 XP, Moderate Threat)
 
 - **Creatures:**
-  - 1x [Mihstu]() - can be elemental tsunami be used?
+  - 2x [Mihstu^](Creatures/README.md#mihstu)
 - **Treasures:** Dead dwarf
-  - some moni
+  <!-- - some moni -->
   - 1x [Pearlescent Pyramid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)
 
 ### F17. Lab 3: Gaseous Ooze Research (100 XP, Moderate Threat)
 
 - **Creatures:**
-  - 1x [Allip]() - some form of incorporeal undead that makes ppl mad, lvl 10
-  - 1x [Hungry Fog]() - some form of gaseous ooze that can cause fear and deal negative damage - lvl 11
+  - 1x Anada Visk, a [Ghost Mage](https://2e.aonprd.com/Monsters.aspx?ID=217)
+  - 1x Elite [Screaming Sulfur](https://2e.aonprd.com/Monsters.aspx?ID=1659)
 - **Loot:**
-  - 1x voidfrost robe - lvl 10 worn robe that increases cold resistance and cold damage dealt
+  - 1x [*energy robe (cold)*](https://2e.aonprd.com/Equipment.aspx?ID=1317)
   - 1x *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [gust of wind](https://2e.aonprd.com/Spells.aspx?ID=143)*
-  - 1x Anada Visk's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53) - 16 spells 
-    - **4th:** 
-    - **3rd:**
-    - **2nd:**
-    - **1st:**
-    - **Cantrips:**
+  - 1x Anada Visk's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53) - contains everything a [Ghost Mage](https://2e.aonprd.com/Monsters.aspx?ID=217) has "prepared" and an additional:
+    - 2 4th-level spells
+    - 1 3rd-level spell
+    - 3 2nd-level spells
+    - 6 1st-level spells
+    - 5 cantrips
 
 ### F18. Fourth-Floor Atrium (80 XP, Moderate Threat)
 
 - **Creatures:**
-  - 2x achaierais (birds from hell that can spit smoke)
+  - 2x [Weak Grave Karina](https://2e.aonprd.com/Monsters.aspx?ID=1699&Weak=true)
 
 ### F20. Lab 4: Animal Research (60 XP, Low Threat)
 
@@ -329,32 +332,39 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 ### F21. Lab 5: Internal Vapors Research
 
 - **Loot:**
-  - 1x all-tools vest (vest that allows you to conjure all the tools needed for a crafting check)
+  - 1x [*alchemist's haversack*](https://2e.aonprd.com/Equipment.aspx?ID=2305)
 
 ### F23. Master Bedroom (136 XP, Severe Threat)
 
 - **Hazards:**
-  - 1x [Shocking Door^]() - lvl 12
-- **Loot:** Fine tapestries
-  - some moni
+  - 1x [Shocking Door^](Hazards/README.md#shocking-door)
+<!-- - **Loot:** Fine tapestries
+  - some moni -->
 - **Loot:** Secret Shelf
-  - 3 spellbooks (wizard 13)
+  - 3 spellbooks. Contains all spells Furkas Xoud has prepared and an additional:
+    - 1 6th-level spell
+    - 1 5th-level spell
+    - 1 4th-level spell
+    - 1 3rd-level spell
+    - 1 2nd-level spell
+    - 4 1st-level spells
+    - 6 cantrips
 - **Creatures:**
   - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
 
 Note that Furkas Xoud retreats after taking 30 damage.
 
-### F2. Ornate Bath Chamber
+<!-- ### F24. Ornate Bath Chamber
 
 - **Loot:** Colognes
-  - some moni
+  - some moni -->
 
-### F26. Private Study (80 XP, Moderate Threat)
+### F26. Private Study (60 XP, Low Threat)
 
 - **Hazards:**
-  - 1x [Suffocating spirits^]()
+  - 1x [Suffocating spirits^](Hazards/README.md#suffocating-spirits)
 - **Loot:**
-  - 1x [Mk. II Wirejack Tendons^]()
+  - 1x [Wirejack Tendons^](/Technology%20Guide/Cybertech/README.md#wirejack-tendons)
 
 ### F27. Foundry (80 XP, Moderate Threat)
 
@@ -379,24 +389,24 @@ Note that Furkas Xoud retreats after taking 30 damage.
 ### F30. Forge Supplies (80 XP, Moderate Threat)
 
 - **Creatures**
-  - 1x [Animated Crane^]()
+  - 1x [Weak Animated Trebuchet](https://2e.aonprd.com/Monsters.aspx?ID=1065&Weak=true)
 
-### F31. Lab 6: Technic Research
+<!-- ### F31. Lab 6: Technic Research
 
 - **Loot:** Table
-  - some moni in the form of skymetal circuits and tools
+  - some moni in the form of skymetal circuits and tools -->
 
-### F32. Trapped Robotics Storage (16 XP, Moderate Threat)
+### F32. Trapped Robotics Storage (40 XP, Moderate Threat)
 
 - **Hazards:**
-  - 1x [Flailing Robot Parts^]() - lvl 12
+  - 1x [Flailing Robot Parts^](Hazards/README.md#flailing-robot-parts)
 - **Loot:**
-  - 1x *[nuglub-skin drum^]()*
+  - 1x *[nuglub-skin drum^](Items/README.md#nuglub-skin-drum)*
 
 ### F34. Lab 7: Quasi-Gaseous Research
 
 - **Skills:**
-  - **Recall Knowledge (Arcana): DC18 -** To recognise the remains are vampiric mists that have died.
+  - **Recall Knowledge (Occultism): DC18 -** To recognise the remains are [vampiric mists](https://2e.aonprd.com/Monsters.aspx?ID=845) that have died.
 
 ### F35. Lab 8: Swarm Behaviour Studies (80 XP, Moderate Threat)
 
@@ -406,21 +416,21 @@ Note that Furkas Xoud retreats after taking 30 damage.
 ### F36. Lab 9: Smoke and Particle Research (40 - 180 XP, Trivial to Extreme Threat)
 
 - **Treasure:** Sphere Turbine
-  - 1x *[eversmoking bottle]()*
+  - 1x *[eversmoking bottle^](Items/README.md#eversmoking-bottle)*
 - **Creatures:**
-  - 1x belker - need to bump up to lvl 10? https://2e.aonprd.com/Monsters.aspx?ID=648
-  - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud) - if the PCs open the *[eversmoking bottle]()*
+  - 1x [Advanced Belker^](Creatures/README.md#advanced-belker)
+  - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud) - if the PCs open the *[eversmoking bottle^](Items/README.md#eversmoking-bottle)*
 
 Note that Furkas Xoud retreats almost immediately.
 
 ### F37. The Pyrolitic Spire (120 XP, Severe Threat)
 
 - **Creatures:**
-  - 2x [Robotic Apprentice^]() - Lv 11
+  - 2x [Robotic Apprentice^](Creatures/README.md#robotic-apprentice)
 - **Loot:**
-  - some moni in the form of lab components (10 Bulk)
-  - some moni in the form of journals (2 bulk)
-    - Decipher Writing can be used on the journals if the character knows Androffan to gain a +2 circumstance bonus on Recall Knowledge checks with Engineering Lore, Swarm Lore and Air Lore.
+  <!-- - some moni in the form of lab components (10 Bulk) -->
+  - Scholarly Journals (2 bulk)
+    - Decipher Writing can be used on the journals if the character knows Androffan to gain a +2 circumstance bonus on Recall Knowledge checks with Engineering Lore, Swarm Lore and  Air Lore.
   - 120x Silverdisks
   - 4x [Ion Tape^](/Technology%20Guide/Gear/README.md#ion-tape)
   - 2x [Zipstick^](/Technology%20Guide/Gear/README.md#zipstick)
@@ -428,11 +438,13 @@ Note that Furkas Xoud retreats almost immediately.
   - 2x [Nanite Canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
   - 1x [Timeworn Fire Extinguisher^](/Technology%20Guide/Gear/README.md#fire-extinguisher)
   - 3x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [gaseous form](https://2e.aonprd.com/Spells.aspx?ID=129)*
-  - 1x horn of fog
-  - 1x *[Bottle of Air]()*
+  - 1x [*horn of fog*](https://2e.aonprd.com/Equipment.aspx?ID=258)
+  - 1x *[bottled air](https://2e.aonprd.com/Equipment.aspx?ID=250)*
   - 1x [orichalcum](https://2e.aonprd.com/Equipment.aspx?ID=276) rod that opens the door to the dungeons in area [F23.](#f23-master-bedroom-152-xp-extreme-threat)
 
 ## G. Choking Tower Dungeon
+
+<!-- Players are now level 11, even without reaching F37 -->
 
 ### G2. Conjuration Preparation
 
@@ -444,45 +456,47 @@ Note that Furkas Xoud retreats almost immediately.
 ### G3. Conjuration Chamber (60 XP, Low Threat)
 
 - **Creatures:**
-  - 1x Cavavenchian - a leukodaemon bumped up to level 12 https://2e.aonprd.com/Monsters.aspx?ID=90
+  - 1x [Cavavenchian^](Creatures/README.md#cavavenchian)
 
 ### G4. Wind Tunnel (90 XP, Moderate Threat)
 
 - **Creatures:**
-  - 3x Belkers (bump up to level 10) https://2e.aonprd.com/Monsters.aspx?ID=648
+  - 3x [Advanced Belker^](Creatures/README.md#advanced-belker)
 
 ### G5. Shrine to Zyphus (60 XP, Low Threat)
 
 - **Skills:**
-  - **Recall Knowledge (Religion): DC15 -** To recognise the room as a shrine to Zyphus.
+  - **Recall Knowledge (Religion): DC17 -** To recognise the room as a shrine to Zyphus.
 - **Creatures:**
-  - 1x deathtrap ooze - lvl 12
+  - 1x [Deathtrap Ooze^](Creatures/README.md#deathtrap-ooze)
+
+The deathtrap ooze is currently in its Trap Form as a [Bone-Scything Lash^](Hazards/README.md#bone-scything-lash).
 
 ### G6. Escape Tunnel
 
 - **Skills:**
-  - **Seek (Perception): DC20 -** To notice this section appears to be different than the surrounding wall.
+  - **Seek (Perception): DC 30 -** To notice this section appears to be different than the surrounding wall.
 
 ### G7. Hive Mind Research (80 XP, Moderate Threat)
 
 - **Creatures:**
   - 1x Narvin Haruvex, a Weak [Worm That Walks](https://2e.aonprd.com/Monsters.aspx?ID=864)
 - **Loot:**
-  - 3x *[Hivebrain Parasite^]()*
-  - 1x [Nutrient Training Node^]()
+  - 3x *[Cognitive Mutagen (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=87)*
+  - 1x [Nutrient Training Node^](Items/README.md#nutrient-training-node)
 
 ### G8. Smoke Furnace
 
 - **Skills:**
-  - **Disable a Device (Perception): DC35 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
-  - **Force Open (Athletics): DC40 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
-  - **Recall Knowledge (Engineering Lore): DC 25 -** To know that using a [nanite canister^](/Technology%20Guide/Gear/README.md#nanite-canister) on the door can reduce the above DCs to open it by 15.
-- **XP Award:** Grant the PCs 200 XP when they manage to open the door to [G9.](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
+  - **Disable a Device (Thievery): DC 35 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
+  - **Force Open (Athletics): DC 40 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
+  - **Recall Knowledge (Engineering Lore): DC 25 -** To know that using a [nanite canister^](/Technology%20Guide/Gear/README.md#nanite-canister) on the door can reduce the above DCs to open it by 5.
+- **XP Award:** Grant the PCs 40 XP when they manage to open the door to [G9.](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
 
 ### G9. Lab Zero: Mnemotechnic Recovery (160 XP, Extreme Threat)
 
 - **Creatures:**
-  - 1x [Thought Harvester Robot^]()
+  - 1x [Thought Harvester Robot^](Creatures/README.md#thought-harvester-robot)
   - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
 
 Here is the only place where Furkas Xoud fights to the (re)death.
@@ -490,19 +504,19 @@ Here is the only place where Furkas Xoud fights to the (re)death.
 - **Loot:**
   - 1x [Scatterlight Suit^](/Technology%20Guide/Armor/README.md#scatterlight-suit)
   - 22x [Moderate Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
-  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [EMP Pistol^](/Technology%20Guide/Weapons/README.md#emp-pistol)*
-  - 1x [Laser Sight^]() - attached to EMP Pistol
-  - 1x +2 cloak of resistance
-  - 1x goggles of minute seeing
-  - 1x ring of mminor fire resistance
+  - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [EMP Pistol^](/Technology%20Guide/Weapons/README.md#emp-pistol)*
+  - 1x [Laser Sight^](/Technology%20Guide/Gear/README.md#laser-sight) - attached to EMP Pistol
+  - 1x *[ring of maniacal devices](https://2e.aonprd.com/Equipment.aspx?ID=457)*
+  - 1x *[vaporous pipe](https://2e.aonprd.com/Equipment.aspx?ID=2198)*
   - 1x *[brooch of shielding](https://2e.aonprd.com/Equipment.aspx?ID=418)*
-  - 1x *[rod of gripping smoke^]()*
-
-<!-- only 450 xp here -->
+  - 1x *[rod of gripping smoke^](Items/README.md#rod-of-gripping-smoke)*
+- **XP Awards:**
+  - If the PCs lay Furkas Xoud to rest, award them 200 XP. 
+  - If the PCs learn all the relevant information from Casandalee, award them another 200 XP
 
 ## Missions in Numeria
 
-A significant amount of XP remains for the PCs to reach Level 12. The appendix of this book offers three side-quest adventures that can be done after completing the Choking Tower to get them up to that level. For XP advancement purposes this book assumes the players takes on one of these three side-quests before reaching level 12.
+The appendix of this book offers three side-quest adventures that can be done after completing the Choking Tower if a few optional encounters were missed.
 
 ### Black Beacon
 
@@ -518,11 +532,6 @@ A significant amount of XP remains for the PCs to reach Level 12. The appendix o
 
 - **Skills:**
   - **Force Open (Athletics): DC30 -** To pry open the elevator doors without reactivating the ship's systems.
-
-#### A4. Deck Hall
-
-- **Hazards:**
-  - 1x [Sliding Crate^]()
 
 ## Iadenveigh Gazetteer
 
@@ -587,4 +596,44 @@ A significant amount of XP remains for the PCs to reach Level 12. The appendix o
 ### 19. Longbitter Lake
 
 **Creatures:**
-  - 1x [The Rockshell Snipper^]()
+  - 1x [The Rockshell Snipper^](Creatures/README.md#the-rockshell-snipper)
+
+## Iadenveigh Encounters
+
+The following are Low to Moderate Threat encounters for the listed party level.
+
+d%     | Result                                                               | Party Level
+-------|----------------------------------------------------------------------|----------------
+01-04  | 1d4 elite [hodag](https://2e.aonprd.com/Monsters.aspx?ID=701)        | 9
+05-10  | 1d4 elite [cave bear](https://2e.aonprd.com/Monsters.aspx?ID=48)     | 9
+11-13  | 1d4 [totenmaske](https://2e.aonprd.com/Monsters.aspx?ID=829)         | 9
+14-17  | 1 [yaoguai^](Creatures/README.md#yaoguai)                            | 9
+18-21  | 1d12 [withered](https://2e.aonprd.com/Monsters.aspx?ID=1269)         | 9
+22-33  | [Cruel Coven](#cruel-coven-level-9)                                  | 9
+34-36  | 1d4 [guecubu](https://2e.aonprd.com/Monsters.aspx?ID=1184)           | 10
+37-38  | 1d6 elite [jungle drake](https://2e.aonprd.com/Monsters.aspx?ID=161) | 10
+39-43  | 1d4 [treant](https://2e.aonprd.com/Monsters.aspx?ID=29)              | 10
+44-53  | 2 [aurumvorax](https://2e.aonprd.com/Monsters.aspx?ID=558)           | 10
+59-63  | 1d4 elite [hill giant](https://2e.aonprd.com/Monsters.aspx?ID=220)   | 10
+64-73  | Sadistic Necromancer                                                 | 10
+74-77  | 1d4 [tick swarm](https://2e.aonprd.com/Monsters.aspx?ID=827)         | 11
+78-80  | 1d4 [tikbalang](https://2e.aonprd.com/Monsters.aspx?ID=1338)         | 11
+81-83  | 2 [bebilith](https://2e.aonprd.com/Monsters.aspx?ID=568)             | 11
+84-87  | 1d4 [baykok](https://2e.aonprd.com/Monsters.aspx?ID=1076)            | 11
+88-94  | Helpful Hunter                                                       | 11
+95-97  | 1 [athach](https://2e.aonprd.com/Monsters.aspx?ID=556)               | 11
+98-100 | 1 [viper vine](https://2e.aonprd.com/Monsters.aspx?ID=854)           | 11
+
+### Cruel Coven (Level 9)
+
+* 2 elite [annis hag](https://2e.aonprd.com/Monsters.aspx?ID=256)
+* 2 elite [green hag](https://2e.aonprd.com/Monsters.aspx?ID=255)
+
+### Sadistic Necromancer (Level 10)
+
+* 1 elite [pukwudgie](Creatures/README.md#rust-risen)
+* 6 [withered](https://2e.aonprd.com/Monsters.aspx?ID=1269) 
+
+### Helpful Hunter (Level 14, Friendly)
+
+* Jenala, an elite beastkin (leopard) [archery specialist](https://2e.aonprd.com/NPCs.aspx?ID=1452)
