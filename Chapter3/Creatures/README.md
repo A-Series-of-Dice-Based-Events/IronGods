@@ -39,12 +39,30 @@ Seerath is built as a [Scarlet Triad Sniper](https://2e.aonprd.com/NPCs.aspx?ID=
 * 5x [Concussion Grenade^](/Technology%20Guide/Gear/README.md#grenade)
 * 2x [Battery^](/Technology%20Guide/Gear/README.md#battery)
 
+### Cavavenchian
+
+![Cavavenchian](PNGs/Cavavenchian.png)
+
+* [PF2 Tools JSON](PF2Tools/Cavavenchian.json)
+* [PDF](PDFs/Cavavenchian.pdf)
+
+Cavavenchian is a [Leukodaemon](https://2e.aonprd.com/Monsters.aspx?ID=90) scaled up to level 12. It no longer has *[dispel magic]*(https://2e.aonprd.com/Spells.aspx?ID=78) as that would render its trapping useless.
+
 ### Furkas Xoud
 
 ![Furkas Xoud](PNGs/FurkasXoud.png)
 
 * [PF2 Tools JSON](PF2Tools/FurkasXoud.json)
 * [PDF](PDFs/FurkasXoud.pdf)
+
+### The Rockshell Snipper
+
+![The Rockshell Snipper](PNGs/TheRockshellSnipper.png)
+
+* [PF2 Tools JSON](PF2Tools/TheRockshellSnipper.json)
+* [PDF](PDFs/TheRockshellSnipper.pdf)
+
+The Rockshell Snipper is a mutant cryptid variant of a Giant Snapping Turtle
 
 ## New Creatures
 
@@ -115,3 +133,45 @@ Seerath is built as a [Scarlet Triad Sniper](https://2e.aonprd.com/NPCs.aspx?ID=
 
 * [PF2 Tools JSON](PF2Tools/RiotSuppressor.json)
 * [PDF](PDFs/RiotSuppressor.pdf)
+
+### Mihstu
+
+![Mihstu](PNGs/Mihstu.png)
+
+* [PF2 Tools JSON](PF2Tools/Mihstu.json)
+* [PDF](PDFs/Mihstu.pdf)
+
+### Robotic Apprentice
+
+![Robotic Apprentice](PNGs/RoboticApprentice.png)
+
+* [PF2 Tools JSON](PF2Tools/RoboticApprentice.json)
+* [PDF](PDFs/RoboticApprentice.pdf)
+
+### Deathtrap Ooze
+
+![Deathtrap Ooze](PNGs/DeathtrapOoze.png)
+
+* [PF2 Tools JSON](PF2Tools/DeathtrapOoze.json)
+* [PDF](PDFs/DeathtrapOoze.pdf)
+
+### Thought Harvester Robot
+
+![Thought Harvester Robot](PNGs/ThoughtHarvesterRobot.png)
+
+* [PF2 Tools JSON](PF2Tools/ThoughtHarvesterRobot.json)
+* [PDF](PDFs/ThoughtHarvesterRobot.pdf)
+
+### Irradiated Dead
+
+![Irradiated Dead](PNGs/IrradiatedDead.png)
+
+* [PF2 Tools JSON](PF2Tools/IrradiatedDead.json)
+* [PDF](PDFs/IrradiatedDead.pdf)
+
+### Thorgothrel
+
+![Thorgothrel](PNGs/Thorgothrel.png)
+
+* [PF2 Tools JSON](PF2Tools/Thorgothrel.json)
+* [PDF](PDFs/Thorgothrel.pdf)

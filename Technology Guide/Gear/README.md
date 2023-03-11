@@ -201,6 +201,14 @@ Blue grade hologram projectors enable the image to interact with the environment
 
 When used to bind a creature, a few strips of activated ion tape require a successful DC 28 Escape check to break.
 
+## Laser Sight
+
+**Traits** Rare, Light, [Laser^](/Traits/README.md#laser), [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
+
+**Level** 10; **Price** 1000 gp; **Usage** attached to firearm or crossbow (scope); **Bulk** L; **Capacity** 10; **Craft DC** 27
+
+**Activate** (1 action) Interact; **Power Use** 1 charge/hour; **Effect** You activate the laser sight, emitting a low-power laser that paints a small red dot on the target. While this device is activated, all attack rolls made with this weapon gain a +1 circumstance bonus.
+
 ## Magboots
 
 **Level** 4; **Price** 100 gp; **Usage** worn shoes; **Bulk** 1; **Craft DC** 20

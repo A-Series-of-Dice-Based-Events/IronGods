@@ -25,9 +25,12 @@ To see an overview of the traits that were added, please click [here](/Traits/RE
   * [Identify Technology](#identify-technology)
   * [Identify Pharmaceutical](#identify-pharmaceutical)
 * [New Spells](#new-spells)
-  * [Technomancy](#technomancy)
   * [Detect Radiation](#detect-radiation)
+  * [Irradiate](#irradiate)
   * [Rebuke Technology](#rebuke-technology)
+  * [Recharge](#recharge)
+  * [Remove Radioactivity](#remove-radioactivity)
+  * [Technomancy](#technomancy)
 * [Color Grading](#color-grading)
 * [Timeworn Technology](#timeworn-technology)
 * [Technological Radiation](#technological-radiation)
@@ -202,10 +205,10 @@ Whenever a creature enters or starts their turn in an area of technological radi
 
 Intensity | Fort DC | Drained value | Radiation Poisoning
 ----------|---------|---------------|--------------------
-Low       | 13      | 1             | Stage 1
-Medium    | 17      | 2             | Stage 2
-High      | 22      | 3             | Stage 3
-Severe    | 30      | 4             | Stage 5
+Low       | 20      | 1             | Stage 1
+Medium    | 25      | 2             | Stage 2
+High      | 30      | 3             | Stage 3
+Severe    | 35      | 4             | Stage 5
 
 ### Radiation Poisoning
 

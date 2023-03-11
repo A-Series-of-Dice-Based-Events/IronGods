@@ -46,8 +46,24 @@ You take a number of hours equal to a piece of cybertech's Implantation score to
 
 **Traits** Rare, Cybertech, [Tech^](/Traits/README.md#tech)
 
-**Level** 5; **Price** 120 gp; **Slot** brain; **Bulk** L; **Install DC** 30; **Implanatation** 1; **Craft DC** 28
+**Level** 5; **Price** 120 gp; **Slot** brain; **Bulk** L; **Install DC** 30; **Implantation** 1; **Craft DC** 28
 
 A skillslot requires a [skillchip](../Gear/README.md#skillchip) to be inserted for it to provide any effect to the person it is installed in.
 
 It takes 10 minutes for a skillchip to adjust itself to a new skillslot; during this time, the user is considered fascinated on the new sensations flooding their mind. When a skillchip is removed, its benefits end immediately, but the wearer suffers no ill effects.
+
+### Wirejack Tendons
+
+**Traits** Rare, Cybertech, [Tech^](/Traits/README.md#tech)
+
+**Level** 11; **Price** 1,500 gp; **Slot** body; **Bulk** L; **Install DC** 35; **Implantation** 4; **Craft DC** 33
+
+Once installed, wirejack tendons grant a constant +2 item bonus to Acrobatics checks, Stealth checks, Thievery checks and Reflex saves.
+
+#### Wirejack Tendons (Greater)
+
+**Traits** Rare, Apex, Cybertech, [Tech^](/Traits/README.md#tech)
+
+**Level** 17; **Price** 25,000 gp; **Slot** body; **Bulk** L; **Install DC** 43; **Implantation** 10; **Craft DC** 41
+
+The item bonus is now +3. In addition, increase your dexterity score by +2 or increase it to 18, whichever is higher.
