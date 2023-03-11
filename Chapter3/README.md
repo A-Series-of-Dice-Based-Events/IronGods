@@ -103,7 +103,7 @@ The door to this room has been repaired and only needs a single Interact action 
   - **Recall Knowledge (Engineering Lore): DC 30 -** To recognise the components here were intended to create a long-range communication device.
   - **Recall Knowledge (Extraterrestrial Lore): DC 30 -** To understand the meaning of Seerath's panic about the Dominion of the Black.
 - **Loot:**
-  - 3x [Timeworn Commset^](/Technology%20Guide/Gear/README.md#commset)
+  - 3x Destroyed [Timeworn Commset^](/Technology%20Guide/Gear/README.md#commset)
 
 ### A6. Android Barracks (40 XP, Low Threat)
 
@@ -201,7 +201,6 @@ The information gotten will be on page 26 of *[Pathfinder Adventure Path #87: Th
 - **Loot:** Hill giant's bag
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [mithral](https://2e.aonprd.com/Equipment.aspx?ID=377) [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=47)*
   - 1x *[wondrous figurine (bisumuth leopards)](https://2e.aonprd.com/Equipment.aspx?ID=270)*
-  - 1x *[pink rhomboid aeon stone](https://2e.aonprd.com/Equipment.aspx?ID=407)*
 
 ### D. Longdreamer's Lair (80 XP, Moderate Threat)
 
@@ -216,7 +215,10 @@ The information gotten will be on page 26 of *[Pathfinder Adventure Path #87: Th
 
 ## Part 4: Below a Smoke-filled Sky
 
-<!-- Players are level 10 now. They have gained over 11,000 gp in loot. -->
+<!-- Players are level 10 now. -->
+
+**NB:** The loose loot entries such as the tapestries in F23 or the alchemical components in F29 have been purposefully omitted as the amount of treasure the PCs already overwhelms the expected loot rewards for the level progression. GMs with kleptomaniac PCs can either say the loot is ruined from smoke and experimentation, or just forbid them to offload it at Iadenveigh due to the peoples' superstitions.
+
 
 ### F1. Choking Tower Entrance
 
@@ -271,8 +273,6 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 
 - **Creatures:**
   - 3x [Gearghost^](/Chapter2/Creatures/README.md#gearghost)
-<!-- - **Loot:**
-  - moni in the form of gold leaf stripped from furniture, silverware and other valuables looted from the tower. -->
 
 ### F10. Supply Closet
 
@@ -301,7 +301,6 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Creatures:**
   - 2x [Mihstu^](Creatures/README.md#mihstu)
 - **Treasures:** Dead dwarf
-  <!-- - some moni -->
   - 1x [Pearlescent Pyramid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)
 
 ### F17. Lab 3: Gaseous Ooze Research (100 XP, Moderate Threat)
@@ -338,8 +337,6 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 
 - **Hazards:**
   - 1x [Shocking Door^](Hazards/README.md#shocking-door)
-<!-- - **Loot:** Fine tapestries
-  - some moni -->
 - **Loot:** Secret Shelf
   - 3 spellbooks. Contains all spells Furkas Xoud has prepared and an additional:
     - 1 6th-level spell
@@ -353,11 +350,6 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
   - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
 
 Note that Furkas Xoud retreats after taking 30 damage.
-
-<!-- ### F24. Ornate Bath Chamber
-
-- **Loot:** Colognes
-  - some moni -->
 
 ### F26. Private Study (60 XP, Low Threat)
 
@@ -391,11 +383,6 @@ Note that Furkas Xoud retreats after taking 30 damage.
 - **Creatures**
   - 1x [Weak Animated Trebuchet](https://2e.aonprd.com/Monsters.aspx?ID=1065&Weak=true)
 
-<!-- ### F31. Lab 6: Technic Research
-
-- **Loot:** Table
-  - some moni in the form of skymetal circuits and tools -->
-
 ### F32. Trapped Robotics Storage (40 XP, Moderate Threat)
 
 - **Hazards:**
@@ -428,7 +415,6 @@ Note that Furkas Xoud retreats almost immediately.
 - **Creatures:**
   - 2x [Robotic Apprentice^](Creatures/README.md#robotic-apprentice)
 - **Loot:**
-  <!-- - some moni in the form of lab components (10 Bulk) -->
   - Scholarly Journals (2 bulk)
     - Decipher Writing can be used on the journals if the character knows Androffan to gain a +2 circumstance bonus on Recall Knowledge checks with Engineering Lore, Swarm Lore and  Air Lore.
   - 120x Silverdisks
@@ -518,20 +504,80 @@ Here is the only place where Furkas Xoud fights to the (re)death.
 
 The appendix of this book offers three side-quest adventures that can be done after completing the Choking Tower if a few optional encounters were missed.
 
-### Black Beacon
+### Black Beacon (Level 9)
 
 - **Skills:**
-  - **Climb (Athletics): DC25 -** To scale the shattered dome of the submerged ship.
+  - **Climb (Athletics): DC 30 -** To scale the shattered dome of the submerged ship.
 
 #### A1. Observatory
 
 - **Skills:**
-  - **Recall Knowledge (Engineering Lore): DC25 -** To reactivate some of the ship's systems with a battery charge.
+  - **Recall Knowledge (Engineering Lore): DC 25 -** To reactivate some of the ship's systems with a battery charge.
 
 #### A2. Elevators
 
 - **Skills:**
-  - **Force Open (Athletics): DC30 -** To pry open the elevator doors without reactivating the ship's systems.
+  - **Force Open (Athletics): DC 30 -** To pry open the elevator doors without reactivating the ship's systems.
+
+#### A3. Stasis Chamber (60 XP, Low Threat)
+
+- **Creatures:**
+  - 1x [Thorgothrel^](Creatures/README.md#thorgothrel)
+
+#### A4. Deck Hall (8 XP, Trivial Threat)
+
+- **Hazards:**
+  - [Falling Crate^]()
+
+#### A6. Galvo Lair (60 XP, Low Threat)
+
+- **Creatures:**
+  - 1x Elite [Galvo](https://2e.aonprd.com/Monsters.aspx?ID=1160&Elite=true)
+
+#### A7. Escape Pods
+
+- **Loot:**
+  - 1x Recipe for a [Firefly](https://2e.aonprd.com/Vehicles.aspx?ID=26)
+
+### Demons of Dravod Knock (Level 10)
+
+#### B2. Ruined Tower
+
+- **Loot:**
+  - 135 gp in gems
+
+#### B4. Cellars (12 XP, Trivial Threat)
+
+- **Hazards:**
+  - 4x Falling Barrel Trap - use the same stats as a [Boulder Deadfall Trap](https://2e.aonprd.com/Hazards.aspx?ID=93)
+- **Creatures:**
+  - 4x [Quasits](https://2e.aonprd.com/Monsters.aspx?ID=97)
+  - 3x [Nuglubs](https://2e.aonprd.com/Monsters.aspx?ID=689)
+
+#### B5. Barn  (130 XP, Severe Threat)
+
+- **Creatures:**
+  - 1x Elite [Succubus](https://2e.aonprd.com/Monsters.aspx?ID=98)
+  - 1x Diara Belgroom, an Elite [Cult Leader](https://2e.aonprd.com/NPCs.aspx?ID=930)
+  - 6x Elite [Monster Hunters](https://2e.aonprd.com/NPCs.aspx?ID=924). 3 are upstairs in B6.
+
+### Scars of the Past (Level 11)
+
+#### C1. Old Huts (60 XP, Low Threat)
+
+- **Creatures:**
+  - 3x [Clockwork Buccaneers](https://2e.aonprd.com/Monsters.aspx?ID=1980)
+
+#### C5. Cavern (15 XP, Trivial Threat)
+
+- **Creatures:**
+  - 1x [Clockwork Steed^]()
+
+#### C6. Cavern Lookout (120 XP, Severe Threat)
+
+- **Creatures:**
+  - 1x Ikina Cragstorm - Use the same stats as [Amiri](https://2e.aonprd.com/NPCs.aspx?ID=2389)
+  - 2x Weak [Clockwork Puppeteers](https://2e.aonprd.com/Monsters.aspx?ID=1981)
 
 ## Iadenveigh Gazetteer
 
@@ -615,12 +661,12 @@ d%     | Result                                                               | 
 39-43  | 1d4 [treant](https://2e.aonprd.com/Monsters.aspx?ID=29)              | 10
 44-53  | 2 [aurumvorax](https://2e.aonprd.com/Monsters.aspx?ID=558)           | 10
 59-63  | 1d4 elite [hill giant](https://2e.aonprd.com/Monsters.aspx?ID=220)   | 10
-64-73  | Sadistic Necromancer                                                 | 10
+64-73  | [Sadistic Necromancer](#sadistic-necromancer-level-10)               | 10
 74-77  | 1d4 [tick swarm](https://2e.aonprd.com/Monsters.aspx?ID=827)         | 11
 78-80  | 1d4 [tikbalang](https://2e.aonprd.com/Monsters.aspx?ID=1338)         | 11
 81-83  | 2 [bebilith](https://2e.aonprd.com/Monsters.aspx?ID=568)             | 11
 84-87  | 1d4 [baykok](https://2e.aonprd.com/Monsters.aspx?ID=1076)            | 11
-88-94  | Helpful Hunter                                                       | 11
+88-94  | [Helpful Hunter](#helpful-hunter-level-14-friendly)                  | 11
 95-97  | 1 [athach](https://2e.aonprd.com/Monsters.aspx?ID=556)               | 11
 98-100 | 1 [viper vine](https://2e.aonprd.com/Monsters.aspx?ID=854)           | 11
 
