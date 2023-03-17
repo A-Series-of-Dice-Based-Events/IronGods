@@ -15,7 +15,7 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 * [PF2 Tools JSON](PF2Tools/IlarrisZeleshi.json)
 * [PDF](PDFs/IlarrisZeleshi.pdf)
 
-Ilarris is built like [Mialari Docur](https://2e.aonprd.com/NPCs.aspx?ID=1561) but as a Magus. She cannot cast 5th level spells because if she could she could've just cast [*sending*](https://2e.aonprd.com/Spells.aspx?ID=272) and her cover wouldn't have been blown by the mechanical bird.
+Ilarris cannot cast 5th level spells because if she could she could've just cast [*sending*](https://2e.aonprd.com/Spells.aspx?ID=272) and her cover wouldn't have been blown by the mechanical bird.
 
 Ilarris' spellbook contains the following spells in addition to the ones she has prepared:
 
